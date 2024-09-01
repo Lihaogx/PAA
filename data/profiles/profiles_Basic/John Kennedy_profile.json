@@ -1,0 +1,25 @@
+{
+    "Name": "John Kennedy",
+    "Profile": {
+        "Public Office": {
+            "United States Senatorfrom Louisiana": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 3, 2017Serving with Bill Cassidy",
+                "Preceded by": "David Vitter"
+            },
+            "Treasurer of Louisiana": {
+                "In office": "January 10, 2000 – January 3, 2017",
+                "Governor": "Mike Foster,Kathleen Blanco,Bobby Jindal,John Bel Edwards",
+                "Preceded by": "Ken Duncan",
+                "Succeeded by": "John Schroder"
+            },
+            "Secretary of the Louisiana Department of Revenue": {
+                "In office": "January 8, 1996 – April 30, 1999",
+                "Governor": "Mike Foster",
+                "Succeeded by": "Brett Crawford"
+            }
+        }
+    },
+    "UnusedVotingRecords": [],
+    "VotingRecord": []
+}

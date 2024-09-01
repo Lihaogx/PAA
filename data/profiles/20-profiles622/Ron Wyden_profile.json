@@ -1,0 +1,808 @@
+{
+    "Name": "Ron Wyden",
+    "Profile": {
+        "Public Office": {
+            "United States Senatorfrom Oregon": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "February 6, 1996Serving with Jeff Merkley",
+                "Preceded by": "Bob Packwood"
+            },
+            "Chair of the Senate Finance Committee": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "February 3, 2021",
+                "Preceded by": "Max Baucus",
+                "In office": "February 12, 2014 – January 3, 2015",
+                "Succeeded by": "Orrin Hatch"
+            },
+            "Ranking Member of the Senate Finance Committee": {
+                "In office": "January 3, 2015 – February 3, 2021",
+                "Preceded by": "Orrin Hatch",
+                "Succeeded by": "Mike Crapo"
+            },
+            "Chair of the Senate Energy Committee": {
+                "In office": "January 3, 2013 – February 12, 2014",
+                "Preceded by": "Jeff Bingaman",
+                "Succeeded by": "Mary Landrieu"
+            },
+            "Member of the U.S. House of Representativesfrom Oregon's 3rd district": {
+                "In office": "January 3, 1981 – February 5, 1996",
+                "Preceded by": "Robert B. Duncan",
+                "Succeeded by": "Earl Blumenauer",
+                "District Info": {
+                    "Median householdincome": "",
+                    "Distribution": "",
+                    "Population": "",
+                    "Ethnicity": ""
+                }
+            }
+        },
+        "Personal Details": {
+            "Personal details": {
+                "Born": "Ronald Lee Wyden, (,1949-05-03,) ,May 3, 1949, (age 73),Wichita, Kansas,, U.S.",
+                "Political party": "Democratic",
+                "Spouse(s)": "Laurie Oseran, ,, ,,(,m., 1979; ,div., 1999),, ,Nancy Bass, ,,(,m., 2005),",
+                "Relations": "Franz Weidenreich, (grand-uncle)",
+                "Children": "5",
+                "Parent": "Peter H. Wyden, (father)",
+                "Education": "Stanford University, (,BA,),University of Oregon, (,JD,)",
+                "Signature": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/RonWydenSignature.svg/128px-RonWydenSignature.svg.png",
+                "Website": "Senate website"
+            }
+        }
+    },
+    "UnusedVotingRecords": [
+        {
+            "Bill Number": "S.J.Res. 15 (117th)",
+            "First Name": "Ron Wyden",
+            "Vote": "Yea",
+            "Bill Number.1": "S.J.Res. 15 (117th)",
+            "Bill Name": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of Currency relating to \\u201cNational Banks and Federal Savings Association",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S. 914 (117th)",
+            "First Name": "Ron Wyden",
+            "Vote": "Yea",
+            "Bill Number.1": "S. 914 (117th)",
+            "Bill Name": "Drinking Water and Wastewater Infrastructure Act of 2021",
+            "Summary": "This bill reauthorizes through FY2026 or establishes a variety of programs for water infrastructure. Specifically, it supports programs to provide safe drinking water or treat wastewater, such as sewer overflows or stormwater. For example, the bill reauthorizes and revises the clean water state revolving fund (SRF) and the drinking water SRF.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.J.Res. 14 (117th)",
+            "First Name": "Ron Wyden",
+            "Vote": "Yea",
+            "Bill Number.1": "S.J.Res. 14 (117th)",
+            "Bill Name": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \\u201cOil and Natural Gas Sector: Emission Standards for N",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S. 937 (117th)",
+            "First Name": "Ron Wyden",
+            "Vote": "Yea",
+            "Bill Number.1": "S. 937 (117th)",
+            "Bill Name": "COVID-19 Hate Crimes Act",
+            "Summary": "This bill requires a designated officer or employee of the Department of Justice (DOJ) to facilitate the expedited review of hate crimes and reports of hate crimes.DOJ must issue guidance for state, local, and tribal law enforcement agencies on establishing online hate crime reporting processes, collecting data disaggregated by protected characteristic (e.g., race or national origin), and expanding education campaigns.Additionally, DOJ and the Department of Health and Human Services must issue guidance aimed at raising awareness of hate crimes during the COVID-19 (i.e., coronavirus disease 2019) pandemic.The bill establishes grants for states to create state-run hate crimes reporting hotlines. It also authorizes grants for states and local governments to implement the National Incident-Based Reporting System and to conduct law enforcement activities or crime reduction programs to prevent, address, or respond to hate crimes.Finally, in the case of an individual convicted of a hate crime offense and placed on supervised release, the bill allows a court to order that the individual participate in educational classes or community service as a condition of supervised release.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 125 (Sullivan) to H.R. 3746",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 3746",
+            "Bill Name": "Fiscal Responsibility Act of 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 106 (Cotton) to H.R. 3746",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 3746",
+            "Bill Name": "Fiscal Responsibility Act of 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 134 (Budd) to H.R. 3746",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 3746",
+            "Bill Name": "Fiscal Responsibility Act of 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 101 (Kaine) to H.R. 3746",
+            "First Name": "Ron Wyden",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 3746",
+            "Bill Name": "Fiscal Responsibility Act of 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 98 (Lee) to H.R. 3746",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 3746",
+            "Bill Name": "Fiscal Responsibility Act of 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 93 (Hawley) to H.R. 3746",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 3746",
+            "Bill Name": "Fiscal Responsibility Act of 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 104 (Kennedy) to H.R. 3746",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 3746",
+            "Bill Name": "Fiscal Responsibility Act of 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 110 (Marshall) to H.R. 3746",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 3746",
+            "Bill Name": "Fiscal Responsibility Act of 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 91 (Braun) to H.R. 3746",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 3746",
+            "Bill Name": "Fiscal Responsibility Act of 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 107 (Paul) to H.R. 3746",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 3746",
+            "Bill Name": "Fiscal Responsibility Act of 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        }
+    ],
+    "CosponsoredBills": [
+        {
+            "Bill Number": "S. 1286",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 1286",
+            "Bill Name": "A bill to amend the Siletz Reservation Act to address the hunting, fishing, trapping, and animal gathering activities of the Confederated Tribes of Siletz Indians, and for other purposes.",
+            "Subject Areas": "Native Americans, Public Lands and Natural Resources, Indian lands and resources rights",
+            "Summary": "This bill provides a process by which the Confederated Tribes of Siletz Indians and Oregon may negotiate to amend or replace the existing agreement defining the tribe's hunting, fishing, trapping, and animal gathering rights.The current agreement, which was made effective by a May 2, 1980, consent decree by the U.S. District Court for the District of Oregon, serves as the exclusive and final determination of the tribe's hunting, fishing, trapping, and gathering rights. This bill instead allows an April 22, 1980, agreement between the United States, Oregon, and the tribe (known as the Siletz Agreement) to define the tribe's rights until and unless it is amended or replaced upon mutual agreement of the tribe and Oregon (with specified limitations regarding a new agreement).The bill allows the tribe and Oregon to return to the U.S. District Court for the District of Oregon to request the modification or termination of the May 2, 1980, consent decree."
+        },
+        {
+            "Bill Number": "S. 910",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 910",
+            "Bill Name": "A bill to amend the Grand Ronde Reservation Act, and for other purposes.",
+            "Subject Areas": "Land transfers, Oregon",
+            "Summary": "This bill revises the land claims of the Confederated Tribes of the Grand Ronde Community of Oregon. In particular, the bill specifies that only the tribe's claims to the 84 acres of land known as the Thompson Strip, rather than the tribe's claims to any lands within Oregon, are extinguished.Additionally, the bill prohibits gaming on any real property obtained by the tribe as part of a land claim settlement approved by the United States, including any real property purchased with funds granted as part of any land claim settlement."
+        },
+        {
+            "Bill Number": "S. 305",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 305",
+            "Bill Name": "250th Anniversary of the United States Marine Corps Commemorative Coin Act",
+            "Subject Areas": "Military personnel and dependents",
+            "Summary": "This bill directs the Department of the Treasury to mint and issue not more than 50,000 $5 gold coins, 400,000 $1 silver coins, and 750,000 half-dollar clad coins emblematic of the 250th anniversary of the United States Marine Corps.All surcharges received by Treasury from the sale of such coins must be paid to the Marine Corps Heritage Foundation and shall only be used for the purposes of supporting the mission of the Marine Corps Heritage Center."
+        },
+        {
+            "Bill Number": "S. 450 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 450 (117th)",
+            "Bill Name": "Emmett Till and Mamie Till-Mobley Congressional Gold Medal Act of 2021",
+            "Subject Areas": "Racial and ethnic relations, Smithsonian Institution, U.S. history",
+            "Summary": NaN
+        },
+        {
+            "Bill Number": "S. 1541 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 1541 (117th)",
+            "Bill Name": "Martha Wright-Reed Just and Reasonable Communications Act of 2022",
+            "Subject Areas": "Science, Technology, Communications, Consumer affairs, Correctional facilities and imprisonment, Telecommunication rates and fees, Telephone and wireless communication",
+            "Summary": "This bill requires the Federal Communications Commission to ensure that charges for payphone services, including advanced (e.g., audio or video) communications services in correctional institutions, are just and reasonable."
+        },
+        {
+            "Bill Number": "S. 3405 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 3405 (117th)",
+            "Bill Name": "Low Power Protection Act",
+            "Subject Areas": NaN,
+            "Summary": "This bill provides for a one-year period during which eligible low-power television stations may apply to the Federal Communications Commission (FCC) for Class A licenses. To be eligible, a station must serve a media market with a limited number of television households, broadcast a minimum number of hours, and meet other requirements.A low-power station with a Class A license obtains certain broadcast rights, including primary status with respect to its allocation of the electromagnetic spectrum. (Typically, low-power stations have secondary status and may be displaced from their spectrum in the event the FCC reallocates it to a primary user.)"
+        },
+        {
+            "Bill Number": "S. 2607 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 2607 (117th)",
+            "Bill Name": "Iran Hostages Congressional Gold Medal Act",
+            "Subject Areas": "International Affairs, Congressional tributes, Detention of persons, Diplomacy, foreign officials, Americans abroad, Iran, Middle East, Museums, exhibitions, cultural centers, Smithsonian Institution",
+            "Summary": "This bill provides for the award of a Congressional Gold Medal to the 53 hostages of the Iran Hostage Crisis (November 4, 1979-January 21, 1981) in recognition of their bravery and endurance throughout their captivity."
+        },
+        {
+            "Bill Number": "S. 1466 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 1466 (117th)",
+            "Bill Name": "Saline Lake Ecosystems in the Great Basin States Program Act of 2022",
+            "Subject Areas": "California, Climate change and greenhouse gases, Congressional oversight, Environmental assessment, monitoring, research, Government studies and investigations, Hydrology and hydrography, Idaho, Lakes and rivers, Nevada, Oregon, Water quality, Water use and supply, Wildlife conservation and habitat protection, Wyoming",
+            "Summary": NaN
+        },
+        {
+            "Bill Number": "S. 314 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 314 (117th)",
+            "Bill Name": "Klamath Tribe Judgment Fund Repeal Act",
+            "Subject Areas": "Native Americans, Indian claims, Legal fees and court costs, Oregon",
+            "Summary": NaN
+        },
+        {
+            "Bill Number": "S. 3092 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 3092 (117th)",
+            "Bill Name": "FIRE Act",
+            "Subject Areas": "Emergency planning and evacuation, Fires, Forests, forestry, trees, Government studies and investigations, Homelessness and emergency shelter, Intergovernmental relations",
+            "Summary": NaN
+        },
+        {
+            "Bill Number": "S. 3369 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 3369 (117th)",
+            "Bill Name": "Max Cleland VA Medical Center Act",
+            "Subject Areas": "Armed Forces and National Security, Congressional tributes, Department of Veterans Affairs, Georgia, Government buildings, facilities, and property, Health facilities and institutions, Veterans' medical care",
+            "Summary": NaN
+        },
+        {
+            "Bill Number": "S. 4587 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 4587 (117th)",
+            "Bill Name": "Benjamin Berell Ferencz Congressional Gold Medal Act",
+            "Subject Areas": "International Affairs",
+            "Summary": "This bill provides for the award of a Congressional Gold Medal to Benjamin Berell Ferencz in recognition of his service to the United States and the international community during the post-World War II Nuremberg trials and his lifelong advocacy for international criminal justice and the rule of law."
+        },
+        {
+            "Bill Number": "S. 3580 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 3580 (117th)",
+            "Bill Name": "Ocean Shipping Reform Act of 2022",
+            "Subject Areas": "Transportation and Public Works, Administrative law and regulatory procedures, Administrative remedies, Alternative dispute resolution, mediation, arbitration, Cardiovascular and respiratory health, Civil actions and liability, Competition and antitrust, Competitiveness, trade promotion, trade deficits, Contracts and agency, Emergency medical services and trauma care, Federal Maritime Commission, Government information and archives, Government studies and investigations, Hazardous wastes and toxic substances, Infectious and parasitic diseases, Licensing and registrations, Marine and inland water transportation, Marine pollution, Motor carriers, Navigation, waterways, harbors, Public participation and lobbying, Railroads, Technology assessment, Transportation costs, Transportation employees, Transportation programs funding, Transportation safety and security",
+            "Summary": NaN
+        },
+        {
+            "Bill Number": "S. 1872 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 1872 (117th)",
+            "Bill Name": "United States Army Rangers Veterans of World War II Congressional Gold Medal Act",
+            "Subject Areas": "Museums, exhibitions, cultural centers, Smithsonian Institution, Veterans' organizations and recognition",
+            "Summary": "This bill provides for the award of a single Congressional Gold Medal to the U.S. Army Rangers Veterans of World War II in recognition of their dedicated service during World War II."
+        },
+        {
+            "Bill Number": "S. 2102 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 2102 (117th)",
+            "Bill Name": "Dr. Kate Hendricks Thomas SERVICE Act",
+            "Subject Areas": "Cancer, Conflicts and wars, Congressional oversight, Djibouti, Egypt, Fires, Hazardous wastes and toxic substances, Iraq, Jordan, Kuwait, Lebanon, Medical tests and diagnostic methods, Middle East, Military operations and strategy, Qatar, Saudi Arabia, Solid waste and recycling, Syria, Veterans' medical care, Women's health, Yemen",
+            "Summary": "This bill expands eligibility for Veterans Health Administration mammography screenings to veterans who served in certain locations during specified periods, including those who were exposed to toxic substances at such locations.The specified locations and corresponding time periods include Iraq between August 2, 1990, and February 28, 1991, and from March 19, 2003, until burn pits (areas used for burning solid waste in open air without equipment) are no longer used in Iraq; the Southwest Asia theater of operations, including Kuwait, Saudi Arabia, Oman, and Qatar, from August 2, 1990, until burn pits are no longer used in such locations; Afghanistan, Djibouti, Syria, Jordan, Egypt, Lebanon, and Yemen from September 11, 2001, until burn pits are no longer used in such locations; and other locations and time periods as determined by the Airborne Hazards and Open Burn Pit Registry. The bill specifies that the listed locations do not include bodies of water around or airspace above such locations."
+        },
+        {
+            "Bill Number": "S. 3635 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 3635 (117th)",
+            "Bill Name": "Public Safety Officer Support Act of 2022",
+            "Subject Areas": "Crime and Law Enforcement, Congressional oversight, Disability assistance, Employee benefits and pensions, Fires, First responders and emergency personnel, Government studies and investigations, Law enforcement officers, Mental health, Neurological disorders",
+            "Summary": "This bill extends death and disability benefits under the Public Safety Officers' Benefits Program (PSOB) to certain public safety officers and survivors of public safety officers who suffer from post-traumatic stress disorder or acute stress disorder following a stressful situation while on duty. The PSOB program provides death, disability, and education benefits to public safety officers and survivors of public safety officers who are killed or injured in the line of duty."
+        },
+        {
+            "Bill Number": "S. 1116 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 1116 (117th)",
+            "Bill Name": "Federal Firefighters Fairness Act of 2022",
+            "Subject Areas": "Digestive and metabolic diseases, Disability and paralysis, Disability assistance, Emergency medical services and trauma care, Employee benefits and pensions, Evidence and witnesses, Fires, First responders and emergency personnel, Government employee pay, benefits, personnel management, HIV/AIDS, Hazardous wastes and toxic substances, Health personnel, Infectious and parasitic diseases, Musculoskeletal and skin diseases, Neurological disorders, Worker safety and health",
+            "Summary": "This bill provides federal workers' compensation to firefighters who contract certain illnesses as a result of their service.Specifically, the bill provides that (1) heart disease, lung disease, and specified cancers of federal employees employed in fire protection activities for at least 5 years are presumed to be proximately caused by such employment if the employee is diagnosed with the disease within 10 years of employment; and (2) the disability or death of the employee due to such disease is presumed to result from personal injury sustained in the performance of duty. These presumptions also apply to fire protection employees (regardless of the length of employment) who contract any communicable disease at the center of a designated pandemic or any chronic infectious disease that the Department of Labor determines is related to job-related hazards. An employee in fire protection activities is a firefighter, paramedic, emergency medical technician, rescue worker, ambulance personnel, or hazardous material worker, who (1) is trained in fire suppression; (2) has the legal authority and responsibility to engage in fire suppression; (3) is engaged in the prevention, control, and extinguishment of fires or response to emergency situations where life, property, or the environment is at risk; and (4) performs such activities as a primary responsibility."
+        },
+        {
+            "Bill Number": "S. 1596 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 1596 (117th)",
+            "Bill Name": "Greatest Generation Memorial Act",
+            "Subject Areas": "Finance and Financial Sector, Conflicts and wars, Currency, Military history, Monuments and memorials, U.S. history, Veterans' organizations and recognition",
+            "Summary": "This bill directs the Department of the Treasury to mint and issue up to 50,000 $5 coins, 400,000 $1 silver coins, and 750,000 half-dollar clad coins in commemoration of the National World War II Memorial in the District of Columbia.The design of the coins shall be emblematic of the memorial and the service and sacrifice of American soldiers and civilians during World War II.All surcharges received from the sale of such coins shall be paid to the Friends of the National World War II Memorial to support the National Park Service in maintaining and repairing the memorial, and for educational and commemorative programs."
+        },
+        {
+            "Bill Number": "S. 120 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 120 (117th)",
+            "Bill Name": "Safe Connections Act of 2021",
+            "Subject Areas": "Crime and Law Enforcement, Science, Technology, Communications, Administrative law and regulatory procedures, Assault and harassment offenses, Business records, Civil actions and liability, Congressional oversight, Consumer affairs, Crime victims, Crimes against women, Domestic violence and child abuse, Emergency communications systems, Federal Communications Commission (FCC), Government information and archives, Human trafficking, Right of privacy, Sex offenses, Telecommunication rates and fees, Telephone and wireless communication",
+            "Summary": "This bill establishes requirements concerning access to communication services for survivors of domestic violence, human trafficking, and related harms.At a survivor's request, a mobile service provider must separate from a shared mobile service contract the survivor's line (and the line of any individual in the survivor's care) from the abuser's line unless separation is operationally or technologically infeasible. A survivor requesting this must (1) verify through appropriate documentation that an individual under the contract committed or allegedly committed an act of domestic violence, trafficking, or a related criminal act against the survivor; and (2) assume financial responsibility for services after a line separation.A provider may not charge fees or impose other requirements on such requests. Additionally, a provider must separate the line within two business days of receiving a request; allow requests to be made remotely (if feasible); meet conditions related to confidentiality of, disposal of, and other matters concerning communications about requests; and make information about the process for requests available through consumer-facing communications (e.g., websites). The bill (1) provides liability protection for providers' acts or omissions undertaken to comply with such requests, and (2) requires the Federal Communications Commission (FCC) to adopt rules for these requests.Additionally, the FCC must (1) expand access to federally subsidized communication services for survivors facing financial hardship, and (2) evaluate this expanded access.The FCC must also consider rules requiring communication service providers to omit from consumer-facing logs calls and texts to hotlines for domestic violence and similar issues while retaining internal records."
+        },
+        {
+            "Bill Number": "S. 3706 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 3706 (117th)",
+            "Bill Name": "A bill to provide for the application of certain provisions of the Secure Rural Schools and Community Self-Determination Act of 2000 for fiscal year 2021.",
+            "Subject Areas": NaN,
+            "Summary": "This bill extends through FY2021 the inapplicability of the requirement for counties to elect to receive certain payments under the Secure Rural Schools and Community Self-Determination Act of 2000. That act provides compensation to counties for the presence of untaxable federal land within their borders."
+        },
+        {
+            "Bill Number": "S. 697 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 697 (117th)",
+            "Bill Name": "Harriet Tubman Bicentennial Commemorative Coin Act",
+            "Subject Areas": "Finance and Financial Sector, Commemorative events and holidays, Currency, Racial and ethnic relations, U.S. history, Women's rights",
+            "Summary": "This bill directs the Department of the Treasury to mint and issue 50,000 $5 gold coins, 400,000 $1 silver coins, and 750,000 half-dollar clad coins emblematic of the legacy of Harriet Tubman as an abolitionist.The Secretary may issue coins under this bill only during the period of January 1, 2024, through December 31, 2024.All surcharges received by Treasury from the sale of such coins must be paid equally to the National Underground Railroad Freedom Center in Cincinnati, Ohio, and The Harriet Tubman Home, Inc. in Auburn, New York, for the purpose of accomplishing and advancing their missions."
+        },
+        {
+            "Bill Number": "S. 3541 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 3541 (117th)",
+            "Bill Name": "Health Care for Burn Pit Veterans Act",
+            "Subject Areas": "Asia, Bahrain, Cancer, Cardiovascular and respiratory health, Conflicts and wars, Congressional oversight, Department of Veterans Affairs, Disability assistance, Djibouti, Egypt, Fires, Government employee pay, benefits, personnel management, Hazardous wastes and toxic substances, Health information and medical records, Health personnel, Hospital care, Iraq, Jordan, Kuwait, Lebanon, Long-term, rehabilitative, and terminal care, Medical education, Medical research, Medical tests and diagnostic methods, Middle East, Military operations and strategy, Nursing, Qatar, Saudi Arabia, Solid waste and recycling, Somalia, Syria, United Arab Emirates, Veterans' medical care, Veterans' pensions and compensation, Yemen",
+            "Summary": "This bill updates policies and procedures related to Department of Veterans Affairs (VA) health care and benefits for veterans who have been exposed to toxic substances.Specifically, the bill extends the eligibility period for VA hospital care, medical services, and nursing home care for combat veterans who served after September 11, 2001, and were exposed to toxic substances, radiation, or other conditions, including those who did not enroll to receive VA care during the eligibility period.The VA must incorporate into its existing health care screening a screening to help determine potential exposures to toxic substances during military service.Among other requirements, the VA must also provide annual training to health care and benefits personnel with respect to veterans who were exposed to toxic substances; analyze total and respiratory disease mortality in veterans who served in specified locations on specified dates; conduct an epidemiological study on the health trends of veterans who served in the Armed Forces after September 11, 2001; conduct a study to determine trends in the rates of the incidence of cancer in veterans; publish a list of VA resources for veterans who were exposed to toxic substances, families and caregivers of such veterans, and survivors of such veterans who are receiving death benefits; and report on the data quality of the Individual Longitudinal Exposure Record and its usefulness in supporting veterans in receiving VA health care and benefits."
+        },
+        {
+            "Bill Number": "S. 3623 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 3623 (117th)",
+            "Bill Name": "Violence Against Women Act Reauthorization Act of 2022",
+            "Subject Areas": "Crime and Law Enforcement, Administrative remedies, Advisory bodies, Aging, Assault and harassment offenses, Cardiovascular and respiratory health, Child health, Child safety and welfare, Civil actions and liability, Commemorative events and holidays, Computer security and identity theft, Congressional oversight, Crime prevention, Crime victims, Crimes against children, Crimes against women, Criminal investigation, prosecution, interrogation, Criminal justice information and records, Criminal procedure and sentencing, Department of Justice, Detention of persons, Disability and paralysis, Domestic violence and child abuse, Drug, alcohol, tobacco use, Education programs funding, Elementary and secondary education, Emergency medical services and trauma care, Evidence and witnesses, Executive agency funding and structure, Federal officials, Firearms and explosives, Genetics, Government information and archives, Government studies and investigations, Health care coverage and access, Health facilities and institutions, Health information and medical records, Health personnel, Health programs administration and funding, Health promotion and preventive care, Higher education, Homelessness and emergency shelter, Housing and community development funding, Housing supply and affordability, Human trafficking, Indian social and development programs, Infectious and parasitic diseases, Intergovernmental relations, Judicial procedure and administration, Law enforcement administration and funding, Law enforcement officers, Marriage and family status, Medical education, Medical tests and diagnostic methods, Minority health, Nursing, Photography and imaging, Pornography, Rural conditions and development, Separation, divorce, custody, support, Sex offenses, Sex, gender, sexual orientation discrimination, Small business, Smuggling and trafficking, Social work, volunteer service, charitable organizations, State and local courts, State and local government operations, Violent crime, Women's health",
+            "Summary": "This bill modifies and reauthorizes through FY2027 programs and activities under the Violence Against Women Act that seek to prevent and respond to domestic violence, sexual assault, dating violence, and stalking.The bill also authorizes new programs, makes changes to federal criminal laws, and establishes new protections to promote housing stability and economic security for victims of domestic violence, sexual assault, dating violence, and stalking."
+        },
+        {
+            "Bill Number": "S. 452 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 452 (117th)",
+            "Bill Name": "Willie O\\u2019Ree Congressional Gold Medal Act",
+            "Subject Areas": "Racial and ethnic relations",
+            "Summary": NaN
+        },
+        {
+            "Bill Number": "S. 796 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 796 (117th)",
+            "Bill Name": "Protecting Moms Who Served Act of 2021",
+            "Subject Areas": "Government information and archives, Health care costs and insurance, Health care coverage and access, Health information and medical records, Indian social and development programs, Medicaid, Mental health, Military medicine, Military personnel and dependents, Minority health, Poverty and welfare assistance, Sex and reproductive health, Sex offenses, Veterans' loans, housing, homeless programs, Veterans' medical care, Women's employment, Women's health",
+            "Summary": "This bill requires the Department of Veterans Affairs (VA) to implement the maternity care coordination program. The VA must provide community maternity care providers (i.e., non-VA maternity care providers) with training and support with respect to the unique needs of pregnant and postpartum veterans, particularly regarding mental and behavioral health conditions in relation to the service of the veterans in the Armed Forces.Additionally, the Government Accountability Office must report on maternal mortality and severe maternal morbidity among pregnant and postpartum veterans, with a focus on racial and ethnic disparities in maternal health outcomes for veterans."
+        },
+        {
+            "Bill Number": "S. 904 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 904 (117th)",
+            "Bill Name": "Modernizing Access to Our Public Land Act",
+            "Subject Areas": "Public Lands and Natural Resources, Congressional oversight, Digital media, Government information and archives, Hunting and fishing, Land use and conservation, Marine and inland water transportation, Motor vehicles, Outdoor recreation, Parks, recreation areas, trails, Pedestrians and bicycling, Roads and highways",
+            "Summary": "This bill directs the Department of the Interior, the Forest Service, and the U.S. Army Corps of Engineers to jointly develop and adopt interagency standards to ensure compatibility and interoperability among federal databases for the collection and dissemination of certain data.Specifically, these requirements shall apply to outdoor recreation data related to federal lands and used to depict locations at which recreation uses are available to the public.Each such department shall digitize and make publicly available on their websites, as applicable, geographic information system mapping data that specifies, with respect to the relevant department, all federal interests in private land, including easements, reservations, and rights-of-way to which the federal government does not have a fee title interest, and that may be used to provide recreational access to the federal land. Interior, the Forest Service, and the Corps of Engineers must digitize and publish geographic information system mapping data that includes status information as to whether roads and trails are open or closed, the dates on which roads and trails are seasonally opened and closed, the types of vehicles that are allowed on each segment of roads and trails, and the boundaries of areas where hunting or recreational shooting is regulated or closed."
+        },
+        {
+            "Bill Number": "S. 2342 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 2342 (117th)",
+            "Bill Name": "Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021",
+            "Subject Areas": NaN,
+            "Summary": "This bill invalidates arbitration agreements that preclude a party from filing a lawsuit in court involving sexual assault or sexual harassment, at the election of the party alleging such conduct."
+        },
+        {
+            "Bill Number": "S. 3096 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 3096 (117th)",
+            "Bill Name": "Barry Goldwater Scholarship and Excellence in Education Modernization Act",
+            "Subject Areas": "Education",
+            "Summary": "This bill revises the Barry Goldwater Scholarship and Excellence in Education Program.Among other changes, the bill (1) expands program eligibility to undergraduate students who are noncitizens; (2) allows the related foundation to award research internships to outstanding undergraduate students who intend to pursue careers in the natural sciences, engineering, and mathematics; (3) allows students who are awarded such research internships to receive stipends; and (4) authorizes the Department of the Treasury to invest related fund assets in securities other than U.S. public debt securities under certain circumstances."
+        },
+        {
+            "Bill Number": "S. 2756 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 2756 (117th)",
+            "Bill Name": "A bill to posthumously award a Congressional Gold Medal, in commemoration of the service members who perished as a result of the attack in Afghanistan on August 26, 2021, during the evacuation of citizens of the United States and Afghan",
+            "Subject Areas": "Armed Forces and National Security, International Affairs, Afghanistan, Asia, Conflicts and wars, Congressional tributes, Emergency planning and evacuation, Military operations and strategy, Military personnel and dependents, Museums, exhibitions, cultural centers, Smithsonian Institution, Terrorism",
+            "Summary": "This bill posthumously provides for the award of a Congressional Gold Medal in commemoration of the 13 service members who died on August 26, 2021, while stationed at Hamid Karzai International Airport in Afghanistan."
+        },
+        {
+            "Bill Number": "S. 2647 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 2647 (117th)",
+            "Bill Name": "Harlem Hellfighters Congressional Gold Medal Act",
+            "Subject Areas": "Armed Forces and National Security",
+            "Summary": "This bill provides for the award of a Congressional Gold Medal to the 369th Infantry Regiment, commonly known as the Harlem Hellfighters, in recognition of their bravery and outstanding service during World War I."
+        },
+        {
+            "Bill Number": "S. 1817 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 1817 (117th)",
+            "Bill Name": "Bridge Investment Act of 2021",
+            "Subject Areas": "Transportation and Public Works, Accidents, Advanced technology and technological innovations, Atmospheric science and weather, Congressional oversight, Floods and storm protection, Government information and archives, Government trust funds, Indian lands and resources rights, Natural disasters, Roads and highways, Transportation programs funding, Transportation safety and security, Wildlife conservation and habitat protection",
+            "Summary": "This bill establishes a bridge investment program to award competitive grants to certain governmental entities for projects that improve (1) the condition of bridges; and (2) the safety, efficiency, and reliability of the movement of people and freight over bridges.Among other things, the bill requires grant awards for large projects (projects with total costs of greater than $100 million) to be at least $50 million, and for any other projects not less than $2.5 million; directs the Department of Transportation (DOT) to consider a number of factors in awarding grants, including the extent to which a project demonstrates cost savings by bundling multiple bridge projects; requires DOT to prioritize projects that are located within states for which at least two project applications were submitted in the current fiscal year and an average of two were submitted in prior fiscal years, and fewer than two grants have been awarded for projects within the state; and limits funding for projects that consist solely of culvert replacement or rehabilitation."
+        },
+        {
+            "Bill Number": "S. 937 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 937 (117th)",
+            "Bill Name": "COVID-19 Hate Crimes Act",
+            "Subject Areas": "Crime and Law Enforcement, Cardiovascular and respiratory health, Community life and organization, Crime prevention, Crime victims, Criminal investigation, prosecution, interrogation, Criminal justice information and records, Criminal procedure and sentencing, Department of Justice, Disability and health-based discrimination, Emergency medical services and trauma care, Executive agency funding and structure, Federal officials, Foreign language and bilingual programs, Government information and archives, Government studies and investigations, Hate crimes, Infectious and parasitic diseases, Law enforcement administration and funding, Law enforcement officers, Racial and ethnic relations, Religion, Sex, gender, sexual orientation discrimination, State and local government operations",
+            "Summary": "This bill requires a designated officer or employee of the Department of Justice (DOJ) to facilitate the expedited review of hate crimes and reports of hate crimes.DOJ must issue guidance for state, local, and tribal law enforcement agencies on establishing online hate crime reporting processes, collecting data disaggregated by protected characteristic (e.g., race or national origin), and expanding education campaigns.Additionally, DOJ and the Department of Health and Human Services must issue guidance aimed at raising awareness of hate crimes during the COVID-19 (i.e., coronavirus disease 2019) pandemic.The bill establishes grants for states to create state-run hate crimes reporting hotlines. It also authorizes grants for states and local governments to implement the National Incident-Based Reporting System and to conduct law enforcement activities or crime reduction programs to prevent, address, or respond to hate crimes.Finally, in the case of an individual convicted of a hate crime offense and placed on supervised release, the bill allows a court to order that the individual participate in educational classes or community service as a condition of supervised release."
+        },
+        {
+            "Bill Number": "S. 1720 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 1720 (117th)",
+            "Bill Name": "Postal Service Reform Act of 2021",
+            "Subject Areas": "Government Operations and Politics, Congressional oversight, Executive agency funding and structure, Government employee pay, benefits, personnel management, Government information and archives, Government studies and investigations, Health care costs and insurance, Health care coverage and access, Intergovernmental relations, Medicare, Performance measurement, Postal Regulatory Commission, Postal service, Public participation and lobbying, Retail and wholesale trades, State and local government operations, U.S. Postal Service",
+            "Summary": "This bill addresses the finances and operations of the U.S. Postal Service (USPS).The bill requires the Office of Personnel Management to establish, within the Federal Employees Health Benefits Program, the Postal Service Health Benefits Program for USPS employees and retirees and provides for coordinated enrollment of retirees under this program and Medicare. The bill repeals the requirement that the USPS annually prepay future retirement health benefits.Additionally, the USPS may establish a program to enter into agreements with an agency of any state government, local government, or tribal government, and with other government agencies, to provide certain nonpostal products and services that reasonably contribute to the costs of the USPS and meet other specified criteria.The USPS must develop and maintain a publicly available dashboard to track service performance and must report regularly on its operations and financial condition.The bill requires mail delivery to occur at least six days a week.The Postal Regulatory Commission must annually submit to the USPS a budget of its expenses. It must also conduct a study to identify the causes and effects of postal inefficiencies relating to flats (e.g., large envelopes).The USPS Office of Inspector General shall perform oversight of the Postal Regulatory Commission."
+        },
+        {
+            "Bill Number": "S. 1086 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 1086 (117th)",
+            "Bill Name": "Jabara-Heyer NO HATE Act",
+            "Subject Areas": "Crime and Law Enforcement, Congressional oversight, Criminal justice information and records, Criminal procedure and sentencing, Hate crimes, Law enforcement administration and funding, State and local government operations",
+            "Summary": "This bill creates grants for state and local governments to combat hate crimes. It also authorizes additional penalties for hate crime offenses.Specifically, it establishes grants for states to create state-run hate crimes reporting hotlines. It also authorizes grants for states and local governments to implement the National Incident-Based Reporting System and to conduct law enforcement activities or crime reduction programs to prevent, address, or respond to hate crimes.Finally, in the case of an individual convicted of a hate crime offense and placed on supervised release, the bill allows a court to order that the individual participate in educational classes or community service as a condition of supervised release."
+        },
+        {
+            "Bill Number": "S. 723 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 723 (117th)",
+            "Bill Name": "PPP Extension Act of 2021",
+            "Subject Areas": "Commerce, Business expenses, Cardiovascular and respiratory health, Emergency medical services and trauma care, Government lending and loan guarantees, Infectious and parasitic diseases, Small business, Wages and earnings",
+            "Summary": "This bill extends the Paycheck Protection Program, established to support small businesses in response to COVID-19 (i.e., coronavirus disease 2019), through June 30, 2021. Currently, the program is set to expire on March 31, 2021.For the final 30 days of the program (i.e., from June 1 until June 30), the Small Business Administration may only process applications submitted prior to June 1, and it may not accept any new loan applications."
+        },
+        {
+            "Bill Number": "S. 611 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 611 (117th)",
+            "Bill Name": "VOCA Fix to Sustain the Crime Victims Fund Act of 2021",
+            "Subject Areas": "Crime and Law Enforcement, Civil actions and liability, Crime victims, Criminal investigation, prosecution, interrogation, Emergency medical services and trauma care, Government trust funds, Infectious and parasitic diseases, Law enforcement administration and funding, State and local government operations",
+            "Summary": "This bill adds a new source of revenue for the Crime Victims Fund and makes changes to formula grants supported by the fund.Specifically, the bill directs revenues collected from deferred prosecution and non-prosecution agreements to be deposited into the Crime Victims Fund. Currently, such revenues are deposited into the general fund of the Treasury.Additionally, the bill increases the percentage—from 60% to 75%—of state compensation payments to crime victims in the prior fiscal year used to calculate formula grants for state victim compensation programs.Finally, the bill directs states to waive the matching requirement for recipients of state victim assistance formula grants during and for one year after a pandemic-related national emergency. It also allows states to waive the matching requirement pursuant to a policy established by the state."
+        },
+        {
+            "Bill Number": "S. 435 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 435 (117th)",
+            "Bill Name": "Secure Rural Schools Reauthorization Act of 2021",
+            "Subject Areas": "Education programs funding, Educational technology and distance education, Elementary and secondary education, Fires, First responders and emergency personnel, Forests, forestry, trees, Internet and video services, Land use and conservation, Montana, Property tax, Public contracts and procurement, Rural conditions and development, State and local finance, State and local taxation",
+            "Summary": "This bill extends through FY2023 payments made to states and eligible counties containing certain federal land under the Secure Rural Schools and Community Self-Determination Act of 2000.The Department of the Interior and the Department of Agriculture shall carry out a pilot program to allow the Chief of the Forest Service or the Director of the Bureau of Land Management to nominate members of resource advisory committees.County funds may be used to provide or expand access to (1) broadband telecommunications services at local schools, or (2) the technology and connectivity necessary for students to use a digital learning tool at or outside of a local school campus.Any county funds that were obligated by a county before October 1, 2017, but are unspent on October 1, 2020, may be used by the county for any authorized use and shall be available for projects initiated after October 1, 2020.No county funds may be used for lobbying activity, regardless of the purpose for which the funds are obligated on or before the enactment of this bill."
+        },
+        {
+            "Bill Number": "S. 375 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 375 (117th)",
+            "Bill Name": "PRRADA",
+            "Subject Areas": "Caribbean area, Debt collection, Government ethics and transparency, public corruption, Lawyers and legal services, Legal fees and court costs, Puerto Rico, U.S. territories and protectorates",
+            "Summary": "This bill requires professionals employed in debt adjustment cases involving Puerto Rico to file verified statements disclosing their connections with the debtor, creditors, and other interested parties before seeking compensation for their services."
+        },
+        {
+            "Bill Number": "S. 4576 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 4576 (117th)",
+            "Bill Name": "Norman Y. Mineta Japanese American Confinement Education Act",
+            "Subject Areas": "Civil Rights and Liberties, Minority Issues, Immigration",
+            "Summary": "This bill increases the authorization of appropriations for the Japanese American Confinement Sites (JACS) grant program, which supports the preservation of U.S. confinement sites that were used to detain Japanese Americans during World War II (i.e., internment camps). It also establishes a program within JACS to provide grants to Japanese American nonprofits to educate individuals about the historical significance of these events."
+        },
+        {
+            "Bill Number": "S. 2256 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 2256 (117th)",
+            "Bill Name": "Charitable Conservation Easement Program Integrity Act of 2021",
+            "Subject Areas": "Taxation",
+            "Summary": "This bill imposes a limitation on the tax deduction for qualified conservation contributions made by certain partnerships if the amount of the contribution exceeds 2.5% times the sum of each partner's relevant basis in the partnership. This limitation also applies to other pass-thru entities, such as S corporations."
+        },
+        {
+            "Bill Number": "S. 1061 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 1061 (117th)",
+            "Bill Name": "Israel Relations Normalization Act of 2021",
+            "Subject Areas": "Congressional oversight, Criminal investigation, prosecution, interrogation, Diplomacy, foreign officials, Americans abroad, Economic development, Foreign aid and international relief, Foreign language and bilingual programs, Government information and archives, Health programs administration and funding, Human rights, International exchange and broadcasting, International organizations and cooperation, Iran, Israel, Middle East, Military assistance, sales, and agreements, Museums, exhibitions, cultural centers, Palestinians, Political movements and philosophies, Racial and ethnic relations, Religion, Rule of law and government transparency, Sovereignty, recognition, national governance and status, United Arab Emirates, War crimes, genocide, crimes against humanity, Water use and supply",
+            "Summary": "This bill requires the Department of State to take certain actions promoting the normalization of relations between Israel, Arab states, and other relevant countries and regions.Specifically, the State Department must develop a strategy on expanding and strengthening the Abraham Accords (the term used to refer collectively to agreements between Israel and the United Arab Emirates and between Israel and Bahrain marking the public normalization of relations between the two Arab countries and Israel). The strategy must include a description of how the U.S. government will encourage further normalization of relations with Israel.The State Department must report on the status of efforts to promote normalization of relations with Israel and other countries, including information on (1) laws that punish individuals for people-to-people relations with Israelis (i.e., anti-normalization laws), and (2) instances of the use of state-owned or state-operated media outlets to promote the prosecution of citizens or residents of Arab countries calling for peace with Israel."
+        },
+        {
+            "Bill Number": "S. 475 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 475 (117th)",
+            "Bill Name": "Juneteenth National Independence Day Act",
+            "Subject Areas": "Civil Rights and Liberties, Minority Issues, Commemorative events and holidays, Racial and ethnic relations, U.S. history",
+            "Summary": "This bill establishes Juneteenth National Independence Day, June 19, as a legal public holiday."
+        },
+        {
+            "Bill Number": "S. 1408 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 1408 (117th)",
+            "Bill Name": "A bill to posthumously award the Congressional Gold Medal, collectively, to Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith, in recognition of their contributions to the Nation.",
+            "Subject Areas": "Intelligence activities, surveillance, classified information, Law enforcement officers, Libya, Middle East, Terrorism, Veterans' organizations and recognition",
+            "Summary": "This bill provides for the award of Congressional Gold Medals posthumously to Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith (four Americans who were killed in the September 11, 2012, attack on the U.S. consulate in Benghazi, Libya) in recognition of their contributions to the nation."
+        },
+        {
+            "Bill Number": "S. 1255 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 1255 (117th)",
+            "Bill Name": "Minority Business Resiliency Act of 2021",
+            "Subject Areas": "Commerce, Accounting and auditing, Business education, Business investment and capital, Community life and organization, Competitiveness, trade promotion, trade deficits, Congressional oversight, Department of Commerce, Economic performance and conditions, Education programs funding, Employee hiring, Executive agency funding and structure, Federal officials, Government information and archives, Government studies and investigations, Higher education, Internet and video services, Manufacturing, Marketing and advertising, Minority and disadvantaged businesses, Public contracts and procurement, Public-private cooperation, Rural conditions and development, Small business, Social work, volunteer service, charitable organizations, Tax-exempt organizations, Teaching, teachers, curricula, User charges and fees",
+            "Summary": "This bill permanently authorizes the Minority Business Development Agency (MBDA) and requires the MBDA to promote and administer programs that assist the development of minority business enterprises (MBEs).Specifically, the bill requires the MBDA to (1) provide assistance to MBEs in domestic and foreign markets by making available specified resources, (2) promote the position of MBEs in local economies, and (3) collect data on the causes of MBE success or failure and research how economic conditions affect the development of MBEs.The bill establishes formal processes for the MBDA Business Center Program and the MBDA Rural Business Center Program through which business centers provide programs and services to support MBEs.The bill also establishes new initiatives to promote economic resiliency for minority businesses, including (1) an annual forum to review problems and programs relating to capital formation by MBEs, (2) a study and report on alternative financing solutions for MBEs, and (3) entrepreneurship education grants for certain institutions of higher education to develop and implement entrepreneurship curricula.Further, the bill establishes grants for (1) certain nonprofit organizations that provide services to MBEs as one of their primary activities, and (2) MBEs for the purpose of supporting MBEs or helping MBEs remain in business.The Government Accountability Office must report on the programs carried out pursuant to the bill."
+        },
+        {
+            "Bill Number": "S. 1210 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S. 1210 (117th)",
+            "Bill Name": "Big Cat Public Safety Act",
+            "Subject Areas": "Animals, Animal protection and human-animal relationships, Civil actions and liability, Crimes against animals and natural resources, Mammals, Museums, exhibitions, cultural centers, Trade restrictions, Wildlife conservation and habitat protection",
+            "Summary": "This bill revises requirements governing the trade of big cats (i.e., species of lion, tiger, leopard, cheetah, jaguar, or cougar or any hybrid of such species). Specifically, it revises restrictions on the possession and exhibition of big cats, including to restrict direct contact between the public and big cats."
+        },
+        {
+            "Bill Number": "S.J.Res. 14 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "cosponsor",
+            "Role": "S.J.Res. 14 (117th)",
+            "Bill Name": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \\u201cOil and Natural Gas Sector: Emission Standards for N",
+            "Subject Areas": "Congressional oversight, Environmental Protection Agency (EPA), Environmental regulatory procedures, Environmental technology, Industrial facilities, Oil and gas",
+            "Summary": NaN
+        }
+    ],
+    "SponsoredBills": [
+        {
+            "Bill Number": "S. 1668",
+            "First Name": "Ron  Wyden",
+            "Last Name": "sponsor",
+            "Role": "S. 1668",
+            "Bill Name": "Securing the U.S. Organ Procurement and Transplantation Network Act",
+            "Subject Areas": "Health",
+            "Summary": "This bill modifies how the Health Resources and Services Administration (HRSA) funds and manages the Organ Procurement and Transplantation Network.This network is a public-private partnership that links the professionals involved in the U.S. donation and transplantation system. Historically, only one organization has received a contract for managing the network.The bill expressly authorizes HRSA to award multiple grants, contracts, or cooperative agreements to support the operation of the network and eliminates a cap on the amount of funding available for supporting the network. The bill also specifies that the network shall be operated through awards that are distinct from awards for supporting the operation of the network's board of directors.Additionally, the Government Accountability Office must review the historical financing of the network, including the use of registration fees."
+        },
+        {
+            "Bill Number": "S. 3786 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "sponsor",
+            "Role": "S. 3786 (117th)",
+            "Bill Name": "A bill to suspend normal trade relations treatment for the Russian Federation and the Republic of Belarus, and for other purposes.",
+            "Subject Areas": "Congressional oversight, Europe, Free trade and trade barriers, International organizations and cooperation, Legislative rules and procedure, Military operations and strategy, Oil and gas, Russia, Tariffs, Trade restrictions, Ukraine",
+            "Summary": "This bill suspends normal trade relations with Russia and Belarus. It also prohibits the importation of energy products from Russia.Specifically, the bill authorizes the President to proclaim increases in the rates of duty applicable to products of Russia or Belarus. This authority terminates on January 1, 2024. The President may restore normal trade relations with Russia and Belarus, subject to congressional disapproval.Additionally, the bill prohibits the importation of Russian products that are classified under chapter 27 of the Harmonized Tariff Schedule (which includes mineral fuels, mineral oils and products of their distillation, bituminous substances, and mineral waxes).The bill directs the U.S. Trade Representative to take certain actions, including to consider steps to suspend Russia's participation in the World Trade Organization and seek to halt the accession process of Belarus."
+        },
+        {
+            "Bill Number": "S. 1443 (117th)",
+            "First Name": "Ron  Wyden",
+            "Last Name": "sponsor",
+            "Role": "S. 1443 (117th)",
+            "Bill Name": "Retirement Parity for Student Loans Act",
+            "Subject Areas": "Taxation, Administrative law and regulatory procedures, Department of the Treasury, Employee benefits and pensions, Higher education, Income tax deferral, Student aid and college costs, Wages and earnings",
+            "Summary": "This bill allows certain employer-sponsored retirement plans to make matching contributions for an employee's student loan payments as if the loan payments were salary reduction contributions to the retirement plan."
+        }
+    ],
+    "VotingRecord": [
+        {
+            "Bill Number": "S.Amdt. 1237 (Rubio) to H.R. 4366",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 4366",
+            "Bill Name": "Consolidated Appropriations Act, 2024",
+            "Summary": "This bill provides FY2024 appropriations for several federal departments and agencies. It also extends various expiring programs and authorities, including several public health programs.Specifically, the bill includes 6 of the 12 regular FY2024 appropriations bills: the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2024; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024; the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2024; the Energy and Water Development and Related Agencies Appropriations Act, 2024; the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2024; and the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2024. The departments, agencies, and activities funded in the bill include Department of Defense military construction and family housing activities, the Department of Veterans Affairs, the Department of Agriculture, the Food and Drug Administration, the Department of Commerce, the Department of Justice, the science agencies, the Department of Energy, the U.S. Army Corps of Engineers, the Department of the Interior, the Environmental Protection Agency, the Department of Transportation, the Department of Housing and Urban Development, and several related and independent agencies. In addition, the bill includes several provisions that extend or otherwise modify various programs and authorities, including several public health programs.The bill also modifies the Compacts of Free Association that govern the relationship between the United States and the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 1210 (Vance) to H.R. 4366",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 4366",
+            "Bill Name": "Consolidated Appropriations Act, 2024",
+            "Summary": "This bill provides FY2024 appropriations for several federal departments and agencies. It also extends various expiring programs and authorities, including several public health programs.Specifically, the bill includes 6 of the 12 regular FY2024 appropriations bills: the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2024; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024; the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2024; the Energy and Water Development and Related Agencies Appropriations Act, 2024; the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2024; and the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2024. The departments, agencies, and activities funded in the bill include Department of Defense military construction and family housing activities, the Department of Veterans Affairs, the Department of Agriculture, the Food and Drug Administration, the Department of Commerce, the Department of Justice, the science agencies, the Department of Energy, the U.S. Army Corps of Engineers, the Department of the Interior, the Environmental Protection Agency, the Department of Transportation, the Department of Housing and Urban Development, and several related and independent agencies. In addition, the bill includes several provisions that extend or otherwise modify various programs and authorities, including several public health programs.The bill also modifies the Compacts of Free Association that govern the relationship between the United States and the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S. 610 (117th)",
+            "First Name": "Ron Wyden",
+            "Vote": "Yea",
+            "Bill Number.1": "S. 610 (117th)",
+            "Bill Name": "Protecting Medicare and American Farmers from Sequester Cuts Act",
+            "Summary": "This bill makes several budgetary, technical, and procedural changes, particularly in relation to Medicare and increasing the debt limit.Specifically, the bill continues to exempt Medicare from sequestration until March 31, 2022. (Sequestration is a process of automatic, usually across-the-board spending reductions under which budgetary resources are permanently cancelled to enforce specific budget policy goals.)The bill also establishes expedited Senate procedures for considering legislation to increase the debt limit. The procedures limit debate, waive points of order, and prohibit amendments. The procedures may only be used once and expire after January 16, 2022.Additionally, the bill (1) temporarily extends other provisions under Medicare, including a payment increase under the physician fee schedule; and (2) requires any debits recorded for FY2022 on the statutory pay-as-you-go (PAYGO) scorecards to be deducted from the scorecards for 2022 and added to the scorecards for 2023.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.J.Res. 13 (117th)",
+            "First Name": "Ron Wyden",
+            "Vote": "Yea",
+            "Bill Number.1": "S.J.Res. 13 (117th)",
+            "Bill Name": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Equal Employment Opportunity Commission relating to \\u201cUpdate of Commission\\u2019s Conciliation Procedur",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 1614 (Paul) to H.R. 7463",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 7463",
+            "Bill Name": "Extension of Continuing Appropriations and Other Matters Act, 2024",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 1243 (Budd) to H.R. 4366",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 4366",
+            "Bill Name": "Consolidated Appropriations Act, 2024",
+            "Summary": "This bill provides FY2024 appropriations for several federal departments and agencies. It also extends various expiring programs and authorities, including several public health programs.Specifically, the bill includes 6 of the 12 regular FY2024 appropriations bills: the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2024; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024; the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2024; the Energy and Water Development and Related Agencies Appropriations Act, 2024; the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2024; and the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2024. The departments, agencies, and activities funded in the bill include Department of Defense military construction and family housing activities, the Department of Veterans Affairs, the Department of Agriculture, the Food and Drug Administration, the Department of Commerce, the Department of Justice, the science agencies, the Department of Energy, the U.S. Army Corps of Engineers, the Department of the Interior, the Environmental Protection Agency, the Department of Transportation, the Department of Housing and Urban Development, and several related and independent agencies. In addition, the bill includes several provisions that extend or otherwise modify various programs and authorities, including several public health programs.The bill also modifies the Compacts of Free Association that govern the relationship between the United States and the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 1249 (Cruz) to H.R. 4366",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 4366",
+            "Bill Name": "Consolidated Appropriations Act, 2024",
+            "Summary": "This bill provides FY2024 appropriations for several federal departments and agencies. It also extends various expiring programs and authorities, including several public health programs.Specifically, the bill includes 6 of the 12 regular FY2024 appropriations bills: the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2024; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024; the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2024; the Energy and Water Development and Related Agencies Appropriations Act, 2024; the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2024; and the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2024. The departments, agencies, and activities funded in the bill include Department of Defense military construction and family housing activities, the Department of Veterans Affairs, the Department of Agriculture, the Food and Drug Administration, the Department of Commerce, the Department of Justice, the science agencies, the Department of Energy, the U.S. Army Corps of Engineers, the Department of the Interior, the Environmental Protection Agency, the Department of Transportation, the Department of Housing and Urban Development, and several related and independent agencies. In addition, the bill includes several provisions that extend or otherwise modify various programs and authorities, including several public health programs.The bill also modifies the Compacts of Free Association that govern the relationship between the United States and the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 1232 (Lankford) to H.R. 4366",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 4366",
+            "Bill Name": "Consolidated Appropriations Act, 2024",
+            "Summary": "This bill provides FY2024 appropriations for several federal departments and agencies. It also extends various expiring programs and authorities, including several public health programs.Specifically, the bill includes 6 of the 12 regular FY2024 appropriations bills: the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2024; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024; the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2024; the Energy and Water Development and Related Agencies Appropriations Act, 2024; the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2024; and the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2024. The departments, agencies, and activities funded in the bill include Department of Defense military construction and family housing activities, the Department of Veterans Affairs, the Department of Agriculture, the Food and Drug Administration, the Department of Commerce, the Department of Justice, the science agencies, the Department of Energy, the U.S. Army Corps of Engineers, the Department of the Interior, the Environmental Protection Agency, the Department of Transportation, the Department of Housing and Urban Development, and several related and independent agencies. In addition, the bill includes several provisions that extend or otherwise modify various programs and authorities, including several public health programs.The bill also modifies the Compacts of Free Association that govern the relationship between the United States and the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.J.Res. 29",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "S.J.Res. 29",
+            "Bill Name": "A joint resolution providing for the reappointment of Michael Govan as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S. 5355 (117th)",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "S. 53",
+            "Bill Name": "Combating Global Corruption Act of 2023",
+            "Summary": "This bill requires the Department of State to address corruption in foreign governments.The State Department must annually publish a tiered ranking of foreign countries based on their government's efforts to eliminate corruption.The bill outlines the minimum standards that the State Department must consider when creating the ranking, such as whether a country has criminalized corruption, adopted measures to prevent corruption, and complied with the United Nations Convention Against Corruption and other relevant international agreements. Tier one countries meet the standards; tier two countries make some efforts to meet the standards; tier three countries make de minimis or no efforts to meet the standards.If a country is ranked in the second or third tier, the State Department must designate an anti-corruption contact at the U.S. diplomatic post in that country to promote good governance and combat corruption.The State Department must report annually to Congress a list of foreign persons (individuals or entities) (1) who have engaged in significant corruption in a tier three country, and (2) upon whom the President has imposed sanctions pursuant to this bill.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 1384 (Paul) to H.R. 2872",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 2872",
+            "Bill Name": "Further Additional Continuing Appropriations and Other Extensions Act, 2024",
+            "Summary": "This bill provides continuing FY2024 appropriations for federal agencies. The bill also extends several expiring programs and authorities, including several public health programs.DIVISION A--FURTHER ADDITIONAL CONTINUING APPROPRIATIONS ACT, 2024Further Additional Continuing Appropriations Act, 2024 (Sec. 101) This section provides continuing FY2024 appropriations for federal agencies. It is known as a continuing resolution (CR) and prevents a government shutdown that would otherwise occur if the FY2024 appropriations bills have not been enacted when the existing CR expires.The CR provides funding through March 1, 2024, for agencies and programs that were funded in the following four FY2023 appropriations acts: the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2023; the Energy and Water Development and Related Agencies Appropriations Act, 2023; the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2023; and the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023. (Under the current CR, these agencies and programs are funded through January 19, 2024.)For most other federal agencies and programs, the CR provides funding through March 8, 2024. (Under the current CR, these agencies and programs are funded through February 2, 2024.)The CR generally funds most programs and activities at the FY2023 levels with several exceptions that provide funding flexibility and additional appropriations for various programs. For example, the CR includes exceptions for the National Nuclear Security Administration and the Federal Aviation Administration.In addition, the CR allows the Department of Defense to obligate specified funds from the Shipbuilding and Conversion, Navy account for the procurement of one Columbia Class Submarine.The CR also extends the authority for the U.S. Parole Commission.DIVISION B--OTHER MATTERS TITLE I--HEALTH AND HUMAN SERVICESSubtitle A--Public Health Extenders(Sec. 101) This section extends through March 8, 2024, funding for the Teaching Health Center Graduate Medical Education Program, the Community Health Center Fund, and the National Health Services Corps. (The program supports education and training of medical students in primary care residency programs in community-based ambulatory patient care centers. The fund supports (1) grants for outpatient health care facilities that serve medically underserved populations; and (2) the National Health Service Corps, which provides scholarships and student loan repayment awards to health care providers who agree to work in areas with health care provider shortages.)(Sec. 102) This section extends funding through March 8, 2024, for the Special Diabetes Program for Type I Diabetes and the Special Diabetes Program for Indians. (The Special Diabetes Program for Type I Diabetes supports research on the prevention and cure of Type I diabetes, and the Special Diabetes Program for Indians supports diabetes treatment and prevention for tribal populations.)(Sec. 103) This section extends through March 8, 2024, the authority that allows states and tribes to request the temporary reassignment of state and local health department personnel who are funded through certain federal programs to immediately address a public health emergency.It also extends through March 8, 2024, provisions that prohibit the disclosure of information about Department of Health and Human Services (HHS) programs that could compromise national security (e.g., information regarding biomedical threats).The section extends provisions that authorize HHS to engage with developers of medical countermeasures, and that provide for related antitrust exemptions, for the purpose of furthering product development.Additionally, the section extends through March 8, 2024, the National Advisory Committee on Children and Disasters, the National Advisory Committee on Seniors and Disasters, and the National Advisory Committee on Individuals with Disabilities and Disasters.It also extends through March 8, 2024, the authority of HHS to directly appoint candidates to positions within the National Disaster Medical System if HHS determines the number of personnel in the system is insufficient to address a public health emergency or potential public health emergency.(The National Disaster Medical System is a partnership between HHS, the Department of Defense, and other federal departments that responds to public health and other emergencies, including by deploying medical response teams.)Subtitle B--Medicaid(Sec. 121) This section delays reductions to Medicaid disproportionate-share hospital (DSH) allotments until March 9, 2024. (DSHs are hospitals that receive additional payments under Medicaid for treating a large share of low-income patients.)(Sec. 122) This section reduces the amount of funding available to the Medicaid Improvement Fund for activities relating to mechanized claims systems beginning in FY2028.Subtitle C--Medicare(Sec. 131) This section extends through March 8, 2024, certain minimum adjustments to the work geographic index with respect to payments for physician services under Medicare.(Sec. 132) This section reduces funding for the Medicare Improvement Fund.Subtitle D--Human Services(Sec. 141) This section funds through March 8, 2024, programs that support child welfare services and activities. Specifically, it funds the (1) Stephanie Tubbs Jones Child Welfare Service Program, which provides grants to states and Indian tribes to support preventive interventions and other activities to keep families together; and (2) the MaryLee Allen Promoting Safe and Stable Families Program, which supports efforts to prevent the unnecessary separation of children from their families, improve quality of care and services to children and their families, and ensure permanent living arrangements for children (e.g., parental reunification or adoption).(Sec. 142) This section extends funding through March 8, 2024, for the Sexual Risk Avoidance Education Program. This program supports projects to implement sexual risk avoidance education that teaches participants to voluntarily refrain from nonmarital sexual activities.(Sec. 143) This section extends funding through March 8, 2024, for the Personal Responsibility Education Program. This program provides grants to states to educate young people about abstinence and contraception for prevention of pregnancy and sexually transmitted infections. The program also supports pregnant and parenting youth TITLE II--COMPACTS(Sec. 201) This section extends through March 8, 2024, provisions that provide grants and other financial assistance to the Federated States of Micronesia and the Republic of the Marshall Islands.TITLE III--COUNTER-UAS AUTHORITIES(Sec. 301) This section extends through March 8, 2024, the authority of the Department of Homeland Security and the Department of Justice to take certain actions to mitigate a credible threat to certain facilities or assets from an unmanned aircraft system (UAS). These include certain facilities that are located in the United States and identified as high-risk and a potential target for unlawful UAS activity.TITLE IV--BUDGETARY EFFECTS(Sec. 401) This section exempts the budgetary effects of this division from (1) the Statutory Pay-As-You-Go Act of 2010 (PAYGO Act), (2) the Senate PAYGO rule, and (3) certain budget scorekeeping rules.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S. 1301",
+            "First Name": "Ron Wyden",
+            "Vote": "Yea",
+            "Bill Number.1": "S. 1301",
+            "Bill Name": "[Increase of Public Debt Limit]",
+            "Summary": "This bill became the vehicle for passage of the public debt limit increase with the House vote on September 29, 2021. Prior to the House vote on that date, the bill was the Promoting Physical Activity for Americans Act, a bill on an unrelated subject.  Last updated Oct 8, 2021.View all GovTrack summaries.The summary below was written by the Congressional Research Service, which is a nonpartisan division of the Library of Congress, and was published on Oct 15, 2021.This bill increases the public debt limit by $480 billion.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 1217 (Paul) to H.R. 4366",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 4366",
+            "Bill Name": "Consolidated Appropriations Act, 2024",
+            "Summary": "This bill provides FY2024 appropriations for several federal departments and agencies. It also extends various expiring programs and authorities, including several public health programs.Specifically, the bill includes 6 of the 12 regular FY2024 appropriations bills: the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2024; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024; the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2024; the Energy and Water Development and Related Agencies Appropriations Act, 2024; the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2024; and the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2024. The departments, agencies, and activities funded in the bill include Department of Defense military construction and family housing activities, the Department of Veterans Affairs, the Department of Agriculture, the Food and Drug Administration, the Department of Commerce, the Department of Justice, the science agencies, the Department of Energy, the U.S. Army Corps of Engineers, the Department of the Interior, the Environmental Protection Agency, the Department of Transportation, the Department of Housing and Urban Development, and several related and independent agencies. In addition, the bill includes several provisions that extend or otherwise modify various programs and authorities, including several public health programs.The bill also modifies the Compacts of Free Association that govern the relationship between the United States and the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S. 1605 (117th)",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "S. 1605 (117th)",
+            "Bill Name": "National Defense Authorization Act for Fiscal Year 2022",
+            "Summary": "This bill was previously a companion bill to H.R. 49, but its text was completely replaced with the military spending provisions in the Dec. 7, 2021 House vote, after H.R. 49 was enacted.  Last updated Dec 11, 2021.View all GovTrack summaries.The summary below was written by the Congressional Research Service, which is a nonpartisan division of the Library of Congress, and was published on Jan 26, 2022.National Defense Authorization Act for Fiscal Year 2022This bill authorizes Department of Defense (DOD) activities and programs for FY2022 and addresses various other issues.For example, the bill provides or extends procurement authority for certain helicopters and amphibious shipbuilding programs; imposes various cost and operational limits on the F-35 aircraft program; provides statutory authority related to DOD Science and Technology Reinvention Laboratories, including direct hire authority with respect to advanced degree holders for positions at such laboratories; authorizes DOD to establish a consortium of institutions of higher education to study irregular warfare; establishes pilot programs for using private-sector partnerships to promote technology transition, deploying fifth-generation wireless telecommunications services on military installations, and digitally optimizing organic industrial base maintenance and repair operations; extends and modifies authorities to assist vetted Syrian groups and individuals, provide assistance to counter the Islamic State of Iraq and Syria, and support the activities of the Office of Security Cooperation in Iraq; extends and modifies the Indo-Pacific Maritime Security Initiative and the Pacific Deterrence Initiative; extends a pilot program providing regional cybersecurity training for members of the Army National Guard; establishes a program within the Cybersecurity and Infrastructure Security Agency to continuously monitor cybersecurity risks to critical infrastructure entities that support national critical functions; authorizes a Department of Energy program to improve defense environmental cleanup processes; authorizes the establishment of an Assistant Secretary for International Narcotics and Law Enforcement Affairs within the Department of State; and imposes limits on when the State Department may use a nonstandard design when constructing an embassy or consulate compound.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 1354 (Kennedy) to H.R. 4366",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 4366",
+            "Bill Name": "Consolidated Appropriations Act, 2024",
+            "Summary": "This bill provides FY2024 appropriations for several federal departments and agencies. It also extends various expiring programs and authorities, including several public health programs.Specifically, the bill includes 6 of the 12 regular FY2024 appropriations bills: the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2024; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024; the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2024; the Energy and Water Development and Related Agencies Appropriations Act, 2024; the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2024; and the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2024. The departments, agencies, and activities funded in the bill include Department of Defense military construction and family housing activities, the Department of Veterans Affairs, the Department of Agriculture, the Food and Drug Administration, the Department of Commerce, the Department of Justice, the science agencies, the Department of Energy, the U.S. Army Corps of Engineers, the Department of the Interior, the Environmental Protection Agency, the Department of Transportation, the Department of Housing and Urban Development, and several related and independent agencies. In addition, the bill includes several provisions that extend or otherwise modify various programs and authorities, including several public health programs.The bill also modifies the Compacts of Free Association that govern the relationship between the United States and the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 1182 (Braun) to H.R. 4366",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 4366",
+            "Bill Name": "Consolidated Appropriations Act, 2024",
+            "Summary": "This bill provides FY2024 appropriations for several federal departments and agencies. It also extends various expiring programs and authorities, including several public health programs.Specifically, the bill includes 6 of the 12 regular FY2024 appropriations bills: the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2024; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024; the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2024; the Energy and Water Development and Related Agencies Appropriations Act, 2024; the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2024; and the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2024. The departments, agencies, and activities funded in the bill include Department of Defense military construction and family housing activities, the Department of Veterans Affairs, the Department of Agriculture, the Food and Drug Administration, the Department of Commerce, the Department of Justice, the science agencies, the Department of Energy, the U.S. Army Corps of Engineers, the Department of the Interior, the Environmental Protection Agency, the Department of Transportation, the Department of Housing and Urban Development, and several related and independent agencies. In addition, the bill includes several provisions that extend or otherwise modify various programs and authorities, including several public health programs.The bill also modifies the Compacts of Free Association that govern the relationship between the United States and the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 1200 (Hawley) to H.R. 4366",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 4366",
+            "Bill Name": "Consolidated Appropriations Act, 2024",
+            "Summary": "This bill provides FY2024 appropriations for several federal departments and agencies. It also extends various expiring programs and authorities, including several public health programs.Specifically, the bill includes 6 of the 12 regular FY2024 appropriations bills: the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2024; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024; the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2024; the Energy and Water Development and Related Agencies Appropriations Act, 2024; the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2024; and the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2024. The departments, agencies, and activities funded in the bill include Department of Defense military construction and family housing activities, the Department of Veterans Affairs, the Department of Agriculture, the Food and Drug Administration, the Department of Commerce, the Department of Justice, the science agencies, the Department of Energy, the U.S. Army Corps of Engineers, the Department of the Interior, the Environmental Protection Agency, the Department of Transportation, the Department of Housing and Urban Development, and several related and independent agencies. In addition, the bill includes several provisions that extend or otherwise modify various programs and authorities, including several public health programs.The bill also modifies the Compacts of Free Association that govern the relationship between the United States and the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 1121 (Lee) to H.R. 4366",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 4366",
+            "Bill Name": "Consolidated Appropriations Act, 2024",
+            "Summary": "This bill provides FY2024 appropriations for several federal departments and agencies. It also extends various expiring programs and authorities, including several public health programs.Specifically, the bill includes 6 of the 12 regular FY2024 appropriations bills: the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2024; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024; the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2024; the Energy and Water Development and Related Agencies Appropriations Act, 2024; the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2024; and the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2024. The departments, agencies, and activities funded in the bill include Department of Defense military construction and family housing activities, the Department of Veterans Affairs, the Department of Agriculture, the Food and Drug Administration, the Department of Commerce, the Department of Justice, the science agencies, the Department of Energy, the U.S. Army Corps of Engineers, the Department of the Interior, the Environmental Protection Agency, the Department of Transportation, the Department of Housing and Urban Development, and several related and independent agencies. In addition, the bill includes several provisions that extend or otherwise modify various programs and authorities, including several public health programs.The bill also modifies the Compacts of Free Association that govern the relationship between the United States and the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 1296 (Cruz) to H.R. 4366",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 4366",
+            "Bill Name": "Consolidated Appropriations Act, 2024",
+            "Summary": "This bill provides FY2024 appropriations for several federal departments and agencies. It also extends various expiring programs and authorities, including several public health programs.Specifically, the bill includes 6 of the 12 regular FY2024 appropriations bills: the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2024; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024; the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2024; the Energy and Water Development and Related Agencies Appropriations Act, 2024; the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2024; and the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2024. The departments, agencies, and activities funded in the bill include Department of Defense military construction and family housing activities, the Department of Veterans Affairs, the Department of Agriculture, the Food and Drug Administration, the Department of Commerce, the Department of Justice, the science agencies, the Department of Energy, the U.S. Army Corps of Engineers, the Department of the Interior, the Environmental Protection Agency, the Department of Transportation, the Department of Housing and Urban Development, and several related and independent agencies. In addition, the bill includes several provisions that extend or otherwise modify various programs and authorities, including several public health programs.The bill also modifies the Compacts of Free Association that govern the relationship between the United States and the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "S.Amdt. 1347 (Paul) to H.R. 4366",
+            "First Name": "Ron Wyden",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 4366",
+            "Bill Name": "Consolidated Appropriations Act, 2024",
+            "Summary": "This bill provides FY2024 appropriations for several federal departments and agencies. It also extends various expiring programs and authorities, including several public health programs.Specifically, the bill includes 6 of the 12 regular FY2024 appropriations bills: the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2024; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024; the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2024; the Energy and Water Development and Related Agencies Appropriations Act, 2024; the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2024; and the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2024. The departments, agencies, and activities funded in the bill include Department of Defense military construction and family housing activities, the Department of Veterans Affairs, the Department of Agriculture, the Food and Drug Administration, the Department of Commerce, the Department of Justice, the science agencies, the Department of Energy, the U.S. Army Corps of Engineers, the Department of the Interior, the Environmental Protection Agency, the Department of Transportation, the Department of Housing and Urban Development, and several related and independent agencies. In addition, the bill includes several provisions that extend or otherwise modify various programs and authorities, including several public health programs.The bill also modifies the Compacts of Free Association that govern the relationship between the United States and the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.",
+            "Status": "Enacted"
+        }
+    ]
+}

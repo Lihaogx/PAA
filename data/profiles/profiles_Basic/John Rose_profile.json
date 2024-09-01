@@ -1,0 +1,26 @@
+{
+    "Name": "John Rose",
+    "Profile": {
+        "Public Office": {
+            "Member of the U.S. House of Representativesfrom Tennessee's 6th district": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 3, 2019",
+                "Preceded by": "Diane Black",
+                "District Info": {
+                    "Median householdincome": "",
+                    "Distribution": "",
+                    "Population": "",
+                    "Ethnicity": ""
+                }
+            },
+            "33rd Agriculture Commissioner of Tennessee": {
+                "In office": "August 1, 2002 – January 18, 2003",
+                "Governor": "Don Sundquist",
+                "Preceded by": "Dan Wheeler",
+                "Succeeded by": "Ken Givens"
+            }
+        }
+    },
+    "UnusedVotingRecords": [],
+    "VotingRecord": []
+}

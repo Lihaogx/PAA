@@ -1,0 +1,44 @@
+{
+    "Name": "Dick Durbin",
+    "Profile": {
+        "Public Office": {
+            "Senate Majority Whip": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 20, 2021",
+                "Leader": "Harry Reid",
+                "Preceded by": "Mitch McConnell",
+                "In office": "January 3, 2007 – January 3, 2015",
+                "Succeeded by": "John Cornyn"
+            },
+            "Chair of the Senate Judiciary Committee": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "February 3, 2021",
+                "Preceded by": "Lindsey Graham"
+            },
+            "Senate Minority Whip": {
+                "In office": "January 3, 2005 – January 3, 2007",
+                "Leader": "Harry Reid",
+                "Preceded by": "Harry Reid",
+                "Succeeded by": "Trent Lott"
+            },
+            "United States Senatorfrom Illinois": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 3, 1997Serving with Tammy Duckworth",
+                "Preceded by": "Paul Simon"
+            },
+            "Member of the U.S. House of Representativesfrom Illinois's 20th district": {
+                "In office": "January 3, 1983 – January 3, 1997",
+                "Preceded by": "Paul Findley",
+                "Succeeded by": "John Shimkus",
+                "District Info": {
+                    "Median householdincome": "",
+                    "Distribution": "",
+                    "Population": "",
+                    "Ethnicity": ""
+                }
+            }
+        }
+    },
+    "UnusedVotingRecords": [],
+    "VotingRecord": []
+}

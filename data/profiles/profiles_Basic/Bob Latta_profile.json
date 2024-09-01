@@ -1,0 +1,33 @@
+{
+    "Name": "Bob Latta",
+    "Profile": {
+        "Public Office": {
+            "Member of the U.S. House of Representativesfrom Ohio's 5th district": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "December 11, 2007",
+                "Preceded by": "Paul Gillmor",
+                "District Info": {
+                    "Median householdincome": "$60,227",
+                    "Distribution": "",
+                    "Population": "784,794",
+                    "Ethnicity": "75.3% ,White,17.0% ,Black,2.8% ,Two or more races,2.5% ,Hispanic,2.1% ,Asian,0.4% other"
+                }
+            },
+            "Member of the Ohio House of Representativesfrom the 6th district": {
+                "In office": "January 3, 2001 – December 10, 2007",
+                "Preceded by": "Randy Gardner",
+                "Succeeded by": "Randy Gardner"
+            },
+            "Member of the Ohio Senatefrom the 2nd district": {
+                "In office": "January 3, 1997 – December 31, 2000",
+                "Preceded by": "Steve Yarbrough",
+                "Succeeded by": "Randy Gardner"
+            },
+            "Member of the Wood County Board of County Commissioners": {
+                "In office": "1991–1997"
+            }
+        }
+    },
+    "UnusedVotingRecords": [],
+    "VotingRecord": []
+}

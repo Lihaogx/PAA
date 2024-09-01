@@ -1,0 +1,25 @@
+{
+    "Name": "Jen Kiggans",
+    "Profile": {
+        "Public Office": {
+            "Member of the U.S. House of Representativesfrom Virginia's 2nd district": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 3, 2023",
+                "Preceded by": "Elaine Luria",
+                "District Info": {
+                    "Median householdincome": "$140,815",
+                    "Distribution": "85.53% urban,14.47% rural",
+                    "Population": "791,467",
+                    "Ethnicity": "61.94% ,White,14.02% ,Hispanic,13.85% ,Asian,6.65% ,Black,0.49% ,Native American"
+                }
+            },
+            "Member of the Virginia Senatefrom the 7th district": {
+                "In office": "January 8, 2020 – November 15, 2022",
+                "Preceded by": "Frank Wagner",
+                "Succeeded by": "Aaron Rouse"
+            }
+        }
+    },
+    "UnusedVotingRecords": [],
+    "VotingRecord": []
+}

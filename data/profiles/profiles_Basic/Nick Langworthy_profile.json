@@ -1,0 +1,30 @@
+{
+    "Name": "Nick Langworthy",
+    "Profile": {
+        "Public Office": {
+            "Member of the U.S. House of Representativesfrom New York's 23rd district": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 3, 2023",
+                "Preceded by": "Joe Sempolinski",
+                "District Info": {
+                    "Median householdincome": "$95,778",
+                    "Distribution": "100% urban,0% rural",
+                    "Population": "705,068",
+                    "Ethnicity": "63.5% ,White,18.3% ,Asian,11.8% ,Hispanic,4.0% ,Black,1.9% ,Two or more races,0.5% other"
+                }
+            },
+            "Chair of the New York Republican Party": {
+                "In office": "July 1, 2019 – March 13, 2023",
+                "Preceded by": "Ed Cox",
+                "Succeeded by": "Ed Cox"
+            },
+            "Chair of the Erie County Republican Party": {
+                "In office": "May 5, 2010 – September 14, 2019",
+                "Preceded by": "James Domagalski",
+                "Succeeded by": "Karl Simmeth"
+            }
+        }
+    },
+    "UnusedVotingRecords": [],
+    "VotingRecord": []
+}

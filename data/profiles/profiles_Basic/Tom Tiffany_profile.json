@@ -1,0 +1,30 @@
+{
+    "Name": "Tom Tiffany",
+    "Profile": {
+        "Public Office": {
+            "Member of the U.S. House of Representativesfrom Wisconsin's 7th district": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "May 19, 2020",
+                "Preceded by": "Sean Duffy",
+                "District Info": {
+                    "Median householdincome": "",
+                    "Distribution": "",
+                    "Population": "",
+                    "Ethnicity": ""
+                }
+            },
+            "Member of the Wisconsin Senatefrom the 12th district": {
+                "In office": "January 7, 2013 – May 18, 2020",
+                "Preceded by": "Jim Holperin",
+                "Succeeded by": "Mary Felzkowski"
+            },
+            "Member of the Wisconsin State Assemblyfrom the 35th district": {
+                "In office": "January 3, 2011 – January 7, 2013",
+                "Preceded by": "Donald Friske",
+                "Succeeded by": "Mary Felzkowski"
+            }
+        }
+    },
+    "UnusedVotingRecords": [],
+    "VotingRecord": []
+}

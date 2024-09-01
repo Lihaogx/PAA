@@ -1,0 +1,37 @@
+{
+    "Name": "Pete Ricketts",
+    "Profile": {
+        "Public Office": {
+            "United States Senatorfrom Nebraska": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 23, 2023Serving with Deb Fischer",
+                "Appointed by": "Jim Pillen",
+                "Preceded by": "Ben Sasse"
+            },
+            "40th Governor of Nebraska": {
+                "In office": "January 8, 2015 – January 5, 2023",
+                "Lieutenant": "Mike Foley",
+                "Preceded by": "Dave Heineman",
+                "Succeeded by": "Jim Pillen"
+            },
+            "Chair of the Republican Governors Association": {
+                "In office": "November 29, 2018 – November 21, 2019",
+                "Preceded by": "Bill Haslam",
+                "Succeeded by": "Greg Abbott"
+            }
+        }
+    },
+    "UnusedVotingRecords": [],
+    "CosponsoredBills": [
+        {
+            "Bill Number": "S.J.Res. 12",
+            "First Name": "Pete  Ricketts",
+            "Last Name": "cosponsor",
+            "Role": "S.J.Res. 12",
+            "Bill Name": "A joint resolution disapproving the action of the District of Columbia Council in approving the Revised Criminal Code Act of 2022.",
+            "Subject Areas": "Government Operations and Politics, Congressional oversight, Criminal procedure and sentencing, District of Columbia, Due process and equal protection, State and local government operations, Violent crime",
+            "Summary": NaN
+        }
+    ],
+    "VotingRecord": []
+}

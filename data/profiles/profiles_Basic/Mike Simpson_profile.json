@@ -1,0 +1,31 @@
+{
+    "Name": "Mike Simpson",
+    "Profile": {
+        "Public Office": {
+            "Member of the U.S. House of Representativesfrom Idaho's 2nd district": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 3, 1999",
+                "Preceded by": "Mike Crapo",
+                "District Info": {
+                    "Median householdincome": "",
+                    "Distribution": "",
+                    "Population": "",
+                    "Ethnicity": ""
+                }
+            },
+            "38th Speaker of the Idaho House of Representatives": {
+                "In office": "1992–1998",
+                "Preceded by": "Tom Boyd",
+                "Succeeded by": "Bruce Newcomb"
+            },
+            "Member of the Idaho House of Representatives": {
+                "In office": "December 1, 1984 – December 1, 1998",
+                "Preceded by": "Jerry Wellard",
+                "Succeeded by": "Stan Williams",
+                "Constituency": "District 26B, (1984–1992),District 31B, (1992–1998)"
+            }
+        }
+    },
+    "UnusedVotingRecords": [],
+    "VotingRecord": []
+}

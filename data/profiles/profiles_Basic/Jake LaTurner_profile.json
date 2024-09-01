@@ -1,0 +1,31 @@
+{
+    "Name": "Jake LaTurner",
+    "Profile": {
+        "Public Office": {
+            "Member of the U.S. House of Representativesfrom Kansas's 2nd district": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 3, 2021",
+                "Preceded by": "Steve Watkins",
+                "District Info": {
+                    "Median householdincome": "",
+                    "Distribution": "",
+                    "Population": "",
+                    "Ethnicity": ""
+                }
+            },
+            "40th Kansas State Treasurer": {
+                "In office": "April 25, 2017 – January 2, 2021",
+                "Governor": "Sam Brownback,Jeff Colyer,Laura Kelly",
+                "Preceded by": "Ron Estes",
+                "Succeeded by": "Lynn Rogers"
+            },
+            "Member of the Kansas Senatefrom the 13th district": {
+                "In office": "January 9, 2013 – April 25, 2017",
+                "Preceded by": "Bob Marshall",
+                "Succeeded by": "Richard Hilderbrand"
+            }
+        }
+    },
+    "UnusedVotingRecords": [],
+    "VotingRecord": []
+}

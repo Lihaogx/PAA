@@ -1,0 +1,923 @@
+{
+    "Name": "Bryan Steil",
+    "Profile": {
+        "Public Office": {
+            "Chair of the House Administration Committee": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 17, 2023",
+                "Preceded by": "Zoe Lofgren"
+            },
+            "Ranking Member of the House Fair Growth Committee": {
+                "In office": "June 17, 2021 – January 3, 2023",
+                "Preceded by": "Position established",
+                "Succeeded by": "Position abolished"
+            },
+            "Member of the U.S. House of Representativesfrom Wisconsin's 1st district": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 3, 2019",
+                "Preceded by": "Paul Ryan",
+                "District Info": {
+                    "Median householdincome": "",
+                    "Distribution": "",
+                    "Population": "",
+                    "Ethnicity": ""
+                }
+            }
+        },
+        "Personal Details": {
+            "Personal details": {
+                "Born": "Bryan George Steil, (,1981-03-03,) ,March 3, 1981, (age 42),Janesville, Wisconsin,, U.S.",
+                "Political party": "Republican",
+                "Education": "Georgetown University, (,BS,),University of Wisconsin–Madison, (,JD,)",
+                "Website": "House website"
+            }
+        }
+    },
+    "UnusedVotingRecords": [
+        {
+            "Bill Number": "H.R. 2911 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 2911 (117th)",
+            "Bill Name": "VA Transparency & Trust Act of 2021",
+            "Summary": "This bill requires the Department of Veterans Affairs (VA) to submit a plan for obligating and expending covered funds, which are funds made available to the VA for response to the COVID-19 pandemic.The bill requires the VA to submit biweekly reports regarding obligations, expenditures, and planned uses of the funds until seven days after the VA has expended all covered funds.The Inspector General of the VA must submit reports examining the obligations and expenditures made using covered funds during the specified reporting period.Finally, the Government Accountability Office must submit an interim report and final report containing a review of obligations and expenditures made using covered funds.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 92 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 92 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 110 Johnson Street in Pickens, South Carolina, as the \\u201cSpecialist Four Charles Johnson Post Office\\u201d.",
+            "Summary": "This bill designates the facility of the United States Postal Service located at 110 Johnson Street in Pickens, South Carolina, as the Specialist Four Charles Johnson Post Office.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 91 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 91 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 810 South Pendleton Street in Easley, South Carolina, as the \\u201cPrivate First Class Barrett Lyle Austin Post Office Building\\u201d.",
+            "Summary": "This bill designates the facility of the United States Postal Service located at 810 South Pendleton Street in Easley, South Carolina, as the Private First Class Barrett Lyle Austin Post Office Building.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1096",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1096",
+            "Bill Name": "250th Anniversary of the United States Marine Corps Commemorative Coin Act",
+            "Summary": "This bill directs the Department of the Treasury to mint and issue not more than 50,000 $5 gold coins, 400,000 $1 silver coins, and 750,000 half-dollar clad coins emblematic of the 250th anniversary of the United States Marine Corps.All surcharges received by Treasury from the sale of such coins must be paid to the Marine Corps Heritage Foundation and shall only be used for the purposes of supporting the mission of the Marine Corps Heritage Center.",
+            "Status": "Enacted",
+            "Democrat_Yea": 0.9528301886792452,
+            "Democrat_Nay": 0.0,
+            "Republican_Yea": 0.9366515837104072,
+            "Republican_Nay": 0.004524886877828
+        },
+        {
+            "Bill Number": "H.R. 6386 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 6386 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 450 West Schaumburg Road in Schaumburg, Illinois, as the \\u201cVeterans of Iraq and Afghanistan Memorial Post Office Building\\u201d.",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 700 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 700 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 303 East Mississippi Avenue in Elwood, Illinois, as the \\u201cLawrence M. \\u2018Larry\\u2019 Walsh Sr. Post Office\\u201d.",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 5900 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 5900 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 2016 East 1st Street in Los Angeles, California, as the \\u201cMarine Corps Reserve PVT Jacob Cruz Post Office\\u201d.",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 224 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 224 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 5302 Galveston Road in Houston, Texas, as the Vanessa Guill\\u00e9n Post Office Building.",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1437 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1437 (117th)",
+            "Bill Name": "Further Continuing Appropriations and Extensions Act, 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 7077 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 7077 (117th)",
+            "Bill Name": "Empowering the U.S. Fire Administration Act",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 935 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 935 (117th)",
+            "Bill Name": "Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2021",
+            "Summary": "This bill exempts from securities registration requirements certain merger-and-acquisition brokers that facilitate transfer of ownership in privately held companies with earnings or revenues under a specified threshold. However, this exemption shall not apply to certain brokers, including those that provide financing related to the transfer of ownership, engage on behalf of any party in a transaction involving specified shell companies, or have been barred or suspended from association with a broker or dealer.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 3672",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 3672",
+            "Bill Name": "To designate the clinic of the Department of Veterans Affairs in Indian River, Michigan, as the \\u201cPfc. Justin T. Paton Department of Veterans Affairs Clinic\\u201d.",
+            "Summary": NaN,
+            "Status": "Enacted",
+            "Democrat_Yea": 0.9386792452830188,
+            "Democrat_Nay": 0.0,
+            "Republican_Yea": 0.9502262443438914,
+            "Republican_Nay": 0.0
+        },
+        {
+            "Bill Number": "H.R. 1899 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1899 (117th)",
+            "Bill Name": "Ensuring Compliance Against Drug Diversion Act of 2021",
+            "Summary": "This bill provides statutory authority for certain regulations governing the modification, transfer, and termination of a registration to manufacture, distribute, or dispense controlled substances. It terminates the registration of individuals and entities when they die, cease legal existence, discontinue business, or surrender such registration. It sets forth notification requirements, as well as conditions for transferring or assigning a registration.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1762 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1762 (117th)",
+            "Bill Name": "Protecting Indian Tribes from Scams Act",
+            "Summary": "This bill requires the Federal Trade Commission (FTC), after consultation with Indian tribes, to report on unfair or deceptive practices that target tribes or tribal members. The FTC must submit the report to Congress and make it publicly available. Further, the FTC must update its website to include information for consumers and businesses on identifying and avoiding unfair or deceptive practices that target tribes or tribal members.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1002 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1002 (117th)",
+            "Bill Name": "DEBAR Act of 2021",
+            "Summary": "This bill authorizes the Drug Enforcement Administration (DEA) to bar an entity from registering to manufacture, distribute, or dispense controlled substances under certain circumstances.Specifically, the DEA may bar—temporarily or permanently—the registration of an entity that (1) meets or has met any condition for suspension or revocation of the registration, and (2) has a history of prior suspensions or revocations.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 941 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 941 (117th)",
+            "Bill Name": "TRANSPLANT Act of 2021",
+            "Summary": "This bill modifies and reauthorizes through FY2026 the C.W. Bill Young Cell Transplantation Program, which provides support to patients who need a potentially life-saving bone marrow transplant or umbilical cord blood transplant.The bill also requires the Department of Health and Human Services to conduct a periodic review of the science of using adult stem cells and birthing tissues in therapeutic treatments.In addition, the Government Accountability Office must report on the regenerative medicine workforce.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1460 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1460 (117th)",
+            "Bill Name": "Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2021",
+            "Summary": "This bill directs the Consumer Product Safety Commission to award grants to states and tribal organizations to install carbon monoxide alarms in the homes of low-income families and older adults and facilities that commonly serve children or older adults. Such carbon monoxide alarms must comply with specified standards.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1215 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1215 (117th)",
+            "Bill Name": "Fraud and Scam Reduction Act",
+            "Summary": "This bill expands activities to address mail, telephone, and internet fraud, particularly such scams targeting older adults.The bill establishes a Senior Scams Prevention Advisory Group, which must create model educational materials to educate employees of retailers, financial-services companies, and wire-transfer companies on how to identify and prevent scams that affect older adults.Further, the Federal Trade Commission (FTC) must establish an advisory office in the Bureau of Consumer Protection to assist the FTC in monitoring scams targeting older adults, educating consumers, and receiving complaints.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 172 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 172 (117th)",
+            "Bill Name": "United States Anti-Doping Agency Reauthorization Act of 2021",
+            "Summary": "This bill authorizes appropriations for the U.S. Anti-Doping Agency (USADA) through FY2030.The bill adds requirements that USADA be responsible for certifying in advance any testing conducted by international organizations under the World Anti-Doping Code for international amateur athletes and athletic competitions occurring within the jurisdiction of the United States; and promote a positive youth sport experience by using a portion of its funding to provide educational materials on sportsmanship, character building, and healthy performance for those participating in youth sports. The bill requires any action taken by USADA to enforce a policy, procedure, or requirement against a person with respect to a violation of federal law, including an investigation, disciplinary action, sanction, or any other administrative action, to be carried out in a manner that provides due process protection.The Department of Justice, the Department of Homeland Security, and the Food and Drug Administration must provide to USADA information relating to the prevention of the use of performance-enhancing drugs or the prohibition of performance-enhancing methods.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1868 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1868 (117th)",
+            "Bill Name": "To prevent across-the-board direct spending cuts, and for other purposes.",
+            "Summary": "This bill makes several budgetary and technical changes to provisions under Medicare and Medicaid. The bill continues to exempt Medicare from sequestration until December 31, 2021. (Sequestration is a process of automatic, usually across-the-board spending reductions under which budgetary resources are permanently cancelled to enforce specific budget policy goals.)The bill also specifically applies certain modified payment limits to rural health clinics that temporarily enrolled in Medicare during the public health emergency relating to COVID-19 (i.e., coronavirus disease 2019) or that applied to enroll by December 31, 2020; and preserves higher Medicaid disproportionate-share hospital payments for public hospitals in California under forthcoming payment methodology changes.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1868 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 1868 (117th)",
+            "Bill Name": "To prevent across-the-board direct spending cuts, and for other purposes.",
+            "Summary": "This bill makes several budgetary and technical changes to provisions under Medicare and Medicaid. The bill continues to exempt Medicare from sequestration until December 31, 2021. (Sequestration is a process of automatic, usually across-the-board spending reductions under which budgetary resources are permanently cancelled to enforce specific budget policy goals.)The bill also specifically applies certain modified payment limits to rural health clinics that temporarily enrolled in Medicare during the public health emergency relating to COVID-19 (i.e., coronavirus disease 2019) or that applied to enroll by December 31, 2020; and preserves higher Medicaid disproportionate-share hospital payments for public hospitals in California under forthcoming payment methodology changes.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 3746",
+            "First Name": "Bryan Steil",
+            "Vote": "Aye",
+            "Bill Number.1": "H.R. 3746",
+            "Bill Name": "Fiscal Responsibility Act of 2023",
+            "Summary": NaN,
+            "Status": "Enacted",
+            "Democrat_Yea": 0.9166666666666666,
+            "Democrat_Nay": 0.0833333333333333,
+            "Republican_Yea": 0.3469387755102041,
+            "Republican_Nay": 0.6326530612244898
+        },
+        {
+            "Bill Number": "H.R. 7276 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 7276 (117th)",
+            "Bill Name": "Ukraine Invasion War Crimes Deterrence and Accountability Act",
+            "Summary": "This bill requires the President to report to Congress on atrocities committed during Russia's invasion of Ukraine since February 24, 2022.Specifically, the report must describe in detail (1) U.S. government efforts to collect, analyze, and preserve evidence related to war crimes and other atrocities committed during the invasion; (2) media, public diplomacy, and information operations to make the Russian people, including their military and political leaders, aware of efforts to identify and prosecute those responsible for such atrocities; and (3) the process for a domestic, foreign, or international court or tribunal to obtain information from the U.S. government related to such atrocities.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1652 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1652 (117th)",
+            "Bill Name": "VOCA Fix to Sustain the Crime Victims Fund Act of 2021",
+            "Summary": "This bill adds a new source of revenue for the Crime Victims Fund and makes changes to formula grants supported by the fund.Specifically, the bill directs revenues collected from deferred prosecution and non-prosecution agreements to be deposited into the Crime Victims Fund. Currently, such revenues are deposited into the general fund of the Treasury.Additionally, the bill increases the percentage—from 60% to 75%—of state compensation payments to crime victims in the prior fiscal year used to calculate formula grants for state victim compensation programs.Finally, the bill directs states to waive the matching requirement for recipients of state victim assistance formula grants during and for one year after a pandemic-related national emergency. It also allows states to waive the matching requirement pursuant to a policy established by the state.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1085 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1085 (117th)",
+            "Bill Name": "To award three congressional gold medals to the United States Capitol Police and those who protected the U.S. Capitol on January 6, 2021.",
+            "Summary": "This bill directs the Speaker of the House and the President pro tempore of the Senate to arrange for the award of three Congressional Gold Medals to the U.S. Capitol Police (USCP) and other law enforcement agencies that protected the U.S. Capitol on January 6, 2021.Following the award of these medals, one medal shall be given to the USCP, one medal shall be given to the Metropolitan Police Department of the District of Columbia, and one medal shall be given to the Smithsonian Institution and displayed with a plaque listing all law enforcement agencies that participated in protecting the Capitol on January 6, 2021.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1651 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1651 (117th)",
+            "Bill Name": "COVID-19 Bankruptcy Relief Extension Act of 2021",
+            "Summary": "This bill extends existing provisions that provide relief to debtors in bankruptcy, including those related to the COVID-19 (i.e., coronavirus disease 2019) pandemic.These provisions (1) exclude certain COVID-19 aid payments from income for the purposes of bankruptcy, and (2) increase the debt eligibility threshold for businesses qualifying for certain types of Chapter 11 reorganization bankruptcy. Currently, these provisions expire March 27, 2021. The bill extends these provisions for one year.The bill also allows for modification of a Chapter 13 repayment plan for plans confirmed before the date of enactment of this bill if the debtor is experiencing material financial hardship due to COVID-19. Currently, such a modification is only available for plans confirmed before March 27, 2020.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1799 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1799 (117th)",
+            "Bill Name": "PPP Extension Act of 2021",
+            "Summary": "This bill extends the Paycheck Protection Program, established to support small businesses in response to COVID-19 (i.e., coronavirus disease 2019), through June 30, 2021. Currently, the program is set to expire on March 31, 2021.For the final 30 days of the program (i.e., from June 1 until June 30), the Small Business Administration may only process applications submitted prior to June 1, and it may not accept any new loan applications.The bill excludes the budgetary effects of this bill from PAYGO scorecards under the Statutory Pay-As-You-Go Act of 2010 and from Senate PAYGO scorecards.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1218 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1218 (117th)",
+            "Bill Name": "Data Mapping to Save Moms\\u2019 Lives Act",
+            "Summary": "This bill directs the Federal Communications Commission (FCC) to include data on certain maternal health outcomes in its broadband health mapping tool. This is an online platform that allows users to visualize, overlay, and analyze broadband and health data at national, state, and county levels.The FCC must consult with the Centers for Disease Control and Prevention to determine which maternal health outcomes should be incorporated.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1319 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 1319 (117th)",
+            "Bill Name": "American Rescue Plan Act of 2021",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 6833 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 6833 (117th)",
+            "Bill Name": "Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1734",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1734",
+            "Bill Name": "TRANQ Research Act of 2023",
+            "Summary": "This bill requires the National Institute of Standards and Technology (NIST) to support research and other activities related to identifying xylazine (a compound used in veterinary medicine as a nonopioid tranquilizer), novel synthetic opioids, and other new psychoactive substances.In particular, NIST must support basic measurement science and research; near-real time spectrometry capabilities (i.e., a technique for rapidly identifying the chemical composition of a substance); strategies and voluntary best practices for handling, transporting, and analyzing such substances; and collaboration with other government agencies, institutions of higher education, and the private sector to enhance relevant narcotic and opioid detection and analysis capabilities. Additionally, the Government Accountability Office must conduct a study on the capabilities of the federal government to detect, identify, and otherwise respond to threats of new psychoactive substances, such as xylazine.",
+            "Status": "Enacted",
+            "Democrat_Yea": 0.9671361502347418,
+            "Democrat_Nay": 0.0,
+            "Republican_Yea": 0.9864864864864864,
+            "Republican_Nay": 0.0
+        },
+        {
+            "Bill Number": "H.R. 2954 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 2954 (117th)",
+            "Bill Name": "Securing a Strong Retirement Act of 2021",
+            "Summary": "This bill makes various changes with respect to employer-sponsored retirement plans, including providing for the automatic enrollment of employees in certain plans and increasing the age at which participants are required to begin receiving mandatory distributions.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 3359 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 3359 (117th)",
+            "Bill Name": "Homicide Victims\\u2019 Families\\u2019 Rights Act of 2021",
+            "Summary": "This bill establishes a framework for immediate family members of a victim of murder under federal law to request a review of the victim's case file if the murder was committed more than three years prior, the murder was investigated by a federal law enforcement entity, all probative investigative leads have been exhausted, and no likely perpetrator has been identified.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 3197 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 3197 (117th)",
+            "Bill Name": "Save the Liberty Theatre Act of 2021",
+            "Summary": NaN,
+            "Status": NaN
+        },
+        {
+            "Bill Number": "H.R. 3113 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 3113 (117th)",
+            "Bill Name": "Modernizing Access to Our Public Land Act",
+            "Summary": "This bill directs the Department of the Interior, the Forest Service, and the U.S. Army Corps of Engineers to jointly develop and adopt interagency standards to ensure compatibility and interoperability among federal databases for the collection and dissemination of outdoor recreation data related to federal lands and used to depict locations at which recreation uses are available to the public.Interior, the Forest Service, and the Corps of Engineers must digitize and publish geographic information system data that includes federal interests, including easements and rights-of-way, in private land; status information as to whether roads and trails are open or closed; the dates on which roads and trails are seasonally opened and closed; the types of vehicles and recreational uses that are allowed on each segment of roads and trails; and the boundaries of areas where hunting or recreational shooting is permanently restricted or closed. Interior, the Forest Service, and the Corps of Engineers may work with the U.S. Geological Survey to collect, digitize, standardize, or publish data to meet the requirements of this bill.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1319 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 1319 (117th)",
+            "Bill Name": "American Rescue Plan Act of 2021",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1192 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1192 (117th)",
+            "Bill Name": "PRRADA",
+            "Summary": "This bill requires professionals employed in debt adjustment cases involving Puerto Rico to file verified statements disclosing their connections with interested parties before seeking compensation for their services.The Financial Oversight and Management Board for Puerto Rico must establish a list of such interested parties, which shall include the debtor, creditors, any attorney or accountant of the debtor or creditors, persons employed by the U.S. Trustee Program, persons employed by the board, and any other interested party.Compensation may be denied to such a professional if these disclosures are not filed, are inadequate, or if the professional is found to have certain conflicts of interest.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 2471 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 2471 (117th)",
+            "Bill Name": "Consolidated Appropriations Act, 2022",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 2471 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 2471 (117th)",
+            "Bill Name": "Consolidated Appropriations Act, 2022",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 208 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 208 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 500 West Main Street, Suite 102 in Tupelo, Mississippi, as the Colonel Carlyle Smitty Harris Post Office.",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 55 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 55 (117th)",
+            "Bill Name": "Emmett Till Antilynching Act",
+            "Summary": "This bill makes lynching a federal hate crime offense.Specifically, the bill imposes criminal penalties—a fine, a prison term of up to 30 years, or both—on an individual who conspires to commit a hate crime offense that results in death or serious bodily injury or that includes kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 3539 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 3539 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 223 West Chalan Santo Papa in Hagatna, Guam, as the \\u201cAtanasio Taitano Perez Post Office\\u201d.",
+            "Summary": "This bill designates the facility of the United States Postal Service located at 223 West Chalan Santo Papa in Hagatna, Guam, as the Atanasio Taitano Perez Post Office.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 735 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 735 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 502 East Cotati Avenue in Cotati, California, as the \\u201cArturo L. Ibleto Post Office Building\\u201d.",
+            "Summary": "This bill designates the facility of the United States Postal Service located at 502 East Cotati Avenue in Cotati, California, as the Arturo L. Ibleto Post Office Building.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 3076 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 3076 (117th)",
+            "Bill Name": "Postal Service Reform Act of 2022",
+            "Summary": "This bill addresses the finances and operations of the U.S. Postal Service (USPS).The bill requires the Office of Personnel Management (OPM) to establish the Postal Service Health Benefits Program within the Federal Employees Health Benefits Program under which OPM may contract with carriers to offer health benefits plans for USPS employees and retirees.The bill provides for coordinated enrollment of retirees under this program and Medicare.The bill repeals the requirement that the USPS annually prepay future retirement health benefits.Additionally, the USPS may establish a program to enter into agreements with an agency of any state government, local government, or tribal government, and with other government agencies, to provide certain nonpostal products and services that reasonably contribute to the costs of the USPS and meet other specified criteria.The USPS must develop and maintain a publicly available dashboard to track service performance and must report regularly on its operations and financial condition.The Postal Regulatory Commission must annually submit to the USPS a budget of its expenses. It must also conduct a study to identify the causes and effects of postal inefficiencies relating to flats (e.g., large envelopes).The USPS Office of Inspector General shall perform oversight of the Postal Regulatory Commission.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 2324 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 2324 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 2800 South Adams Street in Tallahassee, Florida, as the \\u201cD. Edwina Stephens Post Office\\u201d.",
+            "Summary": "This bill designates the facility of the United States Postal Service located at 2800 South Adams Street in Tallahassee, Florida, as the D. Edwina Stephens Post Office.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 335 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 335 (117th)",
+            "Bill Name": "To provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces.",
+            "Summary": "This bill allows the first person nominated and appointed as Secretary of Defense after 12 p.m. (Eastern Standard Time) on January 20, 2021, to be a person who is, on the date of appointment, at least four years after relief from active duty as a commissioned officer of a regular component of the Armed Forces. Under current law, an individual may not be appointed as Secretary of Defense within seven years after relief from such active duty.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 22 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 22 (117th)",
+            "Bill Name": "Congressional Budget Justification Transparency Act of 2021",
+            "Summary": "This bill requires federal agencies to make budget justification materials available to the public on a website. The bill also requires the Office of Management and Budget to make certain details regarding the materials available to the public, including a list of the agencies that submit budget justification materials to Congress, the dates that the materials are submitted to Congress and posted online, and links to the materials.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1226",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1226",
+            "Bill Name": "Wounded Warrior Access Act",
+            "Summary": NaN,
+            "Status": "Enacted",
+            "Democrat_Yea": 0.9575471698113208,
+            "Democrat_Nay": 0.0,
+            "Republican_Yea": 0.9864864864864864,
+            "Republican_Nay": 0.0
+        },
+        {
+            "Bill Number": "H.R. 5577 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 5577 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 3900 Crown Road Southwest in Atlanta, Georgia, as the \\u201cJohn R. Lewis Post Office Building\\u201d.",
+            "Summary": "This bill designates the facility of the United States Postal Service located at 3900 Crown Road Southwest in Atlanta, Georgia, as the John R. Lewis Post Office Building.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 346",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 346",
+            "Bill Name": "NOTAM Improvement Act of 2023",
+            "Summary": "This bill directs the Federal Aviation Administration (FAA) to establish the FAA Task Force on NOTAM (notice to air missions required by international or domestic law) Improvement and requires the FAA to implement a federal NOTAM system. A NOTAM is a notice containing information essential to personnel concerned with flight operations but not known far enough in advance to be publicized by other means. It states the abnormal status of a component of the National Airspace System.Specifically, the task force must (1) review existing methods for publishing NOTAMs and flight operations information for pilots; (2) review regulations, policies, systems, and international standards relating to NOTAMs, including their content and presentation to pilots; (3) evaluate and determine best practices to organize, prioritize, and present flight operations information in a manner that optimizes pilot review and retention of relevant information; (4) provide recommendations to improve the publication and delivery of NOTAM information; and (5) report to Congress on its reviews and evaluations.By September 30, 2024, the FAA must (1) complete implementation of a federal NOTAM system and implement a back-up system, and (2) brief Congress on a plan to enhance information delivery through this federal system to promote further global harmonization and provide users of the National Airspace System a consistent format for domestic and international operations.",
+            "Status": "Enacted",
+            "Democrat_Yea": 0.9764150943396226,
+            "Democrat_Nay": 0.0,
+            "Republican_Yea": 0.9774774774774776,
+            "Republican_Nay": 0.018018018018018
+        }
+    ],
+    "CosponsoredBills": [
+        {
+            "Bill Number": "H.R. 1096",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 1096",
+            "Bill Name": "250th Anniversary of the United States Marine Corps Commemorative Coin Act",
+            "Subject Areas": "Military personnel and dependents",
+            "Summary": "This bill directs the Department of the Treasury to mint and issue not more than 50,000 $5 gold coins, 400,000 $1 silver coins, and 750,000 half-dollar clad coins emblematic of the 250th anniversary of the United States Marine Corps.All surcharges received by Treasury from the sale of such coins must be paid to the Marine Corps Heritage Foundation and shall only be used for the purposes of supporting the mission of the Marine Corps Heritage Center."
+        },
+        {
+            "Bill Number": "H.R. 310 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 310 (117th)",
+            "Bill Name": "To posthumously award the Congressional Gold Medal, collectively, to Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith, in recognition of their contributions to the Nation.",
+            "Subject Areas": "Intelligence activities, surveillance, classified information, Law enforcement officers, Libya, Middle East, Terrorism, Veterans' organizations and recognition",
+            "Summary": NaN
+        },
+        {
+            "Bill Number": "H.R. 1193 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 1193 (117th)",
+            "Bill Name": "Cardiovascular Advances in Research and Opportunities Legacy Act",
+            "Subject Areas": "Health, Advanced technology and technological innovations, Cardiovascular and respiratory health, Government information and archives, Health information and medical records, Health programs administration and funding, Health promotion and preventive care, Health technology, devices, supplies, Medical research, Medical tests and diagnostic methods, Photography and imaging, Research administration and funding",
+            "Summary": NaN
+        },
+        {
+            "Bill Number": "H.R. 8876 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 8876 (117th)",
+            "Bill Name": "Jackie Walorski Maternal and Child Home Visiting Reauthorization Act of 2022",
+            "Subject Areas": "Health, Appropriations, Census and government statistics, Child care and development, Child health, Child safety and welfare, Computers and information technology, Congressional oversight, Family planning and birth control, Family services, Government information and archives, Government studies and investigations, Health promotion and preventive care, Health technology, devices, supplies, Home and outpatient care, Intergovernmental relations, Performance measurement, Social work, volunteer service, charitable organizations, State and local finance, State and local government operations, Women's health",
+            "Summary": "This bill reauthorizes through FY2027, increases funding for, and modifies the Maternal, Infant, and Early Childhood Home Visiting Program. This program supports home visits for expectant and new parents who live in communities that are at-risk for poor maternal and child health outcomes.Changes to the program include setting out requirements for allocating program funds; increasing the percentage of funds reserved for tribal entities; establishing a publicly available dashboard that reports program outcomes; requiring activities to reduce unnecessary data collection, reporting, and other administrative requirements of the program; and allowing for virtual home visits (provided certain conditions are met)."
+        },
+        {
+            "Bill Number": "H.R. 3630 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 3630 (117th)",
+            "Bill Name": "Lymphedema Treatment Act",
+            "Subject Areas": "Health, Labor and Employment, Cardiovascular and respiratory health, Health care coverage and access, Immunology and vaccination, Medicare",
+            "Summary": "This bill provides for Medicare coverage of lymphedema compression treatment items. Specifically, the bill provides for coverage of standard and custom fitted gradient compression garments and other approved items that are prescribed by a physician or other specified health care professional to treat lymphedema."
+        },
+        {
+            "Bill Number": "H.R. 5502 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 5502 (117th)",
+            "Bill Name": "To require online marketplaces to verify certain information regarding high-volume third party sellers of consumer products on such online marketplaces and to disclose to consumers certain contact and other information regarding such h",
+            "Subject Areas": "Computer security and identity theft, Consumer affairs, Federal preemption, Retail and wholesale trades, State and local government operations",
+            "Summary": "This bill requires online marketplaces (e.g., Amazon) to collect and verify certain contact and financial information from third-party sellers whose transactions and related revenues exceed specified thresholds.Subject to certain exceptions, online marketplaces must clearly and conspicuously disclose the contact information of certain high-volume third-party sellers to consumers and must also provide consumers with methods to report suspicious activity on the marketplace.The bill provides the Federal Trade Commission and state attorneys general with the authority to enforce these requirements."
+        },
+        {
+            "Bill Number": "H.R. 4693 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 4693 (117th)",
+            "Bill Name": "Global Malnutrition Prevention and Treatment Act of 2021",
+            "Subject Areas": "International Affairs, Child health, Congressional oversight, Executive agency funding and structure, Food assistance and relief, Foreign aid and international relief, Health programs administration and funding, Health promotion and preventive care, International organizations and cooperation, Multilateral development programs, Nutrition and diet, Performance measurement, U.S. Agency for International Development (USAID), Women's education, World health",
+            "Summary": NaN
+        },
+        {
+            "Bill Number": "H.R. 5577 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 5577 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 3900 Crown Road Southwest in Atlanta, Georgia, as the \\u201cJohn R. Lewis Post Office Building\\u201d.",
+            "Subject Areas": "Government Operations and Politics, Congressional tributes, Georgia, Government buildings, facilities, and property, Postal service",
+            "Summary": "This bill designates the facility of the United States Postal Service located at 3900 Crown Road Southwest in Atlanta, Georgia, as the John R. Lewis Post Office Building."
+        },
+        {
+            "Bill Number": "H.R. 6899 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 6899 (117th)",
+            "Bill Name": "Russia and Belarus SDR Exchange Prohibition Act of 2022",
+            "Subject Areas": "Finance and Financial Sector, International Affairs, Belarus, Conflicts and wars, Currency, Europe, International monetary system and foreign exchange, International organizations and cooperation, Military operations and strategy, Russia, Sovereignty, recognition, national governance and status, Ukraine",
+            "Summary": NaN
+        },
+        {
+            "Bill Number": "H.R. 1057 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 1057 (117th)",
+            "Bill Name": "Greatest Generation Commemorative Coin Act",
+            "Subject Areas": "Finance and Financial Sector, Conflicts and wars, Currency, Military history, Monuments and memorials, U.S. history, Veterans' organizations and recognition",
+            "Summary": "This bill directs the Department of the Treasury to mint and issue up to 50,000 $5 coins, 400,000 $1 silver coins, and 750,000 half-dollar clad coins in commemoration of the National World War II Memorial in the District of Columbia.The design of the coins shall be emblematic of the memorial and the service and sacrifice of American soldiers and civilians during World War II.All surcharges received from the sale of such coins shall be paid to the Friends of the National World War II Memorial to support the National Park Service in maintaining and repairing the memorial, and for educational and commemorative programs."
+        },
+        {
+            "Bill Number": "H.R. 5142 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 5142 (117th)",
+            "Bill Name": "To award posthumously a Congressional Gold Medal, in commemoration to the servicemembers who perished in Afghanistan on August 26, 2021, during the evacuation of citizens of the United States and Afghan allies at Hamid Karzai Internati",
+            "Subject Areas": "Armed Forces and National Security, International Affairs, Afghanistan, Asia, Conflicts and wars, Congressional tributes, Emergency planning and evacuation, Military operations and strategy, Military personnel and dependents, Museums, exhibitions, cultural centers, Smithsonian Institution, Terrorism",
+            "Summary": "This bill posthumously provides for the award of a Congressional Gold Medal in commemoration of the 13 service members who died on August 26, 2021, while stationed at Hamid Karzai International Airport in Afghanistan."
+        },
+        {
+            "Bill Number": "H.R. 1448 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 1448 (117th)",
+            "Bill Name": "PAWS for Veterans Therapy Act",
+            "Subject Areas": "Armed Forces and National Security, Animal protection and human-animal relationships, Congressional oversight, Disability assistance, Government information and archives, Government studies and investigations, Health programs administration and funding, Mammals, Mental health, Neurological disorders, Service animals, Veterans' education, employment, rehabilitation, Veterans' medical care",
+            "Summary": "This bill implements a program and a policy related to service dog therapy for veterans. Specifically, the bill requires the Department of Veterans Affairs (VA) to implement a five-year pilot program to provide canine training to eligible veterans diagnosed with post-traumatic stress disorder as an element of a complementary and integrative health program. Eligible veterans are those who are enrolled in the VA health care system and have been recommended for participation by a qualified mental health care provider or clinical team.The VA must seek to enter agreements containing specified elements with accredited nongovernmental entities that have demonstrated ability to provide canine training.Veterans who participate in the program are authorized to adopt the dog they assisted in training if their health provider determines it is in the best interest of the veteran.The VA must establish processes to document and track the progress of participating veterans with respect to health benefits and improvements. The Government Accountability Office must brief Congress and submit a report on the program.The bill also authorizes the VA to provide service dogs to veterans with mental illnesses, regardless of whether they have a mobility impairment."
+        },
+        {
+            "Bill Number": "H.R. 4493 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 4493 (117th)",
+            "Bill Name": "Promoting Secure 5G Act of 2021",
+            "Subject Areas": "Science, Technology, Communications",
+            "Summary": "This bill requires the Department of the Treasury to instruct the U.S. Executive Director at each international financial institution (e.g., the International Monetary Fund or the International Finance Corporation) that it is U.S. policy to support institutional assistance with advanced wireless technologies only if they provide appropriate security for users, encourage assistance with infrastructure or policy reforms that facilitate the use of secure advanced wireless technologies, and cooperate with institutional member states to strengthen international support for such technologies."
+        },
+        {
+            "Bill Number": "H.R. 3577 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 3577 (117th)",
+            "Bill Name": "United States Army Rangers Veterans of World War II Congressional Gold Medal Act",
+            "Subject Areas": "Armed Forces and National Security, Conflicts and wars, Congressional tributes, Military history, Museums, exhibitions, cultural centers, Smithsonian Institution, Veterans' organizations and recognition",
+            "Summary": "This bill provides for the award of a single Congressional Gold Medal to the U.S. Army Rangers Veterans of World War II in recognition of their dedicated service during World War II."
+        },
+        {
+            "Bill Number": "H.R. 707 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 707 (117th)",
+            "Bill Name": "Ghost Army Congressional Gold Medal Act",
+            "Subject Areas": "Military operations and strategy, Military personnel and dependents, Museums, exhibitions, cultural centers, Smithsonian Institution",
+            "Summary": "This bill directs the Speaker of the House of Representatives and the President pro tempore of the Senate to award a Congressional Gold Medal to the 23rd Headquarters Special Troops and the 3133rd Signal Service Company, known as the Ghost Army, collectively, in recognition of its service during World War II."
+        },
+        {
+            "Bill Number": "H.R. 1145 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 1145 (117th)",
+            "Bill Name": "To direct the Secretary of State to develop a strategy to regain observer status for Taiwan in the World Health Organization, and for other purposes.",
+            "Subject Areas": "International Affairs, Asia, Congressional oversight, International organizations and cooperation, Taiwan, World health",
+            "Summary": "This bill directs the Department of State to include additional information in its annual reports concerning Taiwan's participation at the World Health Organization's World Health Assembly (WHA) as an observer. The report shall describe changes and improvements to the State Department's plan to support Taiwan's observer status at the WHA, following any meetings at which Taiwan did not participate under such status. (China has opposed Taiwan's participation in the WHA.)"
+        },
+        {
+            "Bill Number": "H.R. 1179 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 1179 (117th)",
+            "Bill Name": "Iran Hostages Congressional Gold Medal Act",
+            "Subject Areas": "International Affairs, Congressional tributes, Detention of persons, Diplomacy, foreign officials, Americans abroad, Iran, Middle East, Museums, exhibitions, cultural centers, Smithsonian Institution",
+            "Summary": "This bill requires the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the award of a Congressional Gold Medal commemorating the bravery and endurance of the 53 hostages of the Iran Hostage Crisis.Following its award, the medal shall be given to the National Museum of American History of the Smithsonian Institution for display and research.The Department of the Treasury must strike duplicate medals in silver for presentation to a hostage (or the personal representative of a deceased hostage), and Treasury may also strike and sell duplicate medals in bronze."
+        },
+        {
+            "Bill Number": "H.R. 1012 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 1012 (117th)",
+            "Bill Name": "\\u2018Six Triple Eight\\u2019 Congressional Gold Medal Act of 2021",
+            "Subject Areas": "Military history, Military personnel and dependents, Minority employment, Museums, exhibitions, cultural centers, Postal service, Smithsonian Institution, Women's employment",
+            "Summary": "This bill directs the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the award of a Congressional Gold Medal in honor of the women of the 6888th Central Postal Directory Battalion (commonly known as the Six Triple Eight) in recognition of their pioneering military service, devotion to duty, and contributions to increase the morale of personnel stationed in the European theater of operations during World War II. The medal shall be given to the Smithsonian Institution and made available for display and research."
+        },
+        {
+            "Bill Number": "H.R. 7870 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 7870 (117th)",
+            "Bill Name": "To include certain computer-related projects in the Federal permitting program under title XLI of the FAST Act, and for other purposes.",
+            "Subject Areas": "Environmental Protection, Computer security and identity theft, Computers and information technology, Environmental assessment, monitoring, research, Licensing and registrations",
+            "Summary": "This bill expands the expedited environmental review and permitting process under Title 41 of the Fixing America's Surface Transportation (FAST) Act, commonly known as FAST-41, to include certain computer-related infrastructure projects. Specifically, the bill provides for the expedited review of infrastructure projects concerning semiconductors, artificial intelligence and machine learning, high-performance computing and advanced computer hardware and software, quantum information science and technology, data storage and data management, or cybersecurity."
+        },
+        {
+            "Bill Number": "H.R. 4624 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 4624 (117th)",
+            "Bill Name": "Guaranteeing Healthcare Access to Personnel Who Served Act",
+            "Subject Areas": "Armed Forces and National Security, Asia, Assault and harassment offenses, Congressional oversight, Crime victims, Dental care, Department of Veterans Affairs, Environmental health, Government information and archives, Government studies and investigations, Hazardous wastes and toxic substances, Health care costs and insurance, Health care coverage and access, Health care quality, Health facilities and institutions, Health information and medical records, Health personnel, Health programs administration and funding, Health promotion and preventive care, Health technology, devices, supplies, Hospital care, Immunology and vaccination, Internet and video services, Mental health, Philippines, Rural conditions and development, Sex offenses, Transportation costs, Veterans' medical care, Women's health",
+            "Summary": "This bill addresses the administration and provision of health care to veterans through the Department of Veterans Affairs (VA) and non-VA providers.First, the bill provides statutory authority for the eligibility thresholds for when a veteran must receive non-VA care under the Veterans Community Care Program (VCCP) for primary care, mental health care, noninstitutional extended care services, specialty care, or specialty services. Additionally, the bill establishes access to care standards for non-VA care under the VCCP, meaning a veteran's appointment must be within specified distances and time frames.Among other requirements, the VA must also implement an 18-month pilot program to allow certain veterans to use a website or mobile application to request, schedule, and confirm medical appointments with VCCP providers; ensure that VCCP third party administrators and credentials verification organizations comply with specified requirements to help ensure that certain health care providers are excluded from providing non-VA health care services; develop a strategic plan to ensure the effectiveness of the telehealth technologies and modalities delivered by the VA; and establish an online health care education portal for veterans. The bill requires the Government Accountability Office to report on (1) the VA program under which third parties provide transportation for veterans who are seeking VA services or benefits, (2) VA telehealth services, and (3) the VA's Foreign Medical Program.Finally, the Paperwork Reduction Act does not apply to the voluntary collection of information during research conducted by the Veterans Health Administration."
+        },
+        {
+            "Bill Number": "H.R. 2901 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 2901 (117th)",
+            "Bill Name": "EB\\u20135 Reform and Integrity Act of 2021",
+            "Subject Areas": "Business investment and capital, Business records, Congressional oversight, Department of Homeland Security, Drug trafficking and controlled substances, Economic development, Employee hiring, Espionage and treason, Evidence and witnesses, Executive agency funding and structure, Family relationships, Financial services and investments, Foreign labor, Fraud offenses and financial crimes, Government ethics and transparency, public corruption, Government information and archives, Government studies and investigations, Government trust funds, Human rights, Human trafficking, Immigration status and procedures, Intellectual property, Securities, Smuggling and trafficking, Terrorism, U.S. and foreign investments, User charges and fees, Visas and passports",
+            "Summary": "This bill reauthorizes the EB-5 Regional Center program through FY2026 and makes various changes to the program, such as imposing various oversight requirements. (EB-5 visas provide permanent resident status to qualified alien investors. A regional center allows EB-5 aliens to pool investments to meet various investment and job creation requirements.)Oversight-related provisions include requiring each center to (1) notify the Department of Homeland Security (DHS) of proposed changes to the center's structure, (2) maintain certain records and make such records available to DHS for audits, (3) obtain approval for each particular investment offering, and (4) annually report to DHS.The bill prohibits certain individuals and entities from involvement in a center, such as (1) a person who had committed a violation involving fraud in the previous 10 years, (2) a non-U.S. national not admitted for permanent residence, or (3) a foreign government official.DHS shall deny petitions, such as a petition to certify a regional center or to classify an alien as an alien investor, if approval would threaten U.S. national interest.The bill provides various enforcement authority to DHS and U.S. Citizenship and Immigration Services, including the ability to permanently bar an individual from participating in the regional center program.The bill establishes the EB-5 Integrity Fund to fund program enforcement activities.The bill contains various provisions related to EB-5 petitions, such as a provision authorizing DHS to extend an alien's conditional permanent residence status."
+        },
+        {
+            "Bill Number": "H.R. 2249 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 2249 (117th)",
+            "Bill Name": "Willie O\\u2019Ree Congressional Gold Medal Act",
+            "Subject Areas": "Racial and ethnic relations",
+            "Summary": "This bill provides for the award of a Congressional Gold Medal to Willie O'Ree or, if unavailable, to a member of his family, in recognition of his contributions and commitment to hockey, inclusion, and recreational opportunity."
+        },
+        {
+            "Bill Number": "H.R. 8910 (117th)",
+            "First Name": "Bryan  Steil",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 8910 (117th)",
+            "Bill Name": "Behavioral Health Integration Awareness Act of 2022",
+            "Subject Areas": NaN,
+            "Summary": "This bill requires the Centers for Medicare & Medicaid Services to (1) conduct outreach to providers on the availability of certain behavioral health integration services under Medicare, and (2) report on the utilization of such services."
+        }
+    ],
+    "SponsoredBills": [
+        {
+            "Bill Number": "H.R. 3196",
+            "First Name": "Bryan  Steil",
+            "Last Name": "sponsor",
+            "Role": "H.R. 3196",
+            "Bill Name": "Architect of the Capitol Appointment Act of 2023",
+            "Subject Areas": "U.S. Capitol",
+            "Summary": "This bill modifies the procedures for appointing and removing the Architect of the Capitol (who is responsible for the operation and care of the Capitol grounds, facilities, and art).Specifically, the bill establishes a bipartisan congressional commission to, by majority vote, appoint, reappoint, and remove the Architect. (Currently, the Architect is appointed by the President and confirmed by the Senate.)The bill also provides for the Deputy Architect to serve as acting Architect in the event the Architect is absent, disabled, or otherwise unavailable.If the Architect fails to appoint a Deputy Architect within a set time frame, the commission must do so. Additionally, in the event of vacancies in both the Architect and Deputy Architect positions, the commission must appoint an acting Architect."
+        },
+        {
+            "Bill Number": "H.R. 5734",
+            "First Name": "Bryan  Steil",
+            "Last Name": "sponsor",
+            "Role": "H.R. 5734",
+            "Bill Name": "To amend the Federal Election Campaign Act of 1971 to extend the Administrative Fine Program for certain reporting violations.",
+            "Subject Areas": NaN,
+            "Summary": "This bill extends through December 31, 2033, the statutory authorization for the Federal Election Commission Administration Fine Program. This program provides expedited enforcement for late and nonfiled campaign finance disclosure reports."
+        }
+    ],
+    "VotingRecord": [
+        {
+            "Bill Number": "H.R. 3630 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 3630 (117th)",
+            "Bill Name": "Lymphedema Treatment Act",
+            "Summary": "This bill provides for Medicare coverage of lymphedema compression treatment items. Specifically, the bill provides for coverage of standard and custom fitted gradient compression garments and other approved items that are prescribed by a physician or other specified health care professional to treat lymphedema.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 884 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 884 (117th)",
+            "Bill Name": "National Aviation Preparedness Plan Act of 2022",
+            "Summary": "This bill directs the Department of Transportation (DOT) to develop a national aviation preparedness plan for communicable disease outbreaks, including to (1) create a process to identify appropriate personal protective equipment to reduce the likelihood of exposure to a communicable disease that has the potential to cause an epidemic or pandemic of infectious disease that would constitute a public health emergency of international concern (i.e., a covered communicable disease); and (2) improve coordination between airports, air carriers, and governmental entities with respect to preparing for and responding to communicable disease outbreaks.In developing the plan, DOT must consult with aviation industry and labor stakeholders such as air carriers.The Government Accountability Office must conduct a study assessing the plan, including (1) whether the plan meets the obligations of the United States under international conventions and treaties, and (2) the extent to which the U.S. aviation system is prepared to respond to an outbreak of a covered communicable disease.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 4346",
+            "First Name": "Bryan Steil",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 4346",
+            "Bill Name": "CHIPS Act of 2022 / Research and Development, Competition, and Innovation Act / Supreme Court Security Funding Act of 2022",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 3616 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 3616 (117th)",
+            "Bill Name": "Bear River National Heritage Area Study Act",
+            "Summary": "This bill directs the Department of the Interior to conduct a study to assess the suitability and feasibility of designating the study area, including areas in Utah and Idaho that are within the main drainage area of the Bear River, as a National Heritage Area, to be known as the Bear River National Heritage Area.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 2992 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 2992 (117th)",
+            "Bill Name": "Traumatic Brain Injury and Post-Traumatic Stress Disorder Law Enforcement Training Act",
+            "Summary": "This bill requires the Bureau of Justice Assistance (BJA) to consult with relevant agencies to establish crisis intervention training tools for first responders to address individuals with traumatic brain injuries, acquired brain injuries, and post-traumatic stress disorder. The BJA must ensure that at least one police department designated as a Law Enforcement Mental Health Learning Site utilizes the tools and that such tools are part of the Police-Mental Health Collaboration Toolkit.Additionally, the bill requires the Centers for Disease Control and Prevention to study and report about the prevalence and incidence of concussions among first responders.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 7777 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 7777 (117th)",
+            "Bill Name": "Industrial Control Systems Cybersecurity Training Act",
+            "Summary": "This bill establishes within the Cybersecurity and Infrastructure Security Agency an initiative to provide the cybersecurity workforce with no-cost training related to securing industrial control systems. These are information systems used to control industrial processes, such as manufacturing, product handling, production, and distribution.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 6868 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 6868 (117th)",
+            "Bill Name": "Cybersecurity Grants for Schools Act of 2022",
+            "Summary": "This bill allows the Cybersecurity and Infrastructure Security Agency (CISA) to award grants or other financial assistance for cybersecurity and infrastructure security education and training programs at the elementary and secondary education levels. Entities eligible for the assistance include states, localities, institutions of higher education, and nonprofits. Additionally, CISA must include information about how the grants and assistance enhance cybersecurity education for underserved populations or communities in annual briefings.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1339 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1339 (117th)",
+            "Bill Name": "Advanced Air Mobility Coordination and Leadership Act",
+            "Summary": "This bill directs the Department of Transportation to establish an Advanced Air Mobility (AAM) interagency working group to plan and coordinate efforts related to the safety, operations, infrastructure, physical security, cybersecurity, and federal investment necessary to bolster the AAM ecosystem in the United States. Advanced Air Mobility refers to a transportation system that transports people and property by air between two points in the United States using aircraft, including electric aircraft or electric vertical take-off and landing aircraft, in both controlled and uncontrolled airspace.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 4233",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 423",
+            "Bill Name": "Pala Band of Mission Indians Land Transfer Act of 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 567 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 567 (117th)",
+            "Bill Name": "Trans-Sahara Counterterrorism Partnership Program Act of 2021",
+            "Summary": "This bill provides statutory authority for the Trans-Sahara Counterterrorism Partnership Program, an interagency program launched in 2005 to partner with countries in the Sahel and Maghreb regions of Africa to counter terrorism and violent extremism.The Department of State, in consultation with the Department of Defense and the U.S. Agency for International Development, shall establish the partnership program, which must coordinate all U.S. programs in North and West Africa related to various counterterrorism activities, such as building foreign-military capacity, enhancing border security, promoting youth employment, and supporting independent media to counter terrorist propaganda.The State Department must submit comprehensive, five-year strategies that include specified activities for the Sahel and Maghreb regions and for program counterterrorism efforts. Further, program activities must, among other things (1) be carried out in countries where there is an adequate level of partner country committment, and (2) have clearly defined outcomes and specific plans with indicators to regularly monitor and evaluate outcomes and impact. Such activities must also take into account the counterterrorism and development strategies of partner countries and align with such strategies to the extent possible.The State Department shall notify Congress before obligating funds for such programs, and must submit annual reports about program activities.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 2617 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 2617 (117th)",
+            "Bill Name": "Consolidated Appropriations Act, 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 3508 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 3508 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 39 West Main Street, in Honeoye Falls, New York, as the \\u201cCW4 Christian J. Koch Memorial Post Office\\u201d.",
+            "Summary": "This bill designates the facility of the United States Postal Service located at 39 West Main Street, in Honeoye Falls, New York, as the CW4 Christian J. Koch Memorial Post Office.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 4250 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 4250 (117th)",
+            "Bill Name": "War Crimes Rewards Expansion Act",
+            "Summary": "This bill expands the Department of State's rewards program to authorize rewards for providing information leading to the arrest, conviction, or transfer of a foreign national accused of war crimes, crimes against humanity, or genocide as such crimes are defined under the law of an international criminal tribunal, the applicable country, or the United States. Currently, rewards are authorized for information leading to the arrest, conviction, or transfer of a foreign national accused of such crimes only as defined under the statutes of the relevant tribunal.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 521 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 521 (117th)",
+            "Bill Name": "First Responder Fair RETIRE Act",
+            "Summary": "This bill allows disabled federal first responders (e.g., law enforcement officers, customs and border protection officers, and firefighters) to continue receiving federal retirement benefits in the same manner as though they had not been disabled.Under current law, federal first responders are subject to a mandatory retirement age of 57. To facilitate this earlier retirement, federal first responders are required to pay a greater percentage of their salary towards retirement. Additionally, their annuity amount is calculated at a higher rate than other federal employees.This bill allows a federal first responder to remain in the accelerated retirement system if they are placed in another civil service position outside of that system after returning to work from a work-related injury or illness. Further, if such an employee is separated from service before they are entitled to receive an annuity, they may receive a refund of their accelerated contributions.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 2278 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 2278 (117th)",
+            "Bill Name": "To designate the September 11th National Memorial Trail Route, and for other purposes.",
+            "Summary": "This bill designates a trail route, to be known as the September 11th National Memorial Trail Route, to link the National 9/11 Memorial and Museum in New York, New York, the National 9/11 Pentagon Memorial in Arlington, Virginia, and the Flight 93 National Memorial in Somerset County, Pennsylvania.The September 11th National Memorial Trail Route shall provide for a tribute to the family members and loved ones who were victims of the attack and the heroes of September 11th, including the first responders in the days, weeks, and months after the attack; be a trail of remembrance to honor the fallen in a tangible way that keeps their memories alive and reaffirms the exceptionalism of our country; and be a celebration of our nation's resilience and perseverance since September 11, 2001. The September 11th National Memorial Trail Route shall be administered by the National Park Service but not be considered to be a unit of the National Park System or a part of the National Trail System.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 2617 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 2617 (117th)",
+            "Bill Name": "Consolidated Appropriations Act, 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 4365",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 4365",
+            "Bill Name": "Department of Defense Appropriations Act, 2024",
+            "Summary": "This bill provides FY2024 appropriations to the Department of Defense (DOD) for military activities.(The bill excludes military construction, military family housing, civil works projects of the Army Corps of Engineers, and nuclear warheads, which are all included in other appropriations bills.)Within the DOD budget, the bill provides appropriations for Military Personnel; Operation and Maintenance; Procurement; Research, Development, Test and Evaluation; and Revolving and Management Funds. The bill provides appropriations for Other Department of Defense Programs, including the Defense Health Program, Chemical Agents and Munitions Destruction, Drug Interdiction and Counter-Drug Activities, and the Office of the Inspector General. In addition, the bill provides appropriations for Related Agencies, including (1) the Central Intelligence Agency Retirement and Disability System Fund, and (2) the Intelligence Community Management Account.The bill also sets forth requirements and restrictions for using funds provided by this and other appropriations acts.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 6965 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 6965 (117th)",
+            "Bill Name": "Visit America Act",
+            "Summary": "This bill implements measures to support the U.S. travel and tourism industry and to address the declining percentage of international visitors to the United States.Specifically, the bill requires the Department of Commerce to develop a 10-year travel and tourism strategy with annual goals for the number of international visitors to the United States and for tourism commerce. The bill also establishes the role of Assistant Secretary of Commerce for Travel and Tourism, whose responsibilities shall include setting an annual goal for the number of international visitors to the United States and facilitating international business travel to the United States.Further, the assistant secretary must develop and implement a COVID-19 pandemic recovery strategy to assist the recovery of the U.S. travel and tourism industry.The bill also provides statutory authority for the United States Travel and Tourism Advisory Board, which shall aid the assistant secretary in developing and implementing the COVID-19 pandemic recovery strategy.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 390 (117th)",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 390 (117th)",
+            "Bill Name": "To redesignate the Federal building located at 167 North Main Street in Memphis, Tennessee as the \\u201cOdell Horton Federal Building\\u201d.",
+            "Summary": "This bill designates the federal building at 167 North Main Street in Memphis, Tennessee (commonly known as the Clifford Davis and Odell Horton Federal Building), as the Odell Horton Federal Building.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 6363",
+            "First Name": "Bryan Steil",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 6363",
+            "Bill Name": "Further Continuing Appropriations and Other Extensions Act, 2024",
+            "Summary": "This bill provides continuing FY2024 appropriations for federal agencies. The bill also extends several expiring programs and authorities, including programs authorized by the 2018 farm bill and several public health programs.DIVISION A--FURTHER CONTINUING APPROPRIATIONS ACT, 2024Further Continuing Appropriations Act, 2024(Sec. 101) This section provides continuing FY2024 appropriations for federal agencies and extends several expiring programs and authorities.It is known as a continuing resolution (CR) and prevents a government shutdown that would otherwise occur if the FY2024 appropriations bills have not been enacted when the existing CR expires on November 17, 2023.The CR provides funding through January 19, 2024, for agencies and programs that were funded in the following four FY2023 appropriations acts: the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2023; the Energy and Water Development and Related Agencies Appropriations Act, 2023; the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2023; and the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023. For most other federal agencies and programs, the CR provides funding through February 2, 2024.The CR generally funds most programs and activities at the FY2023 levels with several exceptions that provide funding flexibility and additional appropriations for various programs. For example, the CR includes exceptions for: the Navy's procurement of one Columbia Class Submarine, activities of the U.S. Secret Service that are related to National Special Security Events and the 2024 Presidential Campaign, and activities of the Department of Education that are necessary to ensure the continuation of student loan servicing activities. This section also extends several expiring programs and authorities, including the U.S. Parole Commission, the authority for the Department of Defense (DOD) to provide physical protection and personal security for certain former or retired DOD officials who face serious and credible threats arising from duties performed while employed by DOD, restrictions on firearms that are undetectable by walk-through metal detectors and X-ray machines commonly used at airports, limits on pay increases for the Vice President and certain senior political appointees, the exemption from the Antideficiency Act for the Federal Communications Commission's Universal Service Fund, and the Department of Homeland Security's Countering Weapons of Mass Destruction Office. This section provides appropriations for a payment to Katherine Anne Feinstein, the beneficiary of the late Senator Dianne Feinstein.DIVISION B--OTHER MATTERSTITLE I--EXTENSIONS AND OTHER MATTERS(Sec. 101) This section extends provisions that provide grants and other financial assistance to the Federated States of Micronesia and the Republic of the Marshall Islands.(Sec. 102) This section extends programs authorized by the Agriculture Improvement Act of 2018 (commonly known as the 2018 farm bill) until the later of (1) September 30, 2024, or (2) the date specified in the provision of the act.This section extends and amends Department of Agriculture (USDA) commodity programs, including by extending various programs for covered commodities, a loan commodity, sugarcane, or sugar beets for the 2024 crop year; extending the Dairy Margin Coverage (DMC) program through December 31, 2024; limiting the 25% premium discount for the DMC program in 2024 to participating dairy operations that received the discount in 2023; allowing Dairy Forward Pricing Program contracts to be extended through September 30, 2027 (currently September 30, 2026); extending the Price Loss Coverage (PLC) payments through the 2024 crop year for a covered commodity; extending the suspension of permanent price support authorities for the 2024 crop year for covered commodities, cotton, and sugar and through December 31, 2024, for milk; and extending the suspension of provisions related to corn and wheat marketing quotas for wheat planted for harvest in calendar year 2024. This section reauthorizes, and extends funding for, the Grassroots Source Water Protection Program (SWPP) for FY2024. The SWPP is a joint project with the Farm Service Agency and the National Rural Water Association (a nonprofit water and wastewater utility membership organization), which is designed to help prevent pollution of surface and ground water that is used as the primary source of drinking water by rural residents.This section reauthorizes, and extends funding for, the Voluntary Public Access and Habitat Incentive Program through FY2024. The program provides funding to help state and tribal governments encourage landowners to allow public access to their land for hunting, fishing, and other wildlife-dependent recreation.This section reauthorizes, and extends funding for, the Feral Swine Eradication and Control Pilot Program through FY2024. The program responds to the threat feral swine pose to agriculture, native ecosystems, and human and animal health.This section extends the Bill Emerson Humanitarian Trust through FY2024 to allow for eligible commodities to remain in the trust until September 30, 2024. The program makes funds available to provide emergency food assistance to developing countries.This section extends the Emergency Food Assistance Program (TEFAP) through FY2024. TEFAP provides food commodities (and cash support for storage and distribution costs) through states to local emergency feeding organizations (e.g., food banks).This section reauthorizes, and extends funding for, the Rural Economic Development Loan & Grant Program through FY2024 to provide funding for rural projects through local utility organizations.This section provides specified funds for scholarships for students at 1890 Institutions and extends the annual grant limitation by one year. This National Institute of Food and Agriculture (NIFA) program provides grants to 1890 Institutions (i.e., historically Black colleges and universities that belong to the U.S. land-grant university system) for awarding scholarships to students who intend to pursue a career in the food and agricultural sciences.This section also reauthorizes, and extends funding for, the Urban, Indoor, and other Emerging Agricultural Production Research, Education, and Extension Initiative for FY2024, a NIFA competitive grant program; provides specified funds for the Foundation for Food and Agriculture Research, a nonprofit corporation established to advance the research mission of USDA by supporting research activities focused on key problems of national and international significance; and extends through FY2024 a provision that prohibits USDA from declaring the Grazinglands Research Laboratory in El Reno, Oklahoma, to be excess or surplus federal property, or otherwise conveying or transferring the property. This section reauthorizes, and extends funding for, the biobased markets program (i.e., BioPreferred Program) through FY2024 to promote biobased products through (1) mandatory purchasing requirements for federal agencies and their contractors, and (2) a voluntary labeling initiative for biobased products.This section reauthorizes, and extends funding for, the bioenergy program for advanced biofuels (i.e., Advanced Biofuel Payment Program) through FY2024. The program provides payments to fuel producers to support and expand production of advanced biofuels (i.e., not derived from corn starch).This section extends through the 2024 crop the Feedstock Flexibility Program (FFP) for Bioenergy Producers, which allows the Commodity Credit Corporation to purchase surplus sugar from processors for resale to ethanol producers for ethanol fuel. Further, this section extends through September 1, 2024, requirements for USDA to provide notice to eligible entities and bioenergy producers of the quantity of eligible commodities that must be made available for purchase and sale for the crop year.This section extends the authority and funding through FY2024 for USDA to collect and report data on the production and marketing of organic agricultural products.This section reauthorizes, and extends funding through FY2024 for, modernization and improvement of international trade technology systems and data collection for imports of organically produced agricultural products.This section reauthorizes, and extends funding for, the Organic Certification Cost Share Program for FY2024. The program provides cost-share assistance to producers and handlers of agricultural products who are obtaining or renewing their certification under the National Organic Program.This section reauthorizes, and extends funding for, the multiple crop and pesticide use survey of farmers through FY2024. The USDA Office of Pest Management Policy conducts this survey to collect data for risk assessment modeling and mitigation for an active ingredient.This section also extends the Pima Agriculture Cotton Trust Fund through December 31, 2024, which provides assistance to reduce the economic injury to domestic manufacturers resulting from tariffs on cotton fabric that are higher than tariffs on certain apparel articles made of cotton fabric; the Agriculture Wool Apparel Manufacturers Trust Fund through December 31, 2024, which provides assistance to reduce the economic injury to domestic manufacturers resulting from tariffs on wool fabric that are higher than tariffs on certain apparel articles made of wool fabric; the Wool Research and Promotion Program through FY2024, which provides grants to assist U.S. wool producers with improving the quality of wool and with developing and promoting the wool market; the Emergency Citrus Disease Research and Development Trust Fund through FY2024, which funds a program that aims to bring together scientists to find scientifically sound and financially sustainable solutions to Huanglongbing (i.e., citrus greening, a bacterial disease spread by an insect that feeds on citrus); and the Sheep Production & Marketing Grant Program through FY2024, which seeks to strengthen and enhance the production and marketing of sheep and sheep products in the United States. This section specifies that the extension of farm bill programs does not apply to certain mandatory funding that was provided for (1) the Farm Service Agency to implement USDA commodity programs, and (2) certain payments under the Conservation Reserve Program for forest management thinning and transition contracts.This section extends various reporting requirements authorized by the Agriculture Improvement Act of 2018.This section rescinds specified funds that were provided to USDA for the Biorefinery, Renewable Chemical, and Biobased Product Manufacturing Assistance Program, which provides loan guarantees to assist in the development of new and emerging technologies for the development of advanced biofuels, renewable chemicals, and biobased product manufacturing.This section, with limited exceptions, must be applied and administered as if it had been enacted on September 30, 2023.TITLE II--HEALTH AND HUMAN SERVICESSubtitle A--Public Health Extenders(Sec. 201) This section extends through January 19, 2024, funding for the Teaching Health Center Graduate Medical Education Program, the Community Health Center Fund, and the National Health Services Corps. (The program supports education and training of medical students in primary care residency programs in community-based ambulatory patient care centers. The fund supports (1) grants for outpatient health care facilities that serve medically underserved populations; and (2) the National Health Service Corps, which provides scholarships and student loan repayment awards to health care providers who agree to work in areas with health care provider shortages.)(Sec. 202) This section extends funding through January 19, 2024, for the Special Diabetes Program for Type I Diabetes and the Special Diabetes Program for Indians. (The Special Diabetes Program for Type I Diabetes supports research on the prevention and cure of Type I diabetes, and the Special Diabetes Program for Indians supports diabetes treatment and prevention for tribal populations.)(Sec. 203) This section extends through January 19, 2024, the authority that allows states and tribes to request the temporary reassignment of state and local health department personnel who are funded through certain federal programs to immediately address a public health emergency.It also extends through January 19, 2024, provisions that prohibit the disclosure of information about Department of Health and Human Services (HHS) programs that could compromise national security (e.g., information regarding biomedical threats).The section extends provisions that authorize HHS to engage with developers of medical countermeasures, and that provide for related antitrust exemptions, for the purpose of furthering product development.Additionally, the section extends through January 19, 2024, the National Advisory Committee on Children and Disasters, the National Advisory Committee on Seniors and Disasters, and the National Advisory Committee on Individuals with Disabilities and Disasters.It also extends through January 19, 2024, the authority of HHS to directly appoint candidates to positions within the National Disaster Medical System if HHS determines the number of personnel in the system is insufficient to address a public health emergency or potential public health emergency.(The National Disaster Medical System is a partnership between HHS, the Department of Defense, and other federal departments that responds to public health and other emergencies, including by deploying medical response teams.)Subtitle B--Medicaid(Sec. 301) This section delays reductions to Medicaid disproportionate-share hospital (DSH) allotments until January 20, 2024. (DSHs are hospitals that receive additional payments under Medicaid for treating a large share of low-income patients.)(Sec. 302) This section reduces the amount of funding available to the Medicaid Improvement Fund for activities relating to mechanized claims systems beginning in FY2028.Subtitle C--Human Services(Sec. 401) This section funds through January 19, 2024, programs that support child welfare services and activities. Specifically, it funds the (1) Stephanie Tubbs Jones Child Welfare Service Program, which provides grants to states and Indian tribes to support preventive interventions and other activities to keep families together; and (2) the MaryLee Allen Promoting Safe and Stable Families Program, which supports efforts to prevent the unnecessary separation of children from their families, improve quality of care and services to children and their families, and ensure permanent living arrangements for children (e.g., parental reunification or adoption).(Sec. 402) This section extends funding through January 19, 2024, for the Sexual Risk Avoidance Education Program. This program supports projects to implement sexual risk avoidance education that teaches participants to voluntarily refrain from nonmarital sexual activities.(Sec. 403) This section extends funding through January 19, 2024, for the Personal Responsibility Education Program. This program provides grants to states to educate young people about abstinence and contraception for prevention of pregnancy and sexually transmitted infections. The program also supports pregnant and parenting youth.Subtitle D--Medicare(Sec. 501) This section extends through January 19, 2024, certain minimum adjustments to the work geographic index with respect to payments for physician services under Medicare.(Sec. 502) This section delays until 2025 certain laboratory reporting requirements that are used to determine payment rates for clinical diagnostic laboratory tests under Medicare, as well as related payment reductions.(Sec. 503) This section increases funding for the Medicare Improvement Fund.TITLE III--MISCELLANEOUS EXTENSIONS(Sec. 601) This section extends through February 3, 2024, the authority of the Department of Homeland Security and the Department of Justice to take certain actions to mitigate a credible threat to certain facilities or assets from an unmanned aircraft system (UAS). These include certain facilities that are located in the United States and identified as high-risk and a potential target for unlawful UAS activity.TITLE IV--BUDGETARY EFFECTS(Sec. 701) This section exempts the budgetary effects of this division from (1) the Statutory Pay-As-You-Go Act of 2010 (PAYGO Act), (2) the Senate PAYGO rule, and (3) certain budget scorekeeping rules.",
+            "Status": "Enacted"
+        }
+    ]
+}

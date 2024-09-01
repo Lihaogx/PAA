@@ -1,0 +1,35 @@
+{
+    "Name": "Bob Good",
+    "Profile": {
+        "Public Office": {
+            "Member of the U.S. House of Representativesfrom Virginia's 5th district": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 3, 2021",
+                "Preceded by": "Denver Riggleman",
+                "District Info": {
+                    "Median householdincome": "$140,815",
+                    "Distribution": "85.53% urban,14.47% rural",
+                    "Population": "791,467",
+                    "Ethnicity": "61.94% ,White,14.02% ,Hispanic,13.85% ,Asian,6.65% ,Black,0.49% ,Native American"
+                }
+            },
+            "Member of theCampbell County Board of Supervisorsfrom the Sunburst district": {
+                "In office": "January 1, 2016 – December 31, 2019",
+                "Preceded by": "Steven Marche Shockley",
+                "Succeeded by": "Steven Wilson Shockley"
+            }
+        },
+        "Personal Details": {
+            "Personal details": {
+                "Born": "Robert George Good, (,1965-09-11,) ,September 11, 1965, (age 57),Wilkes-Barre, Pennsylvania,, U.S.",
+                "Political party": "Republican",
+                "Spouse": "Tracey Good, ,,(,m., 1988),",
+                "Children": "3",
+                "Education": "Liberty University, (,BS,, ,MBA,)",
+                "Website": "House website"
+            }
+        }
+    },
+    "UnusedVotingRecords": [],
+    "VotingRecord": []
+}

@@ -1,0 +1,832 @@
+{
+    "Name": "Andrew Clyde",
+    "Profile": {
+        "Public Office": {
+            "Member of the U.S. House of Representativesfrom Georgia's 9th district": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 3, 2021",
+                "Preceded by": "Doug Collins",
+                "District Info": {
+                    "Median householdincome": "$67,918",
+                    "Distribution": "56.03% urban,43.97% rural",
+                    "Population": "790,768",
+                    "Ethnicity": "65.3% ,White,25.3% ,Black,5.4% ,Hispanic,2.1% ,Asian,1.5% ,Two or more races,0.3% other"
+                }
+            }
+        },
+        "Personal Details": {
+            "Personal details": {
+                "Born": "Andrew Scott Clyde, (,1963-11-22,) ,November 22, 1963, (age 59),Walkerton, Ontario,, Canada",
+                "Political party": "Republican",
+                "Spouse": "Jennifer Morgan",
+                "Education": "Bethel University, (,BBA,),University of Georgia, (,MBA,)",
+                "Website": "House website"
+            }
+        }
+    },
+    "UnusedVotingRecords": [
+        {
+            "Bill Number": "H.R. 3508 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 3508 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 39 West Main Street, in Honeoye Falls, New York, as the \\u201cCW4 Christian J. Koch Memorial Post Office\\u201d.",
+            "Summary": "This bill designates the facility of the United States Postal Service located at 39 West Main Street, in Honeoye Falls, New York, as the CW4 Christian J. Koch Memorial Post Office.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 2911 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 2911 (117th)",
+            "Bill Name": "VA Transparency & Trust Act of 2021",
+            "Summary": "This bill requires the Department of Veterans Affairs (VA) to submit a plan for obligating and expending covered funds, which are funds made available to the VA for response to the COVID-19 pandemic.The bill requires the VA to submit biweekly reports regarding obligations, expenditures, and planned uses of the funds until seven days after the VA has expended all covered funds.The Inspector General of the VA must submit reports examining the obligations and expenditures made using covered funds during the specified reporting period.Finally, the Government Accountability Office must submit an interim report and final report containing a review of obligations and expenditures made using covered funds.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 92 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 92 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 110 Johnson Street in Pickens, South Carolina, as the \\u201cSpecialist Four Charles Johnson Post Office\\u201d.",
+            "Summary": "This bill designates the facility of the United States Postal Service located at 110 Johnson Street in Pickens, South Carolina, as the Specialist Four Charles Johnson Post Office.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 91 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 91 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 810 South Pendleton Street in Easley, South Carolina, as the \\u201cPrivate First Class Barrett Lyle Austin Post Office Building\\u201d.",
+            "Summary": "This bill designates the facility of the United States Postal Service located at 810 South Pendleton Street in Easley, South Carolina, as the Private First Class Barrett Lyle Austin Post Office Building.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1096",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1096",
+            "Bill Name": "250th Anniversary of the United States Marine Corps Commemorative Coin Act",
+            "Summary": "This bill directs the Department of the Treasury to mint and issue not more than 50,000 $5 gold coins, 400,000 $1 silver coins, and 750,000 half-dollar clad coins emblematic of the 250th anniversary of the United States Marine Corps.All surcharges received by Treasury from the sale of such coins must be paid to the Marine Corps Heritage Foundation and shall only be used for the purposes of supporting the mission of the Marine Corps Heritage Center.",
+            "Status": "Enacted",
+            "Democrat_Yea": 0.9528301886792452,
+            "Democrat_Nay": 0.0,
+            "Republican_Yea": 0.9366515837104072,
+            "Republican_Nay": 0.004524886877828
+        },
+        {
+            "Bill Number": "H.R. 6386 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 6386 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 450 West Schaumburg Road in Schaumburg, Illinois, as the \\u201cVeterans of Iraq and Afghanistan Memorial Post Office Building\\u201d.",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 700 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 700 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 303 East Mississippi Avenue in Elwood, Illinois, as the \\u201cLawrence M. \\u2018Larry\\u2019 Walsh Sr. Post Office\\u201d.",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 5900 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 5900 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 2016 East 1st Street in Los Angeles, California, as the \\u201cMarine Corps Reserve PVT Jacob Cruz Post Office\\u201d.",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 224 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 224 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 5302 Galveston Road in Houston, Texas, as the Vanessa Guill\\u00e9n Post Office Building.",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1437 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 1437 (117th)",
+            "Bill Name": "Further Continuing Appropriations and Extensions Act, 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 7077 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 7077 (117th)",
+            "Bill Name": "Empowering the U.S. Fire Administration Act",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 935 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 935 (117th)",
+            "Bill Name": "Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2021",
+            "Summary": "This bill exempts from securities registration requirements certain merger-and-acquisition brokers that facilitate transfer of ownership in privately held companies with earnings or revenues under a specified threshold. However, this exemption shall not apply to certain brokers, including those that provide financing related to the transfer of ownership, engage on behalf of any party in a transaction involving specified shell companies, or have been barred or suspended from association with a broker or dealer.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 3672",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 3672",
+            "Bill Name": "To designate the clinic of the Department of Veterans Affairs in Indian River, Michigan, as the \\u201cPfc. Justin T. Paton Department of Veterans Affairs Clinic\\u201d.",
+            "Summary": NaN,
+            "Status": "Enacted",
+            "Democrat_Yea": 0.9386792452830188,
+            "Democrat_Nay": 0.0,
+            "Republican_Yea": 0.9502262443438914,
+            "Republican_Nay": 0.0
+        },
+        {
+            "Bill Number": "H.R. 1899 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1899 (117th)",
+            "Bill Name": "Ensuring Compliance Against Drug Diversion Act of 2021",
+            "Summary": "This bill provides statutory authority for certain regulations governing the modification, transfer, and termination of a registration to manufacture, distribute, or dispense controlled substances. It terminates the registration of individuals and entities when they die, cease legal existence, discontinue business, or surrender such registration. It sets forth notification requirements, as well as conditions for transferring or assigning a registration.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1762 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1762 (117th)",
+            "Bill Name": "Protecting Indian Tribes from Scams Act",
+            "Summary": "This bill requires the Federal Trade Commission (FTC), after consultation with Indian tribes, to report on unfair or deceptive practices that target tribes or tribal members. The FTC must submit the report to Congress and make it publicly available. Further, the FTC must update its website to include information for consumers and businesses on identifying and avoiding unfair or deceptive practices that target tribes or tribal members.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1002 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1002 (117th)",
+            "Bill Name": "DEBAR Act of 2021",
+            "Summary": "This bill authorizes the Drug Enforcement Administration (DEA) to bar an entity from registering to manufacture, distribute, or dispense controlled substances under certain circumstances.Specifically, the DEA may bar—temporarily or permanently—the registration of an entity that (1) meets or has met any condition for suspension or revocation of the registration, and (2) has a history of prior suspensions or revocations.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 941 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 941 (117th)",
+            "Bill Name": "TRANSPLANT Act of 2021",
+            "Summary": "This bill modifies and reauthorizes through FY2026 the C.W. Bill Young Cell Transplantation Program, which provides support to patients who need a potentially life-saving bone marrow transplant or umbilical cord blood transplant.The bill also requires the Department of Health and Human Services to conduct a periodic review of the science of using adult stem cells and birthing tissues in therapeutic treatments.In addition, the Government Accountability Office must report on the regenerative medicine workforce.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1460 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 1460 (117th)",
+            "Bill Name": "Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2021",
+            "Summary": "This bill directs the Consumer Product Safety Commission to award grants to states and tribal organizations to install carbon monoxide alarms in the homes of low-income families and older adults and facilities that commonly serve children or older adults. Such carbon monoxide alarms must comply with specified standards.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1215 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1215 (117th)",
+            "Bill Name": "Fraud and Scam Reduction Act",
+            "Summary": "This bill expands activities to address mail, telephone, and internet fraud, particularly such scams targeting older adults.The bill establishes a Senior Scams Prevention Advisory Group, which must create model educational materials to educate employees of retailers, financial-services companies, and wire-transfer companies on how to identify and prevent scams that affect older adults.Further, the Federal Trade Commission (FTC) must establish an advisory office in the Bureau of Consumer Protection to assist the FTC in monitoring scams targeting older adults, educating consumers, and receiving complaints.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 172 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Not Voting",
+            "Bill Number.1": "H.R. 172 (117th)",
+            "Bill Name": "United States Anti-Doping Agency Reauthorization Act of 2021",
+            "Summary": "This bill authorizes appropriations for the U.S. Anti-Doping Agency (USADA) through FY2030.The bill adds requirements that USADA be responsible for certifying in advance any testing conducted by international organizations under the World Anti-Doping Code for international amateur athletes and athletic competitions occurring within the jurisdiction of the United States; and promote a positive youth sport experience by using a portion of its funding to provide educational materials on sportsmanship, character building, and healthy performance for those participating in youth sports. The bill requires any action taken by USADA to enforce a policy, procedure, or requirement against a person with respect to a violation of federal law, including an investigation, disciplinary action, sanction, or any other administrative action, to be carried out in a manner that provides due process protection.The Department of Justice, the Department of Homeland Security, and the Food and Drug Administration must provide to USADA information relating to the prevention of the use of performance-enhancing drugs or the prohibition of performance-enhancing methods.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1868 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 1868 (117th)",
+            "Bill Name": "To prevent across-the-board direct spending cuts, and for other purposes.",
+            "Summary": "This bill makes several budgetary and technical changes to provisions under Medicare and Medicaid. The bill continues to exempt Medicare from sequestration until December 31, 2021. (Sequestration is a process of automatic, usually across-the-board spending reductions under which budgetary resources are permanently cancelled to enforce specific budget policy goals.)The bill also specifically applies certain modified payment limits to rural health clinics that temporarily enrolled in Medicare during the public health emergency relating to COVID-19 (i.e., coronavirus disease 2019) or that applied to enroll by December 31, 2020; and preserves higher Medicaid disproportionate-share hospital payments for public hospitals in California under forthcoming payment methodology changes.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1868 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 1868 (117th)",
+            "Bill Name": "To prevent across-the-board direct spending cuts, and for other purposes.",
+            "Summary": "This bill makes several budgetary and technical changes to provisions under Medicare and Medicaid. The bill continues to exempt Medicare from sequestration until December 31, 2021. (Sequestration is a process of automatic, usually across-the-board spending reductions under which budgetary resources are permanently cancelled to enforce specific budget policy goals.)The bill also specifically applies certain modified payment limits to rural health clinics that temporarily enrolled in Medicare during the public health emergency relating to COVID-19 (i.e., coronavirus disease 2019) or that applied to enroll by December 31, 2020; and preserves higher Medicaid disproportionate-share hospital payments for public hospitals in California under forthcoming payment methodology changes.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 3746",
+            "First Name": "Andrew Clyde",
+            "Vote": "No",
+            "Bill Number.1": "H.R. 3746",
+            "Bill Name": "Fiscal Responsibility Act of 2023",
+            "Summary": NaN,
+            "Status": "Enacted",
+            "Democrat_Yea": 0.9166666666666666,
+            "Democrat_Nay": 0.0833333333333333,
+            "Republican_Yea": 0.3469387755102041,
+            "Republican_Nay": 0.6326530612244898
+        },
+        {
+            "Bill Number": "H.R. 7276 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 7276 (117th)",
+            "Bill Name": "Ukraine Invasion War Crimes Deterrence and Accountability Act",
+            "Summary": "This bill requires the President to report to Congress on atrocities committed during Russia's invasion of Ukraine since February 24, 2022.Specifically, the report must describe in detail (1) U.S. government efforts to collect, analyze, and preserve evidence related to war crimes and other atrocities committed during the invasion; (2) media, public diplomacy, and information operations to make the Russian people, including their military and political leaders, aware of efforts to identify and prosecute those responsible for such atrocities; and (3) the process for a domestic, foreign, or international court or tribunal to obtain information from the U.S. government related to such atrocities.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1652 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 1652 (117th)",
+            "Bill Name": "VOCA Fix to Sustain the Crime Victims Fund Act of 2021",
+            "Summary": "This bill adds a new source of revenue for the Crime Victims Fund and makes changes to formula grants supported by the fund.Specifically, the bill directs revenues collected from deferred prosecution and non-prosecution agreements to be deposited into the Crime Victims Fund. Currently, such revenues are deposited into the general fund of the Treasury.Additionally, the bill increases the percentage—from 60% to 75%—of state compensation payments to crime victims in the prior fiscal year used to calculate formula grants for state victim compensation programs.Finally, the bill directs states to waive the matching requirement for recipients of state victim assistance formula grants during and for one year after a pandemic-related national emergency. It also allows states to waive the matching requirement pursuant to a policy established by the state.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1085 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 1085 (117th)",
+            "Bill Name": "To award three congressional gold medals to the United States Capitol Police and those who protected the U.S. Capitol on January 6, 2021.",
+            "Summary": "This bill directs the Speaker of the House and the President pro tempore of the Senate to arrange for the award of three Congressional Gold Medals to the U.S. Capitol Police (USCP) and other law enforcement agencies that protected the U.S. Capitol on January 6, 2021.Following the award of these medals, one medal shall be given to the USCP, one medal shall be given to the Metropolitan Police Department of the District of Columbia, and one medal shall be given to the Smithsonian Institution and displayed with a plaque listing all law enforcement agencies that participated in protecting the Capitol on January 6, 2021.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1651 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1651 (117th)",
+            "Bill Name": "COVID-19 Bankruptcy Relief Extension Act of 2021",
+            "Summary": "This bill extends existing provisions that provide relief to debtors in bankruptcy, including those related to the COVID-19 (i.e., coronavirus disease 2019) pandemic.These provisions (1) exclude certain COVID-19 aid payments from income for the purposes of bankruptcy, and (2) increase the debt eligibility threshold for businesses qualifying for certain types of Chapter 11 reorganization bankruptcy. Currently, these provisions expire March 27, 2021. The bill extends these provisions for one year.The bill also allows for modification of a Chapter 13 repayment plan for plans confirmed before the date of enactment of this bill if the debtor is experiencing material financial hardship due to COVID-19. Currently, such a modification is only available for plans confirmed before March 27, 2020.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1799 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1799 (117th)",
+            "Bill Name": "PPP Extension Act of 2021",
+            "Summary": "This bill extends the Paycheck Protection Program, established to support small businesses in response to COVID-19 (i.e., coronavirus disease 2019), through June 30, 2021. Currently, the program is set to expire on March 31, 2021.For the final 30 days of the program (i.e., from June 1 until June 30), the Small Business Administration may only process applications submitted prior to June 1, and it may not accept any new loan applications.The bill excludes the budgetary effects of this bill from PAYGO scorecards under the Statutory Pay-As-You-Go Act of 2010 and from Senate PAYGO scorecards.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1218 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1218 (117th)",
+            "Bill Name": "Data Mapping to Save Moms\\u2019 Lives Act",
+            "Summary": "This bill directs the Federal Communications Commission (FCC) to include data on certain maternal health outcomes in its broadband health mapping tool. This is an online platform that allows users to visualize, overlay, and analyze broadband and health data at national, state, and county levels.The FCC must consult with the Centers for Disease Control and Prevention to determine which maternal health outcomes should be incorporated.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1319 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 1319 (117th)",
+            "Bill Name": "American Rescue Plan Act of 2021",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 6833 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 6833 (117th)",
+            "Bill Name": "Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1734",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1734",
+            "Bill Name": "TRANQ Research Act of 2023",
+            "Summary": "This bill requires the National Institute of Standards and Technology (NIST) to support research and other activities related to identifying xylazine (a compound used in veterinary medicine as a nonopioid tranquilizer), novel synthetic opioids, and other new psychoactive substances.In particular, NIST must support basic measurement science and research; near-real time spectrometry capabilities (i.e., a technique for rapidly identifying the chemical composition of a substance); strategies and voluntary best practices for handling, transporting, and analyzing such substances; and collaboration with other government agencies, institutions of higher education, and the private sector to enhance relevant narcotic and opioid detection and analysis capabilities. Additionally, the Government Accountability Office must conduct a study on the capabilities of the federal government to detect, identify, and otherwise respond to threats of new psychoactive substances, such as xylazine.",
+            "Status": "Enacted",
+            "Democrat_Yea": 0.9671361502347418,
+            "Democrat_Nay": 0.0,
+            "Republican_Yea": 0.9864864864864864,
+            "Republican_Nay": 0.0
+        },
+        {
+            "Bill Number": "H.R. 2954 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 2954 (117th)",
+            "Bill Name": "Securing a Strong Retirement Act of 2021",
+            "Summary": "This bill makes various changes with respect to employer-sponsored retirement plans, including providing for the automatic enrollment of employees in certain plans and increasing the age at which participants are required to begin receiving mandatory distributions.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 3359 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 3359 (117th)",
+            "Bill Name": "Homicide Victims\\u2019 Families\\u2019 Rights Act of 2021",
+            "Summary": "This bill establishes a framework for immediate family members of a victim of murder under federal law to request a review of the victim's case file if the murder was committed more than three years prior, the murder was investigated by a federal law enforcement entity, all probative investigative leads have been exhausted, and no likely perpetrator has been identified.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 3197 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 3197 (117th)",
+            "Bill Name": "Save the Liberty Theatre Act of 2021",
+            "Summary": NaN,
+            "Status": NaN
+        },
+        {
+            "Bill Number": "H.R. 3113 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 3113 (117th)",
+            "Bill Name": "Modernizing Access to Our Public Land Act",
+            "Summary": "This bill directs the Department of the Interior, the Forest Service, and the U.S. Army Corps of Engineers to jointly develop and adopt interagency standards to ensure compatibility and interoperability among federal databases for the collection and dissemination of outdoor recreation data related to federal lands and used to depict locations at which recreation uses are available to the public.Interior, the Forest Service, and the Corps of Engineers must digitize and publish geographic information system data that includes federal interests, including easements and rights-of-way, in private land; status information as to whether roads and trails are open or closed; the dates on which roads and trails are seasonally opened and closed; the types of vehicles and recreational uses that are allowed on each segment of roads and trails; and the boundaries of areas where hunting or recreational shooting is permanently restricted or closed. Interior, the Forest Service, and the Corps of Engineers may work with the U.S. Geological Survey to collect, digitize, standardize, or publish data to meet the requirements of this bill.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1319 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 1319 (117th)",
+            "Bill Name": "American Rescue Plan Act of 2021",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1192 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1192 (117th)",
+            "Bill Name": "PRRADA",
+            "Summary": "This bill requires professionals employed in debt adjustment cases involving Puerto Rico to file verified statements disclosing their connections with interested parties before seeking compensation for their services.The Financial Oversight and Management Board for Puerto Rico must establish a list of such interested parties, which shall include the debtor, creditors, any attorney or accountant of the debtor or creditors, persons employed by the U.S. Trustee Program, persons employed by the board, and any other interested party.Compensation may be denied to such a professional if these disclosures are not filed, are inadequate, or if the professional is found to have certain conflicts of interest.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 2471 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 2471 (117th)",
+            "Bill Name": "Consolidated Appropriations Act, 2022",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 2471 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 2471 (117th)",
+            "Bill Name": "Consolidated Appropriations Act, 2022",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 208 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 208 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 500 West Main Street, Suite 102 in Tupelo, Mississippi, as the Colonel Carlyle Smitty Harris Post Office.",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 55 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 55 (117th)",
+            "Bill Name": "Emmett Till Antilynching Act",
+            "Summary": "This bill makes lynching a federal hate crime offense.Specifically, the bill imposes criminal penalties—a fine, a prison term of up to 30 years, or both—on an individual who conspires to commit a hate crime offense that results in death or serious bodily injury or that includes kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 3539 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 3539 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 223 West Chalan Santo Papa in Hagatna, Guam, as the \\u201cAtanasio Taitano Perez Post Office\\u201d.",
+            "Summary": "This bill designates the facility of the United States Postal Service located at 223 West Chalan Santo Papa in Hagatna, Guam, as the Atanasio Taitano Perez Post Office.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 735 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 735 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 502 East Cotati Avenue in Cotati, California, as the \\u201cArturo L. Ibleto Post Office Building\\u201d.",
+            "Summary": "This bill designates the facility of the United States Postal Service located at 502 East Cotati Avenue in Cotati, California, as the Arturo L. Ibleto Post Office Building.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 3076 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 3076 (117th)",
+            "Bill Name": "Postal Service Reform Act of 2022",
+            "Summary": "This bill addresses the finances and operations of the U.S. Postal Service (USPS).The bill requires the Office of Personnel Management (OPM) to establish the Postal Service Health Benefits Program within the Federal Employees Health Benefits Program under which OPM may contract with carriers to offer health benefits plans for USPS employees and retirees.The bill provides for coordinated enrollment of retirees under this program and Medicare.The bill repeals the requirement that the USPS annually prepay future retirement health benefits.Additionally, the USPS may establish a program to enter into agreements with an agency of any state government, local government, or tribal government, and with other government agencies, to provide certain nonpostal products and services that reasonably contribute to the costs of the USPS and meet other specified criteria.The USPS must develop and maintain a publicly available dashboard to track service performance and must report regularly on its operations and financial condition.The Postal Regulatory Commission must annually submit to the USPS a budget of its expenses. It must also conduct a study to identify the causes and effects of postal inefficiencies relating to flats (e.g., large envelopes).The USPS Office of Inspector General shall perform oversight of the Postal Regulatory Commission.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 2324 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 2324 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 2800 South Adams Street in Tallahassee, Florida, as the \\u201cD. Edwina Stephens Post Office\\u201d.",
+            "Summary": "This bill designates the facility of the United States Postal Service located at 2800 South Adams Street in Tallahassee, Florida, as the D. Edwina Stephens Post Office.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 335 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 335 (117th)",
+            "Bill Name": "To provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces.",
+            "Summary": "This bill allows the first person nominated and appointed as Secretary of Defense after 12 p.m. (Eastern Standard Time) on January 20, 2021, to be a person who is, on the date of appointment, at least four years after relief from active duty as a commissioned officer of a regular component of the Armed Forces. Under current law, an individual may not be appointed as Secretary of Defense within seven years after relief from such active duty.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 22 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 22 (117th)",
+            "Bill Name": "Congressional Budget Justification Transparency Act of 2021",
+            "Summary": "This bill requires federal agencies to make budget justification materials available to the public on a website. The bill also requires the Office of Management and Budget to make certain details regarding the materials available to the public, including a list of the agencies that submit budget justification materials to Congress, the dates that the materials are submitted to Congress and posted online, and links to the materials.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1226",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 1226",
+            "Bill Name": "Wounded Warrior Access Act",
+            "Summary": NaN,
+            "Status": "Enacted",
+            "Democrat_Yea": 0.9575471698113208,
+            "Democrat_Nay": 0.0,
+            "Republican_Yea": 0.9864864864864864,
+            "Republican_Nay": 0.0
+        },
+        {
+            "Bill Number": "H.R. 5577 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 5577 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 3900 Crown Road Southwest in Atlanta, Georgia, as the \\u201cJohn R. Lewis Post Office Building\\u201d.",
+            "Summary": "This bill designates the facility of the United States Postal Service located at 3900 Crown Road Southwest in Atlanta, Georgia, as the John R. Lewis Post Office Building.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.J.Res. 26",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.J.Res. 26",
+            "Bill Name": "Disapproving the action of the District of Columbia Council in approving the Revised Criminal Code Act of 2022.",
+            "Summary": NaN,
+            "Status": "Enacted",
+            "Democrat_Yea": 0.6458333333333334,
+            "Democrat_Nay": 0.2708333333333333,
+            "Republican_Yea": 0.979591836734694,
+            "Republican_Nay": 0.0
+        },
+        {
+            "Bill Number": "H.J.Res. 7",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.J.Res. 7",
+            "Bill Name": "Relating to a national emergency declared by the President on March 13, 2020.",
+            "Summary": NaN,
+            "Status": "Enacted",
+            "Democrat_Yea": 0.0518867924528301,
+            "Democrat_Nay": 0.929245283018868,
+            "Republican_Yea": 0.986425339366516,
+            "Republican_Nay": 0.0
+        },
+        {
+            "Bill Number": "H.R. 346",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 346",
+            "Bill Name": "NOTAM Improvement Act of 2023",
+            "Summary": "This bill directs the Federal Aviation Administration (FAA) to establish the FAA Task Force on NOTAM (notice to air missions required by international or domestic law) Improvement and requires the FAA to implement a federal NOTAM system. A NOTAM is a notice containing information essential to personnel concerned with flight operations but not known far enough in advance to be publicized by other means. It states the abnormal status of a component of the National Airspace System.Specifically, the task force must (1) review existing methods for publishing NOTAMs and flight operations information for pilots; (2) review regulations, policies, systems, and international standards relating to NOTAMs, including their content and presentation to pilots; (3) evaluate and determine best practices to organize, prioritize, and present flight operations information in a manner that optimizes pilot review and retention of relevant information; (4) provide recommendations to improve the publication and delivery of NOTAM information; and (5) report to Congress on its reviews and evaluations.By September 30, 2024, the FAA must (1) complete implementation of a federal NOTAM system and implement a back-up system, and (2) brief Congress on a plan to enhance information delivery through this federal system to promote further global harmonization and provide users of the National Airspace System a consistent format for domestic and international operations.",
+            "Status": "Enacted",
+            "Democrat_Yea": 0.9764150943396226,
+            "Democrat_Nay": 0.0,
+            "Republican_Yea": 0.9774774774774776,
+            "Republican_Nay": 0.018018018018018
+        }
+    ],
+    "CosponsoredBills": [
+        {
+            "Bill Number": "H.J.Res. 7",
+            "First Name": "Andrew  Clyde",
+            "Last Name": "cosponsor",
+            "Role": "H.J.Res. 7",
+            "Bill Name": "Relating to a national emergency declared by the President on March 13, 2020.",
+            "Subject Areas": "Infectious and parasitic diseases, Presidents and presidential powers, Vice Presidents, War and emergency powers",
+            "Summary": NaN
+        },
+        {
+            "Bill Number": "H.R. 5577 (117th)",
+            "First Name": "Andrew  Clyde",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 5577 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 3900 Crown Road Southwest in Atlanta, Georgia, as the \\u201cJohn R. Lewis Post Office Building\\u201d.",
+            "Subject Areas": "Government Operations and Politics, Congressional tributes, Georgia, Government buildings, facilities, and property, Postal service",
+            "Summary": "This bill designates the facility of the United States Postal Service located at 3900 Crown Road Southwest in Atlanta, Georgia, as the John R. Lewis Post Office Building."
+        },
+        {
+            "Bill Number": "H.R. 8656 (117th)",
+            "First Name": "Andrew  Clyde",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 8656 (117th)",
+            "Bill Name": "To designate the clinic of the Department of Veterans Affairs in Mishawaka, Indiana, as the \\u201cJackie Walorski VA Clinic\\u201d.",
+            "Subject Areas": "Armed Forces and National Security, Congressional tributes, Department of Veterans Affairs, Government buildings, facilities, and property, Health facilities and institutions, Indiana, Veterans' medical care",
+            "Summary": NaN
+        },
+        {
+            "Bill Number": "H.R. 8350 (117th)",
+            "First Name": "Andrew  Clyde",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 8350 (117th)",
+            "Bill Name": "Senator Johnny Isakson VA Regional Office Act of 2022",
+            "Subject Areas": "Armed Forces and National Security",
+            "Summary": "This bill designates the Department of Veterans Affairs Atlanta Regional Office in Georgia as the Senator Johnny Isakson Department of Veterans Affairs Atlanta Regional Office or the Isakson VA Atlanta Regional Office."
+        },
+        {
+            "Bill Number": "H.R. 1057 (117th)",
+            "First Name": "Andrew  Clyde",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 1057 (117th)",
+            "Bill Name": "Greatest Generation Commemorative Coin Act",
+            "Subject Areas": "Finance and Financial Sector, Conflicts and wars, Currency, Military history, Monuments and memorials, U.S. history, Veterans' organizations and recognition",
+            "Summary": "This bill directs the Department of the Treasury to mint and issue up to 50,000 $5 coins, 400,000 $1 silver coins, and 750,000 half-dollar clad coins in commemoration of the National World War II Memorial in the District of Columbia.The design of the coins shall be emblematic of the memorial and the service and sacrifice of American soldiers and civilians during World War II.All surcharges received from the sale of such coins shall be paid to the Friends of the National World War II Memorial to support the National Park Service in maintaining and repairing the memorial, and for educational and commemorative programs."
+        },
+        {
+            "Bill Number": "H.R. 6015 (117th)",
+            "First Name": "Andrew  Clyde",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 6015 (117th)",
+            "Bill Name": "Benjamin Berell Ferencz Congressional Gold Medal Act",
+            "Subject Areas": "International Affairs, Congressional tributes, Criminal investigation, prosecution, interrogation, Europe, Germany, International law and treaties, Lawyers and legal services, Museums, exhibitions, cultural centers, War crimes, genocide, crimes against humanity",
+            "Summary": "This bill provides for the award of a Congressional Gold Medal to Benjamin Berell Ferencz in recognition of his service to the United States and the international community during the post-World War II Nuremberg trials and his lifelong advocacy for international criminal justice and the rule of law."
+        },
+        {
+            "Bill Number": "H.R. 3475 (117th)",
+            "First Name": "Andrew  Clyde",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 3475 (117th)",
+            "Bill Name": "To name the Department of Veterans Affairs community-based outpatient clinic in Columbus, Georgia, as the Robert S. Poydasheff VA Clinic.",
+            "Subject Areas": "Armed Forces and National Security, Congressional tributes, Department of Veterans Affairs, Georgia, Government buildings, facilities, and property, Health facilities and institutions, Home and outpatient care, Military personnel and dependents, Veterans' medical care",
+            "Summary": "This bill designates the community-based outpatient clinic of the Department of Veterans Affairs in Columbus, Georgia, as the Robert S. Poydasheff VA Clinic."
+        },
+        {
+            "Bill Number": "H.R. 3577 (117th)",
+            "First Name": "Andrew  Clyde",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 3577 (117th)",
+            "Bill Name": "United States Army Rangers Veterans of World War II Congressional Gold Medal Act",
+            "Subject Areas": "Armed Forces and National Security, Conflicts and wars, Congressional tributes, Military history, Museums, exhibitions, cultural centers, Smithsonian Institution, Veterans' organizations and recognition",
+            "Summary": "This bill provides for the award of a single Congressional Gold Medal to the U.S. Army Rangers Veterans of World War II in recognition of their dedicated service during World War II."
+        },
+        {
+            "Bill Number": "H.R. 6244 (117th)",
+            "First Name": "Andrew  Clyde",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 6244 (117th)",
+            "Bill Name": "Max Cleland VA Medical Center Act",
+            "Subject Areas": "Armed Forces and National Security, Congressional tributes, Department of Veterans Affairs, Georgia, Government buildings, facilities, and property, Health facilities and institutions, Veterans' medical care",
+            "Summary": "This bill designates the Department of Veterans Affairs medical center in Atlanta, Georgia, as the Joseph Maxwell Cleland Atlanta Department of Veterans Affairs Medical Center or the Joseph Maxwell Cleland Atlanta VA Medical Center."
+        },
+        {
+            "Bill Number": "H.R. 2441 (117th)",
+            "First Name": "Andrew  Clyde",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 2441 (117th)",
+            "Bill Name": "Sgt. Ketchum Rural Veterans Mental Health Act of 2021",
+            "Subject Areas": "Health facilities and institutions, Mental health, Rural conditions and development, Veterans' medical care",
+            "Summary": "This bill requires the Department of Veterans Affairs (VA), during FY2022, to establish and maintain three new centers of the Rural Access Network for Growth Enhancement (RANGE) Program in areas with interest from personnel and a need for additional mental health care for rural veterans. The RANGE Program serves veterans in rural areas who are experiencing mental illness.The bill requires the Government Accountability Office to conduct a study and report on whether the VA has sufficient resources to serve rural veterans who need mental health care that is more intensive than traditional outpatient therapy."
+        },
+        {
+            "Bill Number": "H.R. 3901 (117th)",
+            "First Name": "Andrew  Clyde",
+            "Last Name": "cosponsor",
+            "Role": "H.R. 3901 (117th)",
+            "Bill Name": "To award four congressional gold medals to the United States Capitol Police and those who protect the U.S. Capitol.",
+            "Subject Areas": "Congress",
+            "Summary": "This bill provides for the award of Congressional Gold Medals to the U.S. Capitol Police and the Metropolitan Police Department of the District of Columbia in recognition of the law enforcement agencies that protect the U.S. Capitol."
+        }
+    ],
+    "SponsoredBills": [
+        {
+            "Bill Number": "H.J.Res. 26",
+            "First Name": "Andrew  Clyde",
+            "Last Name": "sponsor",
+            "Role": "H.J.Res. 26",
+            "Bill Name": "Disapproving the action of the District of Columbia Council in approving the Revised Criminal Code Act of 2022.",
+            "Subject Areas": "Due process and equal protection, State and local government operations, Violent crime",
+            "Summary": NaN
+        }
+    ],
+    "VotingRecord": [
+        {
+            "Bill Number": "H.R. 3843 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 3843 (117th)",
+            "Bill Name": "Merger Filing Fee Modernization Act of 2022",
+            "Summary": "This bill modifies and expands the schedule for graduated merger filing fees and requires that such fees be adjusted each year based on the Consumer Price Index. It also (1) requires parties to disclose in their premerger notification filings any subsidy received from a foreign entity of concern, (2) modifies the venue rules for multi-district antitrust litigation, and (3) establishes various reporting requirements.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 3599 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 3599 (117th)",
+            "Bill Name": "Federal Rotational Cyber Workforce Program Act of 2021",
+            "Summary": "This bill establishes a rotational cyber workforce program under which certain federal employees may be detailed among rotational cyber workforce positions at other agencies.This bill authorizes an agency to determine whether a workforce position involving information technology, cybersecurity, or other cyber-related functions in that agency is eligible for the program.Additionally, the bill requires the Office of Personnel Management to issue a Federal Rotational Cyber Workforce Program operation plan providing policies, processes, and procedures for detailing employees among rotational cyber workforce positions at agencies.The Government Accountability Office must assess the operation and effectiveness of the rotational cyber workforce program by addressing the extent to which agencies have participated in the program and the experiences of employees serving in the program.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 2662 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 2662 (117th)",
+            "Bill Name": "Inspector General Independence and Empowerment Act of 2021",
+            "Summary": "This bill addresses issues regarding inspectors general (IGs) and the Council of the Inspectors General on Integrity and Efficiency (CIGIE) Integrity Committee. The committee is charged with investigating allegations of wrongdoing against office of IG officials.The bill allows an IG to be removed only for cause, such as for documented malfeasance. Congress must be notified before an IG is placed on nonduty status. The bill requires the President to explain any failure to nominate an IG and adds provisions regarding acting IGs when an IG position is vacant.The committee must notify Congress when an allegation of wrongdoing made by a Member of Congress is closed without referral for investigation.The bill requires CIGIE to report semiannually to Congress and the President on the activities of the committee. The bill adds provisions regarding appointment of former IGs to the committee. An IG must refer to the committee any allegation of wrongdoing against that IG.The bill grants (1) IGs the authority to subpoena witnesses who are not currently government employees, and (2) the Department of Justice (DOJ) IG the authority to investigate wrongdoing by DOJ attorneys.The bill requires notification to Congress of an IG's ongoing investigations when the IG is placed on nonduty status.IGs must notify Congress if agencies deny access to requested information.The bill requires the establishment of minimum standards and best practices for IG training.The Government Accountability Office shall review the effectiveness of the processes of the CIGIE committee and of the offices of IGs for ensuring IG accountability, integrity, and independence.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 6503",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 6503",
+            "Bill Name": "Airport and Airway Extension Act of 2023, Part II",
+            "Summary": "This bill temporarily extends specific Federal Aviation and Administration (FAA) programs and activities through March 8, 2024.For example, the bill extends the FAA Unmanned Aircraft Systems (UAS) pilot programs (e.g., the UAS Test Site Program and the UAS remote detection and identification pilot program), weather reporting programs, Remote Tower Pilot Program, and Essential Air Service Program. The bill also extends the authorization for the Airport Improvement Program (AIP). (This program provides grants for planning, development, and noise compatibility projects at or associated with certain public-use airports.)Further, the bill extends through March 8, 2024, the FAA's authority for expenditures from the Airport and Airway Trust Fund (AATF) and to collect various taxes and fees to fund the AATF, including taxes on aviation fuel and airline tickets. (The AATF is the primary funding source for all major FAA accounts that fund federal aviation programs, with the remainder coming from general fund appropriations.)",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 4373 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 4373 (117th)",
+            "Bill Name": "Further Additional Continuing Appropriations and Extensions Act, 2023",
+            "Summary": "This bill provides FY2022 appropriations for the Department of State, foreign operations, and related programs.The bill provides appropriations to the State Department for Administration of Foreign Affairs, International Organizations, and International Commissions. The bill provides appropriations for related agencies and programs, including the U.S. Agency for Global Media, the Asia Foundation, the U.S. Institute of Peace, the Center for Middle Eastern-Western Dialogue Trust Fund, the Eisenhower Exchange Fellowship Program, the Israeli Arab Scholarship Program, the East-West Center, the Leadership Institute For Transatlantic Engagement, and the National Endowment for Democracy. The bill provides appropriations for other commissions, including the Commission for the Preservation of America's Heritage Abroad, the U.S. Commission on International Religious Freedom, the Commission on Security and Cooperation in Europe, the Congressional-Executive Commission on the People's Republic of China, and the U.S.-China Economic and Security Review Commission. The bill provides appropriations to the U.S. Agency for International Development (USAID), the State Department and the President for International Security Assistance, and the President and International Financial Institutions for Multilateral Assistance. The bill provides appropriations for bilateral economic assistance to the President; the State Department; Independent Agencies, including the Peace Corps, the Millennium Challenge Corporation, the Inter-American Foundation, and the U.S. African Development Foundation; and the Department of the Treasury. The bill provides appropriations for export and investment assistance to the Export-Import Bank of the United States, the U.S. International Development Finance Corporation, and the U.S. Trade and Development Agency. The bill sets forth requirements and restrictions for using funds provided by this and other appropriations acts.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1917 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 1917 (117th)",
+            "Bill Name": "Hazard Eligibility and Local Projects Act",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 2930 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 2930 (117th)",
+            "Bill Name": "Safeguard Tribal Objects of Patrimony Act of 2021",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 2670",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 2670",
+            "Bill Name": "National Defense Authorization Act for Fiscal Year 2024",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 7776 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 7776 (117th)",
+            "Bill Name": "James M. Inhofe National Defense Authorization Act for Fiscal Year 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 1667 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 1667 (117th)",
+            "Bill Name": "Dr. Lorna Breen Health Care Provider Protection Act",
+            "Summary": "This bill establishes grants and requires other activities to improve mental and behavioral health among health care providers.Specifically, the Department of Health and Human Services (HHS) must award grants to hospitals, medical professional associations, and other health care entities for programs to promote mental health and resiliency among health care providers. In addition, HHS may award grants for relevant mental and behavioral health training for health care students, residents, or professionals.Additionally, HHS must conduct a campaign to (1) encourage health care providers to seek support and treatment for mental and behavioral health concerns, and (2) disseminate best practices to prevent suicide and improve mental health and resiliency among health care providers.HHS must also study and develop policy recommendations on improving mental and behavioral health among health care providers, removing barriers to accessing care and treatment, and identifying strategies to promote resiliency. Furthermore, the Government Accountability Office must report on the extent to which relevant federal grant programs address the prevalence and severity of mental health conditions and substance use disorders among health care providers.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 7335 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 7335 (117th)",
+            "Bill Name": "MST Claims Coordination Act",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 4233",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 423",
+            "Bill Name": "Pala Band of Mission Indians Land Transfer Act of 2023",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 897 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 897 (117th)",
+            "Bill Name": "Agua Caliente Land Exchange Fee to Trust Confirmation Act",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 3531 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 3531 (117th)",
+            "Bill Name": "Women Who Worked on the Home Front World War II Memorial Act",
+            "Summary": "This bill authorizes the Women Who Worked on the Home Front Foundation to establish a commemorative work on federal land in the District of Columbia in commemoration of the commitment and service represented by women who worked on the home front during World War II.The foundation shall be solely responsible for the acceptance of contributions for, and payment of the expenses of, establishing the commemorative work.The establishment of the commemorative work shall be in accordance with the Commemorative Works Act.The bill prohibits federal funds from being used to pay any expense for the establishment of the commemorative work.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 2724 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 2724 (117th)",
+            "Bill Name": "VA Peer Support Enhancement for MST Survivors Act",
+            "Summary": "This bill requires the Department of Veterans Affairs to ensure that each individual who files a claim relating to military sexual trauma is assigned a peer support specialist during the claims process, unless the individual elects to not have such support.Under the bill, a peer support specialist must be trained as a victim advocate and may not be responsible for any part of adjudicating the individual's claim.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 3593 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 3593 (117th)",
+            "Bill Name": "Department of Energy Science for the Future Act",
+            "Summary": "This bill supports specified research and development activities of the Department of Energy (DOE) Office of Science.The bill establishes various programs, including a basic energy sciences research and development program; a program of research and development for the application of advanced computing practices to foundational and emerging research problems in chemistry and materials science; a web-based platform to develop and provide access to a database of computed information on known and predicted materials properties and computational tools to accelerate breakthroughs in materials discovery and design; a biological systems science and climate and environmental science research and development program; research and development activities in biomolecular characterization and imaging science; earth and environmental systems science research; a coastal zone research initiative; an initiative focused on the development of engineered ecosystems; a program to implement a strategy for achieving computing systems with capabilities beyond exascale computing systems; a program of fundamental research and development of energy efficient computing and data center technologies relevant to advanced computing applications; a Quantum User Expansion for Science and Technology program or QUEST program; a collaborative research and development program of fusion energy technologies; a research program in elementary particle physics and advanced technology research and development to improve the understanding of the fundamental properties of the universe, including constituents of matter and energy and the nature of space and time; research activities on the nature of the primary contents of the universe, including the nature of dark energy and dark matter; a research program to discover and understand various forms of nuclear matter; a program across the DOE for the production of isotopes, including the development of techniques to produce isotopes, that the DOE determines are needed for research, medical, industrial, or related purposes; a midscale instrumentation program to enable the development and acquisition of novel, state-of-the-art instruments ranging in cost from $1 million to $20 million each that would significantly accelerate scientific breakthroughs at user facilities; and a high intensity laser research initiative. The DOE Office of Science shall continue to leverage U.S. participation in the Large Hadron Collider and prioritize expanding international partnerships and investments in the Long-Baseline Neutrino Facility and Deep Underground Neutrino Experiment.DOE shall support construction of a Facility for Rare Isotope Beams to advance the understanding of rare nuclear isotopes and the evolution of the cosmos.DOE shall expand opportunities to increase the number, diversity, equity, and inclusion of highly skilled science, technology, engineering, and mathematics (STEM) professionals working in DOE mission-relevant disciplines and broaden the recruitment pool to increase diversity, including expanded partnerships with Historically Black Colleges, Tribal Colleges, Minority Serving Institutions, emerging research institutions, and scientific societies.DOE shall establish within the DOE Office of Science, a cross-cutting research initiative to leverage the federal government's innovative analytical resources and tools, user facilities, and advanced computational and networking capabilities in order to prevent, prepare for, and respond to emerging infectious diseases, including COVID-19.DOE may not carry out gain-of-function research of concern.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 567 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 567 (117th)",
+            "Bill Name": "Trans-Sahara Counterterrorism Partnership Program Act of 2021",
+            "Summary": "This bill provides statutory authority for the Trans-Sahara Counterterrorism Partnership Program, an interagency program launched in 2005 to partner with countries in the Sahel and Maghreb regions of Africa to counter terrorism and violent extremism.The Department of State, in consultation with the Department of Defense and the U.S. Agency for International Development, shall establish the partnership program, which must coordinate all U.S. programs in North and West Africa related to various counterterrorism activities, such as building foreign-military capacity, enhancing border security, promoting youth employment, and supporting independent media to counter terrorist propaganda.The State Department must submit comprehensive, five-year strategies that include specified activities for the Sahel and Maghreb regions and for program counterterrorism efforts. Further, program activities must, among other things (1) be carried out in countries where there is an adequate level of partner country committment, and (2) have clearly defined outcomes and specific plans with indicators to regularly monitor and evaluate outcomes and impact. Such activities must also take into account the counterterrorism and development strategies of partner countries and align with such strategies to the extent possible.The State Department shall notify Congress before obligating funds for such programs, and must submit annual reports about program activities.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 5271 (117th)",
+            "First Name": "Andrew Clyde",
+            "Vote": "Nay",
+            "Bill Number.1": "H.R. 5271 (117th)",
+            "Bill Name": "To designate the facility of the United States Postal Service located at 2245 Rosa L Parks Boulevard in Nashville, Tennessee, as the \\u201cThelma Harper Post Office Building\\u201d.",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 4665",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 4665",
+            "Bill Name": "Department of State, Foreign Operations, and Related Programs Appropriations Act, 2024",
+            "Summary": "This bill provides FY2024 appropriations for the Department of State, foreign operations, and related programs.The bill provides appropriations to the State Department for Administration of Foreign Affairs, International Organizations, and International Commissions. The bill provides appropriations for related agencies and programs, including the U.S. Agency for Global Media, the Asia Foundation, the U.S. Institute of Peace, the Center for Middle Eastern-Western Dialogue Trust Fund, the Eisenhower Exchange Fellowship Program, the Israeli Arab Scholarship Program, the East-West Center, and the National Endowment for Democracy. The bill provides appropriations for other commissions, including the Commission for the Preservation of America's Heritage Abroad, the U.S. Commission on International Religious Freedom, the Commission on Security and Cooperation in Europe, the Congressional-Executive Commission on the People's Republic of China, and the U.S.-China Economic and Security Review Commission. The bill provides appropriations to the U.S. Agency for International Development (USAID), the State Department and the President for International Security Assistance, and International Financial Institutions for Multilateral Assistance. The bill provides appropriations for bilateral economic assistance, including programs and activities conducted by the President; the State Department; Independent Agencies, including the Peace Corps, the Millennium Challenge Corporation, the Inter-American Foundation, and the U.S. African Development Foundation; and the Department of the Treasury. The bill provides appropriations for export and investment assistance to the Export-Import Bank of the United States, the U.S. International Development Finance Corporation, and the U.S. Trade and Development Agency. The bill sets forth requirements and restrictions for using funds provided by this and other appropriations acts.",
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.R. 4366",
+            "First Name": "Andrew Clyde",
+            "Vote": "Yea",
+            "Bill Number.1": "H.R. 4366",
+            "Bill Name": "Consolidated Appropriations Act, 2024",
+            "Summary": "This bill provides FY2024 appropriations for several federal departments and agencies. It also extends various expiring programs and authorities, including several public health programs.Specifically, the bill includes 6 of the 12 regular FY2024 appropriations bills: the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2024; the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024; the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2024; the Energy and Water Development and Related Agencies Appropriations Act, 2024; the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2024; and the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2024. The departments, agencies, and activities funded in the bill include Department of Defense military construction and family housing activities, the Department of Veterans Affairs, the Department of Agriculture, the Food and Drug Administration, the Department of Commerce, the Department of Justice, the science agencies, the Department of Energy, the U.S. Army Corps of Engineers, the Department of the Interior, the Environmental Protection Agency, the Department of Transportation, the Department of Housing and Urban Development, and several related and independent agencies. In addition, the bill includes several provisions that extend or otherwise modify various programs and authorities, including several public health programs.The bill also modifies the Compacts of Free Association that govern the relationship between the United States and the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.",
+            "Status": "Enacted"
+        }
+    ]
+}

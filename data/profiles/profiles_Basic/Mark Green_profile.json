@@ -1,0 +1,30 @@
+{
+    "Name": "Mark Green",
+    "Profile": {
+        "Public Office": {
+            "Chair of the House Homeland Security Committee": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 9, 2023",
+                "Preceded by": "Bennie Thompson"
+            },
+            "Member of the U.S. House of Representativesfrom Tennessee's 7th district": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 3, 2019",
+                "Preceded by": "Marsha Blackburn",
+                "District Info": {
+                    "Median householdincome": "",
+                    "Distribution": "",
+                    "Population": "",
+                    "Ethnicity": ""
+                }
+            },
+            "Member of the Tennessee Senatefrom the 22nd district": {
+                "In office": "January 8, 2013 – November 1, 2018",
+                "Preceded by": "Tim Barnes",
+                "Succeeded by": "Rosalind Kurita"
+            }
+        }
+    },
+    "UnusedVotingRecords": [],
+    "VotingRecord": []
+}

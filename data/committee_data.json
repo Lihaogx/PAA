@@ -1,0 +1,407 @@
+{
+
+    "Commodity Markets, Digital Assets and Rural Development": {
+        "Chair": "Dusty Johnson",
+        "Ranking Member": "Yadira Caraveo"
+    },
+    "Conservation, Research and Biotechnology": {
+        "Chair": "Jim Baird",
+        "Ranking Member": "Abigail Spanberger"
+    },
+    "Forestry": {
+        "Chair": "Doug LaMalfa",
+        "Ranking Member": "Andrea Salinas"
+    },
+    "General Farm Commodities, Risk Management and Credit": {
+        "Chair": "Austin Scott",
+        "Ranking Member": "Shontel Brown"
+    },
+    "Livestock, Dairy and Poultry": {
+        "Chair": "Tracey Mann",
+        "Ranking Member": "Jim Costa"
+    },
+    "Nutrition, Foreign Agriculture and Horticulture": {
+        "Chair": "Brad Finstad",
+        "Ranking Member": "Jahana Hayes"
+    },
+    "Agriculture, Rural Development, Food and Drug Administration and Related Agencies": {
+        "Chair": "Andy Harris",
+        "Ranking Member": "Sanford Bishop"
+    },
+    "Commerce, Justice, Science and Related Agencies": {
+        "Chair": "Hal Rogers",
+        "Ranking Member": "Matt Cartwright"
+    },
+    "Defense": {
+        "Chair": "Ken Calvert",
+        "Ranking Member": "Betty McCollum"
+    },
+    "Energy and Water Development and Related Agencies": {
+        "Chair": "Chuck Fleischmann",
+        "Ranking Member": "Marcy Kaptur"
+    },
+    "Financial Services and General Government": {
+        "Chair": "Dave Joyce",
+        "Ranking Member": "Steny Hoyer"
+    },
+    "Homeland Security": {
+        "Chair": "Mark Amodei",
+        "Ranking Member": "Lauren Underwood"
+    },
+    "Interior, Environment and Related Agencies": {
+        "Chair": "Mike Simpson",
+        "Ranking Member": "Chellie Pingree"
+    },
+    "Labor, Health and Human Services, Education and Related Agencies": {
+        "Chair": "Robert Aderholt",
+        "Ranking Member": "Rosa DeLauro"
+    },
+    "Legislative Branch": {
+        "Chair": "David Valadao",
+        "Ranking Member": "Adriano Espaillat"
+    },
+    "Military Construction, Veterans Affairs and Related Agencies": {
+        "Chair": "John Carter",
+        "Ranking Member": "Debbie Wasserman Schultz"
+    },
+    "State, Foreign Operations and Related Programs": {
+        "Chair": "Mario Díaz-Balart",
+        "Ranking Member": "Barbara Lee"
+    },
+    "Transportation, Housing and Urban Development and Related Agencies": {
+        "Chair": "Steve Womack",
+        "Ranking Member": "Mike Quigley"
+    },
+    "Cyber, Information Technologies and Innovation": {
+        "Chair": "Mike Gallagher",
+        "Ranking Member": "Ro Khanna"
+    },
+    "Intelligence and Special Operations": {
+        "Chair": "Jack Bergman",
+        "Ranking Member": "Ruben Gallego"
+    },
+    "Military Personnel": {
+        "Chair": "Jim Banks",
+        "Ranking Member": "Andy Kim"
+    },
+    "Readiness": {
+        "Chair": "Michael Waltz",
+        "Ranking Member": "John Garamendi"
+    },
+    "Seapower and Projection Forces": {
+        "Chair": "Trent Kelly",
+        "Ranking Member": "Joe Courtney"
+    },
+    "Strategic Forces": {
+        "Chair": "Doug Lamborn",
+        "Ranking Member": "Seth Moulton"
+    },
+    "Tactical Air and Land Forces": {
+        "Chair": "Rob Wittman",
+        "Ranking Member": "Donald Norcross"
+    },
+    "Early Childhood, Elementary and Secondary Education": {
+        "Chair": "Aaron Bean",
+        "Ranking Member": "Suzanne Bonamici"
+    },
+    "Health, Employment, Labor and Pensions": {
+        "Chair": "Bob Good",
+        "Ranking Member": "Mark DeSaulnier"
+    },
+    "Higher Education and Workforce Development": {
+        "Chair": "Burgess Owens",
+        "Ranking Member": "Frederica Wilson"
+    },
+    "Workforce Protections": {
+        "Chair": "Kevin Kiley",
+        "Ranking Member": "Alma Adams"
+    },
+    "Communications and Technology": {
+        "Chair": "Bob Latta",
+        "Ranking Member": "Doris Matsui"
+    },
+    "Energy, Climate and Grid Security": {
+        "Chair": "Jeff Duncan",
+        "Ranking Member": "Diana DeGette"
+    },
+    "Environment, Manufacturing and Critical Materials": {
+        "Chair": "Buddy Carter",
+        "Ranking Member": "Paul Tonko"
+    },
+    "Health": {
+        "Chair": "Brett Guthrie",
+        "Ranking Member": "Anna Eshoo"
+    },
+    "Innovation, Data and Commerce": {
+        "Chair": "Gus Bilirakis",
+        "Ranking Member": "Jan Schakowsky"
+    },
+    "Oversight and Investigations": {
+        "Chair": "Morgan Griffith",
+        "Ranking Member": "Kathy Castor"
+    },
+    "Cherfilus-McCormick": {
+        "Chair": "Andrew Garbarino",
+        "Ranking Member": "Chrissy Houlahan"
+    },
+    "Cuellar": {
+        "Chair": "Michael Guest",
+        "Ranking Member": "Glenn Ivey"
+    },
+    "Capital Markets": {
+        "Chair": "Ann Wagner",
+        "Ranking Member": "Brad Sherman"
+    },
+    "Digital Assets, Financial Technology and Inclusion": {
+        "Chair": "French Hill",
+        "Ranking Member": "Stephen Lynch"
+    },
+    "Financial Institutions and Monetary Policy": {
+        "Chair": "Andy Barr",
+        "Ranking Member": "Bill Foster"
+    },
+    "Housing and Insurance": {
+        "Chair": "Warren Davidson",
+        "Ranking Member": "Emanuel Cleaver"
+    },
+    "National Security, Illicit Finance and International Financial Institutions": {
+        "Chair": "Blaine Luetkemeyer",
+        "Ranking Member": "Joyce Beatty"
+    },
+    "Africa": {
+        "Chair": "John James",
+        "Ranking Member": "Sara Jacobs"
+    },
+    "Europe": {
+        "Chair": "Tom Kean",
+        "Ranking Member": "Bill Keating"
+    },
+    "Global Health, Global Human Rights and International Organizations": {
+        "Chair": "Chris Smith",
+        "Ranking Member": "Susan Wild"
+    },
+    "Indo-Pacific": {
+        "Chair": "Young Kim",
+        "Ranking Member": "Ami Bera"
+    },
+    "Middle East, North Africa and Central Asia": {
+        "Chair": "Joe Wilson",
+        "Ranking Member": "Dean Phillips"
+    },
+    "Oversight and Accountability": {
+        "Chair": "Brian Mast",
+        "Ranking Member": "Jason Crow"
+    },
+    "Western Hemisphere": {
+        "Chair": "María Elvira Salazar",
+        "Ranking Member": "Joaquin Castro"
+    },
+    "Border Security and Enforcement": {
+        "Chair": "Clay Higgins",
+        "Ranking Member": "Lou Correa"
+    },
+    "Counterterrorism, Law Enforcement and Intelligence": {
+        "Chair": "August Pfluger",
+        "Ranking Member": "Seth Magaziner"
+    },
+    "Cybersecurity and Infrastructure Protection": {
+        "Chair": "Andrew Garbarino",
+        "Ranking Member": "Eric Swalwell"
+    },
+    "Emergency Management and Technology": {
+        "Chair": "Anthony D'Esposito",
+        "Ranking Member": "Troy Carter"
+    },
+    "Oversight, Investigations and Accountability": {
+        "Chair": "Dan Bishop",
+        "Ranking Member": "Glenn Ivey"
+    },
+    "Transportation and Maritime Security": {
+        "Chair": "Carlos Giménez",
+        "Ranking Member": "Shri Thanedar"
+    },
+    "Communications Standards Commission (Franking Commission)": {
+        "Chair": "Mike Carey",
+        "Ranking Member": "Joe Morelle"
+    },
+    "Elections": {
+        "Chair": "Laurel Lee",
+        "Ranking Member": "Terri Sewell"
+    },
+    "Modernization": {
+        "Chair": "Stephanie Bice",
+        "Ranking Member": "Derek Kilmer"
+    },
+    "Oversight": {
+        "Chair": "Barry Loudermilk",
+        "Ranking Member": "Norma Torres"
+    },
+    "Administrative State, Regulatory Reform and Antitrust": {
+        "Chair": "Tom Massie",
+        "Ranking Member": "Lou Correa"
+    },
+    "Constitution and Limited Government": {
+        "Chair": "Chip Roy",
+        "Ranking Member": "Mary Gay Scanlon"
+    },
+    "Courts, Intellectual Property and the Internet": {
+        "Chair": "Darrell Issa",
+        "Ranking Member": "Hank Johnson"
+    },
+    "Crime and Federal Government Surveillance": {
+        "Chair": "Andy Biggs",
+        "Ranking Member": "Vacant"
+    },
+    "Immigration Integrity, Security and Enforcement": {
+        "Chair": "Tom McClintock",
+        "Ranking Member": "Pramila Jayapal"
+    },
+    "Responsiveness and Accountability to Oversight": {
+        "Chair": "Ben Cline",
+        "Ranking Member": "Eric Swalwell"
+    },
+    "Weaponization of the Federal Government (Select)": {
+        "Chair": "Jim Jordan",
+        "Ranking Member": "Stacey Plaskett"
+    },
+    "Energy and Mineral Resources": {
+        "Chair": "Pete Stauber",
+        "Ranking Member": "Alexandria Ocasio-Cortez"
+    },
+    "Federal Lands": {
+        "Chair": "Tom Tiffany",
+        "Ranking Member": "Joe Neguse"
+    },
+    "Indian and Insular Affairs": {
+        "Chair": "Harriet Hageman",
+        "Ranking Member": "Teresa Leger Fernández"
+    },
+    "Water, Wildlife and Fisheries": {
+        "Chair": "Cliff Bentz",
+        "Ranking Member": "Jared Huffman"
+    },
+    "Coronavirus Pandemic (Select)": {
+        "Chair": "Brad Wenstrup",
+        "Ranking Member": "Raul Ruiz"
+    },
+    "Cybersecurity, Information Technology and Government Innovation": {
+        "Chair": "Nancy Mace",
+        "Ranking Member": "Gerry Connolly"
+    },
+    "Economic Growth, Energy Policy and Regulatory Affairs": {
+        "Chair": "Pat Fallon",
+        "Ranking Member": "Cori Bush"
+    },
+    "Government Operations and the Federal Workforce": {
+        "Chair": "Pete Sessions",
+        "Ranking Member": "Kweisi Mfume"
+    },
+    "Health Care and Financial Services": {
+        "Chair": "Lisa McClain",
+        "Ranking Member": "Raja Krishnamoorthi"
+    },
+    "National Security, the Border and Foreign Affairs": {
+        "Chair": "Glenn Grothman",
+        "Ranking Member": "Robert Garcia"
+    },
+    "Legislative and Budget Process": {
+        "Chair": "Michelle Fischbach",
+        "Ranking Member": "Teresa Leger Fernández"
+    },
+    "Rules and Organization of the House": {
+        "Chair": "Guy Reschenthaler",
+        "Ranking Member": "Mary Gay Scanlon"
+    },
+    "Energy": {
+        "Chair": "Brandon Williams",
+        "Ranking Member": "Jamaal Bowman"
+    },
+    "Environment": {
+        "Chair": "Max Miller",
+        "Ranking Member": "Deborah Ross"
+    },
+    "Investigations and Oversight": {
+        "Chair": "Jay Obernolte",
+        "Ranking Member": "Valerie Foushee"
+    },
+    "Research and Technology": {
+        "Chair": "Mike Collins",
+        "Ranking Member": "Haley Stevens"
+    },
+    "Space and Aeronautics": {
+        "Chair": "Brian Babin",
+        "Ranking Member": "Eric Sorensen"
+    },
+    "Contracting and Infrastructure": {
+        "Chair": "Nick LaLota",
+        "Ranking Member": "Hillary Scholten"
+    },
+    "Economic Growth, Tax and Capital Access": {
+        "Chair": "Dan Meuser",
+        "Ranking Member": "Greg Landsman"
+    },
+    "Innovation, Entrepreneurship and Workforce Development": {
+        "Chair": "Marc Molinaro",
+        "Ranking Member": "Morgan McGarvey"
+    },
+    "Oversight, Investigations and Regulations": {
+        "Chair": "Beth Van Duyne",
+        "Ranking Member": "Kweisi Mfume"
+    },
+    "Rural Development, Energy and Supply Chains": {
+        "Chair": "Wesley Hunt",
+        "Ranking Member": "Marie Gluesenkamp Pérez"
+    },
+    "Aviation": {
+        "Chair": "Garret Graves",
+        "Ranking Member": "Steve Cohen"
+    },
+    "Coast Guard and Maritime Transportation": {
+        "Chair": "Daniel Webster",
+        "Ranking Member": "Salud Carbajal"
+    },
+    "Economic Development, Public Buildings and Emergency Management": {
+        "Chair": "Scott Perry",
+        "Ranking Member": "Dina Titus"
+    },
+    "Highways and Transit": {
+        "Chair": "Rick Crawford",
+        "Ranking Member": "Eleanor Holmes Norton"
+    },
+    "Railroads, Pipelines and Hazardous Materials": {
+        "Chair": "Troy Nehls",
+        "Ranking Member": "Frederica Wilson"
+    },
+    "Water Resources and Environment": {
+        "Chair": "David Rouzer",
+        "Ranking Member": "Grace Napolitano"
+    },
+    "Disability Assistance and Memorial Affairs": {
+        "Chair": "Morgan Luttrell",
+        "Ranking Member": "Chris Pappas"
+    },
+    "Economic Opportunity": {
+        "Chair": "Derrick Van Orden",
+        "Ranking Member": "Mike Levin"
+    },
+    "Technology Modernization": {
+        "Chair": "Matt Rosendale",
+        "Ranking Member": "Sheila Cherfilus-McCormick"
+    },
+    "Social Security": {
+        "Chair": "Drew Ferguson",
+        "Ranking Member": "John Larson"
+    },
+    "Tax": {
+        "Chair": "Mike Kelly",
+        "Ranking Member": "Mike Thompson"
+    },
+    "Trade": {
+        "Chair": "Adrian Smith",
+        "Ranking Member": "Earl Blumenauer"
+    },
+    "Work and Welfare": {
+        "Chair": "Darin LaHood",
+        "Ranking Member": "Danny Davis"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Name": "Bernie Sanders",
+    "Profile": {
+        "Public Office": {
+            "United States Senatorfrom Vermont": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 3, 2007Serving with Patrick Leahy",
+                "Preceded by": "Jim Jeffords"
+            },
+            "Chair of the Senate Budget Committee": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "February 3, 2021",
+                "Preceded by": "Mike Enzi"
+            },
+            "Ranking Member of the Senate Budget Committee": {
+                "In office": "January 3, 2015 – February 3, 2021",
+                "Preceded by": "Jeff Sessions",
+                "Succeeded by": "Lindsey Graham"
+            },
+            "Chair of the Senate Veterans' Affairs Committee": {
+                "In office": "January 3, 2013 – January 3, 2015",
+                "Preceded by": "Patty Murray",
+                "Succeeded by": "Johnny Isakson"
+            },
+            "Member of the U.S. House of Representativesfrom Vermont's at-large district": {
+                "In office": "January 3, 1991 – January 3, 2007",
+                "Preceded by": "Peter Plympton Smith",
+                "Succeeded by": "Peter Welch",
+                "District Info": {
+                    "Median householdincome": "",
+                    "Distribution": "",
+                    "Population": "",
+                    "Ethnicity": ""
+                }
+            },
+            "37th Mayor of Burlington": {
+                "In office": "April 6, 1981 – April 4, 1989",
+                "Preceded by": "Gordon Paquette",
+                "Succeeded by": "Peter Clavelle"
+            }
+        }
+    },
+    "UnusedVotingRecords": [],
+    "VotingRecord": []
+}

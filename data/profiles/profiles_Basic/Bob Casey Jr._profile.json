@@ -1,0 +1,36 @@
+{
+    "Name": "Bob Casey Jr.",
+    "Profile": {
+        "Public Office": {
+            "United States Senatorfrom Pennsylvania": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 3, 2007Serving with John Fetterman",
+                "Preceded by": "Rick Santorum"
+            },
+            "Chair of the Senate Aging Committee": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "February 3, 2021",
+                "Preceded by": "Susan Collins"
+            },
+            "Ranking Member of the Senate Aging Committee": {
+                "In office": "January 3, 2017 – February 3, 2021",
+                "Preceded by": "Claire McCaskill",
+                "Succeeded by": "Tim Scott"
+            },
+            "34th Treasurer of Pennsylvania": {
+                "In office": "January 18, 2005 – January 3, 2007",
+                "Governor": "Ed Rendell",
+                "Preceded by": "Barbara Hafer",
+                "Succeeded by": "Robin Wiessmann"
+            },
+            "49th Auditor General of Pennsylvania": {
+                "In office": "January 21, 1997 – January 18, 2005",
+                "Governor": "Tom Ridge,Mark Schweiker,Ed Rendell",
+                "Preceded by": "Barbara Hafer",
+                "Succeeded by": "Jack Wagner"
+            }
+        }
+    },
+    "UnusedVotingRecords": [],
+    "VotingRecord": []
+}

@@ -1,0 +1,109 @@
+{
+    "Name": "Harriet Hageman",
+    "Profile": {
+        "Public Office": {
+            "Member of the U.S. House of Representativesfrom Wyoming's at-large district": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 3, 2023",
+                "Preceded by": "Liz Cheney",
+                "District Info": {
+                    "Median householdincome": "",
+                    "Distribution": "",
+                    "Population": "",
+                    "Ethnicity": ""
+                }
+            }
+        },
+        "Personal Details": {
+            "Personal details": {
+                "Born": "Harriet Maxine Hageman, (,1962-10-18,) ,October 18, 1962, (age 60),Fort Laramie, Wyoming,, U.S.",
+                "Political party": "Republican",
+                "Spouse": "John Sundahl",
+                "Relatives": "James Hageman, (father)",
+                "Education": "University of Wyoming, (,BS,, ,JD,)",
+                "Website": "House website"
+            }
+        }
+    },
+    "UnusedVotingRecords": [
+        {
+            "Bill Number": "H.J.Res. 70",
+            "First Name": "Harriet Hageman",
+            "Vote": "Yea",
+            "Bill Number.1": "H.J.Res. 7",
+            "Bill Name": "Relating to a national emergency declared by the President on March 13, 2020.",
+            "Summary": NaN,
+            "Status": "Enacted",
+            "Democrat_Yea": 0.0188679245283018,
+            "Democrat_Nay": 0.9386792452830188,
+            "Republican_Yea": 0.1176470588235294,
+            "Republican_Nay": 0.8552036199095022
+        },
+        {
+            "Bill Number": "H.J.Res. 26",
+            "First Name": "Harriet Hageman",
+            "Vote": "Yea",
+            "Bill Number.1": "H.J.Res. 26",
+            "Bill Name": "Disapproving the action of the District of Columbia Council in approving the Revised Criminal Code Act of 2022.",
+            "Summary": NaN,
+            "Status": "Enacted",
+            "Democrat_Yea": 0.6458333333333334,
+            "Democrat_Nay": 0.2708333333333333,
+            "Republican_Yea": 0.979591836734694,
+            "Republican_Nay": 0.0
+        },
+        {
+            "Bill Number": "H.J.Res. 7",
+            "First Name": "Harriet Hageman",
+            "Vote": "Yea",
+            "Bill Number.1": "H.J.Res. 7",
+            "Bill Name": "Relating to a national emergency declared by the President on March 13, 2020.",
+            "Summary": NaN,
+            "Status": "Enacted",
+            "Democrat_Yea": 0.0518867924528301,
+            "Democrat_Nay": 0.929245283018868,
+            "Republican_Yea": 0.986425339366516,
+            "Republican_Nay": 0.0
+        }
+    ],
+    "CosponsoredBills": [
+        {
+            "Bill Number": "H.J.Res. 7",
+            "First Name": "Harriet  Hageman",
+            "Last Name": "cosponsor",
+            "Role": "H.J.Res. 7",
+            "Bill Name": "Relating to a national emergency declared by the President on March 13, 2020.",
+            "Subject Areas": "Infectious and parasitic diseases, Presidents and presidential powers, Vice Presidents, War and emergency powers",
+            "Summary": NaN
+        }
+    ],
+    "VotingRecord": [
+        {
+            "Bill Number": "H.J.Res. 71",
+            "First Name": "Harriet Hageman",
+            "Vote": "Yea",
+            "Bill Number.1": "H.J.Res. 7",
+            "Bill Name": "Relating to a national emergency declared by the President on March 13, 2020.",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.J.Res. 79",
+            "First Name": "Harriet Hageman",
+            "Vote": "Yea",
+            "Bill Number.1": "H.J.Res. 7",
+            "Bill Name": "Relating to a national emergency declared by the President on March 13, 2020.",
+            "Summary": NaN,
+            "Status": "Enacted"
+        },
+        {
+            "Bill Number": "H.J.Res. 74",
+            "First Name": "Harriet Hageman",
+            "Vote": "Yea",
+            "Bill Number.1": "H.J.Res. 7",
+            "Bill Name": "Relating to a national emergency declared by the President on March 13, 2020.",
+            "Summary": NaN,
+            "Status": "Enacted"
+        }
+    ]
+}

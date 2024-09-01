@@ -1,0 +1,56 @@
+{
+    "Name": "AGAUG",
+    "Profile": {
+        "Public Office": {
+            "Senate Majority Whip": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 20, 2021",
+                "Leader": "Harry Reid",
+                "Preceded by": "Mitch McConnell",
+                "In office": "January 3, 2007 – January 3, 2015",
+                "Succeeded by": "John Cornyn"
+            },
+            "Chair of the Senate Judiciary Committee": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "February 3, 2021",
+                "Preceded by": "Lindsey Graham"
+            },
+            "Senate Minority Whip": {
+                "In office": "January 3, 2005 – January 3, 2007",
+                "Leader": "Harry Reid",
+                "Preceded by": "Harry Reid",
+                "Succeeded by": "Trent Lott"
+            },
+            "United States Senatorfrom Illinois": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 3, 1997Serving with Tammy Duckworth",
+                "Preceded by": "Paul Simon"
+            },
+            "Member of the U.S. House of Representativesfrom Illinois's 20th district": {
+                "In office": "January 3, 1983 – January 3, 1997",
+                "Preceded by": "Paul Findley",
+                "Succeeded by": "John Shimkus",
+                "District Info": {
+                    "Median householdincome": "",
+                    "Distribution": "",
+                    "Population": "",
+                    "Ethnicity": ""
+                }
+            }
+        },
+        "Personal Details": {
+            "Personal details": {
+                "Born": "Richard Joseph Durbin, (,1944-11-21,) ,November 21, 1944, (age 78),East St. Louis, Illinois,, U.S.",
+                "Political party": "Democratic",
+                "Spouse": "Loretta Schaefer, ,,(,m., 1967),",
+                "Children": "3,[note 1]",
+                "Education": "Georgetown University, (,BS,, ,JD,)",
+                "Occupation": ".mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:\": \"}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:\" · \";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:\" (\";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:\")\";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:\" \"counter(listitem)\"\\a0 \"}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:\" (\"counter(listitem)\"\\a0 \"},Politician,lawyer",
+                "Signature": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dick_Durbin_Signature.svg/128px-Dick_Durbin_Signature.svg.png",
+                "Website": "Senate website"
+            }
+        }
+    },
+    "UnusedVotingRecords": [],
+    "VotingRecord": []
+}

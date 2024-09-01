@@ -1,0 +1,35 @@
+{
+    "Name": "Mike Turner",
+    "Profile": {
+        "Public Office": {
+            "Chair of the House Intelligence Committee": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 9, 2023",
+                "Preceded by": "Adam Schiff"
+            },
+            "Ranking Member of the House Intelligence Committee": {
+                "In office": "January 1, 2022 – January 3, 2023",
+                "Preceded by": "Devin Nunes",
+                "Succeeded by": "Jim Himes"
+            },
+            "Member of theU.S. House of Representativesfrom Ohio": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 3, 2003",
+                "Preceded by": "Tony P. Hall",
+                "Constituency": "3rd district, (2003–2013),10th district, (2013–present)"
+            },
+            "President of the NATO Parliamentary Assembly": {
+                "In office": "November 24, 2014 – November 19, 2016",
+                "Preceded by": "Hugh Bayley",
+                "Succeeded by": "Paolo Alli"
+            },
+            "53rd Mayor of Dayton": {
+                "In office": "January 4, 1994 – January 4, 2002",
+                "Preceded by": "Clay Dixon",
+                "Succeeded by": "Rhine McLin"
+            }
+        }
+    },
+    "UnusedVotingRecords": [],
+    "VotingRecord": []
+}

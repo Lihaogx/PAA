@@ -1,0 +1,36 @@
+{
+    "Name": "Chris Smith",
+    "Profile": {
+        "Public Office": {
+            "Member of the U.S. House of Representativesfrom New Jersey's 4th district": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 3, 1981",
+                "Preceded by": "Frank Thompson",
+                "District Info": {
+                    "Median householdincome": "$61,465",
+                    "Distribution": "100.00% urban,0.00% rural",
+                    "Population": "768,400",
+                    "Ethnicity": "52.7% ,Black,20.0% ,White,17.6% ,Hispanic,7.1% ,Asian,1.6% ,Two or more races,1.0% other"
+                }
+            },
+            "Chair of the House Veterans' Affairs Committee": {
+                "In office": "January 4, 2001 – January 3, 2005",
+                "Preceded by": "Bob Stump",
+                "Succeeded by": "Steve Buyer"
+            }
+        },
+        "Personal Details": {
+            "Personal details": {
+                "Born": "Christopher Henry Smith, (,1953-03-04,) ,March 4, 1953, (age 70),Rahway, New Jersey,, U.S.",
+                "Political party": "Republican, (1978–present)",
+                "Other politicalaffiliations": "Democratic, (before 1978)",
+                "Spouse": "Marie Hahn, ,,(,m., 1977),",
+                "Children": "4",
+                "Education": "Trenton State College, (,BS,)",
+                "Website": "House website"
+            }
+        }
+    },
+    "UnusedVotingRecords": [],
+    "VotingRecord": []
+}

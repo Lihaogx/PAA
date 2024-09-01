@@ -1,0 +1,30 @@
+{
+    "Name": "Pat Fallon",
+    "Profile": {
+        "Public Office": {
+            "Member of the U.S. House of Representativesfrom Texas's 4th district": {
+                "Incumbent": "Incumbent",
+                "Assumed office": "January 3, 2021",
+                "Preceded by": "John Ratcliffe",
+                "District Info": {
+                    "Median householdincome": "$73,784",
+                    "Distribution": "77.46% urban,22.54% rural",
+                    "Population": "775,543",
+                    "Ethnicity": "57.23% ,White,25.97% ,Hispanic,10.80% ,Black,5.33% ,Asian,0.6% ,Native American"
+                }
+            },
+            "Member of the Texas Senatefrom the 30th district": {
+                "In office": "January 8, 2019 – January 3, 2021",
+                "Preceded by": "Craig Estes",
+                "Succeeded by": "Drew Springer"
+            },
+            "Member of the Texas House of Representativesfrom the 106th district": {
+                "In office": "January 8, 2013 – January 8, 2019",
+                "Preceded by": "Rodney Anderson",
+                "Succeeded by": "Jared Patterson"
+            }
+        }
+    },
+    "UnusedVotingRecords": [],
+    "VotingRecord": []
+}

@@ -1,0 +1,4406 @@
+{
+    "Montana's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New Mexico's 2nd congressional district": {
+        "Median householdincome": "$49,905",
+        "Distribution": "70.82% urban,29.18% rural",
+        "Population": "702,024",
+        "Ethnicity": "53.6% ,Hispanic,37.7% ,White,5.0% other,1.8% ,Black,1.2% ,Two or more races,0.7% ,Asian"
+    },
+    "New York's 30th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Pennsylvania's 3rd congressional district": {
+        "Median householdincome": "$54,392",
+        "Distribution": "100.00% urban,0.00% rural",
+        "Population": "741,180",
+        "Ethnicity": "54% ,Black,31% ,White,6% ,Asian,5% ,Hispanic,0% ,Native American,0% other"
+    },
+    "Utah's 2nd congressional district": {
+        "Median householdincome": "$72,791",
+        "Distribution": "",
+        "Population": "833,949",
+        "Ethnicity": ""
+    },
+    "Tennessee's 5th congressional district": {
+        "Median householdincome": "$78,185",
+        "Distribution": "88.68% urban,11.32% rural",
+        "Population": "775,588",
+        "Ethnicity": "60.3% ,White,25.0% ,Black,9.1% ,Hispanic,3.1% ,Asian,2.0% ,Two or more races,0.5% other"
+    },
+    "South Carolina's 6th congressional district": {
+        "Median householdincome": "$47,009",
+        "Distribution": "85% urban,15% rural",
+        "Population": "730,296",
+        "Ethnicity": "49.0% ,Black,41.6% ,White,6.2% ,Hispanic,2.2% ,Asian,1.7% ,Native American,0.2% ,Pacific Islander Americans,0.1% other"
+    },
+    "Connecticut's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New York's 39th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "North Carolina's 6th congressional district": {
+        "Median householdincome": "$59,118",
+        "Distribution": "52.76% urban,47.24% rural",
+        "Population": "754,077",
+        "Ethnicity": "51.3% ,White,33.0% ,Black,9.7% ,Hispanic,4.8% ,Asian,2.3% ,Native American,0.1% ,Pacific Islander Americans,0.1% other"
+    },
+    "New Jersey's 10th congressional district": {
+        "Median householdincome": "$61,465",
+        "Distribution": "100.00% urban,0.00% rural",
+        "Population": "768,400",
+        "Ethnicity": "52.7% ,Black,20.0% ,White,17.6% ,Hispanic,7.1% ,Asian,1.6% ,Two or more races,1.0% other"
+    },
+    "Colorado Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Texas's 23rd congressional district": {
+        "Median householdincome": "$69,566",
+        "Distribution": "78.09% urban,21.91% rural",
+        "Population": "778,183",
+        "Ethnicity": "68.34% ,Hispanic,24.92% ,White,3.85% ,Black,1.6% ,Asian,1.29% ,Native American"
+    },
+    "California's 15th congressional district": {
+        "Median householdincome": "$125,855",
+        "Distribution": "",
+        "Population": "738,342",
+        "Ethnicity": "34.4% ,White,31.4% ,Asian,22.4% ,Hispanic,6.1% ,Black,4.1% ,Two or more races,1.5% other"
+    },
+    "Arizona's 4th congressional district": {
+        "Median householdincome": "$70,204",
+        "Distribution": "99.9% urban,0.08% rural",
+        "Population": "804,813",
+        "Ethnicity": "55.2% ,White,26.7% ,Hispanic,7.5% ,Black,7.3% ,Asian,4.9% ,Native American,0.7% ,Pacific Islander Americans"
+    },
+    "Southwest Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Michigan's 12th congressional district": {
+        "Median householdincome": "$51,973",
+        "Distribution": "",
+        "Population": "775,033",
+        "Ethnicity": "75.3% ,White,10.7% ,Black,5.6% ,Hispanic,5.2% ,Asian,2.9% ,Two or more races,0.4% other"
+    },
+    "California's 52nd congressional district": {
+        "Median householdincome": "$73,215",
+        "Distribution": "",
+        "Population": "759,409",
+        "Ethnicity": "58.7% ,White,19.7% ,Asian,13.8% ,Hispanic,3.9% ,Two or more races,3.0% ,Black,0.8% other"
+    },
+    "Kansas's 3rd congressional district": {
+        "Median householdincome": "$88,701",
+        "Distribution": "94.65% urban,5.35% rural",
+        "Population": "737,384",
+        "Ethnicity": "67.6% ,White,14% ,Hispanic,7.8% ,Black,5% ,Asian,3.6% ,Two or more races,2% other"
+    },
+    "Kentucky's 2nd congressional district": {
+        "Median householdincome": "$59,005",
+        "Distribution": "57.53% urban,42.47% rural",
+        "Population": "755,942",
+        "Ethnicity": "87.7% ,White,5.5% ,Black,3.1% ,Hispanic,2.0% ,Two or more races,1.3% ,Asian,0.4% other"
+    },
+    "Texas's 35th congressional district": {
+        "Median householdincome": "$63,991",
+        "Distribution": "95.99% urban,4.01% rural",
+        "Population": "760,005",
+        "Ethnicity": "61.18% ,Hispanic,26.25% ,White,10.17% ,Black,1.9% ,Asian,0.5% ,Native American"
+    },
+    "Pennsylvania's 18th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "North Carolina's 11th congressional district": {
+        "Median householdincome": "$55,831",
+        "Distribution": "53.4% rural,46.6% urban",
+        "Population": "750,100",
+        "Ethnicity": "82.2% ,White,7.6% ,Hispanic,4.6% ,Black,3.9% ,Native American,1.5% ,Asian,0.3% ,Pacific Islander Americans,0.1% other"
+    },
+    "Florida's 5th congressional district": {
+        "Median householdincome": "$77,698",
+        "Distribution": "83.37% urban,16.63% rural",
+        "Population": "784,246",
+        "Ethnicity": "47.3% ,Black,40.7% ,White,6.8% ,Hispanic,2.5% ,Asian,2.2% ,Two or more races,0.5% other"
+    },
+    "Florida's 23rd congressional district": {
+        "Median householdincome": "$70,142",
+        "Distribution": "99.96% urban,0.04% rural",
+        "Population": "773,856",
+        "Ethnicity": "45.1% ,White,34.6% ,Hispanic,13.8% ,Black,4.1% ,Asian,1.6% ,Two or more races,0.7% other"
+    },
+    "Nevada's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Georgia's 2nd congressional district": {
+        "Median householdincome": "$45,826",
+        "Distribution": "65.75% urban,34.25% rural",
+        "Population": "769,411",
+        "Ethnicity": "51.6% ,Black,40.5% ,White,4.6% ,Hispanic,1.6% ,Two or more races,1.1% ,Asian,0.5% other"
+    },
+    "Mississippi's 8th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Michigan's 17th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Connecticut's 3rd congressional district": {
+        "Median householdincome": "$78,911",
+        "Distribution": "96.7% urban,3.3% rural",
+        "Population": "719,381",
+        "Ethnicity": "65.8% ,White,13.8% ,Hispanic,13.7% ,Black,4.3% ,Asian,2.0% ,Two or more races,0.4% other"
+    },
+    "Resident Commissioner of the Philippines": {
+        "Median householdincome": "",
+        "Population": "0",
+        "Distribution": "",
+        "Ethnicity": ""
+    },
+    "Arkansas's 7th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Tennessee's 11th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "California's 45th congressional district": {
+        "Median householdincome": "$91,764",
+        "Distribution": "",
+        "Population": "748,285",
+        "Ethnicity": "52.2% ,White,23.5% ,Asian,18.1% ,Hispanic,3.6% ,Two or more races,1.9% ,Black,0.6% other"
+    },
+    "Pennsylvania's 17th congressional district": {
+        "Median householdincome": "$77,984",
+        "Distribution": "",
+        "Population": "756,635",
+        "Ethnicity": "88.9% ,White,6.1% ,Black,3.1% ,Asian,1.8% ,Hispanic,0.1% ,Native American"
+    },
+    "Pennsylvania's 19th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Colorado's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Pennsylvania's 10th congressional district": {
+        "Median householdincome": "$72,359",
+        "Distribution": "",
+        "Population": "764,361",
+        "Ethnicity": "76.0% ,White,11.6% ,Black,8.4% ,Hispanic,3.8% ,Asian,0.2% ,Native American"
+    },
+    "Tennessee's 2nd congressional district": {
+        "Median householdincome": "$61,938",
+        "Distribution": "74.15% urban,25.85% rural",
+        "Population": "783,395",
+        "Ethnicity": "86.4% ,White,6.3% ,Black,3.7% ,Hispanic,1.7% ,Two or more races,1.5% ,Asian,0.4% other"
+    },
+    "Washington's 6th congressional district": {
+        "Median householdincome": "$77,880",
+        "Distribution": "",
+        "Population": "776,259",
+        "Ethnicity": "79.8% ,White,5.7% ,Black,5.1% ,Hispanic,4.5% ,Asian,2.4% ,Native American,1.3% other"
+    },
+    "Texas's 6th congressional district": {
+        "Median householdincome": "$67,221",
+        "Distribution": "88.7% urban,11.3% rural",
+        "Population": "766,924",
+        "Ethnicity": "52.0% ,White,22.2% ,Hispanic,20.3% ,Black,4.9% ,Asian,0.6% ,Native American"
+    },
+    "Pennsylvania's 7th congressional district": {
+        "Median householdincome": "$71,407",
+        "Distribution": "",
+        "Population": "771,318",
+        "Ethnicity": "69.6% ,White,19.5% ,Hispanic,7.2% ,Black,3.3% ,Asian,0.3% ,Native American"
+    },
+    "South Carolina's 7th congressional district": {
+        "Median householdincome": "$50,905",
+        "Distribution": "60% urban,40% rural",
+        "Population": "746,084",
+        "Ethnicity": "63.9% ,White,27.6% ,Black,5.0% ,Hispanic,2.2% ,Native American,1.5% ,Asian,0.1% ,Pacific Islander Americans,0.1% other"
+    },
+    "Ohio's 16th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Colorado's 3rd congressional district": {
+        "Median householdincome": "$59,991",
+        "Distribution": "64.75% rural,35.25% urban",
+        "Population": "734,246",
+        "Ethnicity": "71.1% ,White,24.1% ,Hispanic,1.6% other,1.5% ,Two or more races,1.0% ,Black,0.7% ,Asian"
+    },
+    "Wisconsin's 2nd congressional district": {
+        "Median householdincome": "$75,880",
+        "Distribution": "75.65% urban,24.35% rural",
+        "Population": "739,669",
+        "Ethnicity": "82% ,White,7% ,Hispanic,4% ,Asian,4% ,Black,3% other,0% ,Native American"
+    },
+    "Alabama's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Virginia's 12th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Indiana's 6th congressional district": {
+        "Median householdincome": "$66,074",
+        "Distribution": "59.23% urban,40.77% rural",
+        "Population": "753,496",
+        "Ethnicity": "91.8% ,White,2.5% ,Black,2.5% ,Hispanic,1.5% ,Two or more races,1.3% ,Asian,0.4% other"
+    },
+    "Florida's 12th congressional district": {
+        "Median householdincome": "$55,598",
+        "Distribution": "93.09% urban,6.91% rural",
+        "Population": "778,826",
+        "Ethnicity": "79.5% ,White,11.3% ,Hispanic,4.6% ,Black,2.4% ,Asian,1.7% ,Two or more races,0.5% other"
+    },
+    "Pennsylvania's 28th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New York's 14th congressional district": {
+        "Median householdincome": "$56,129",
+        "Distribution": "100.00% urban,0.00% rural",
+        "Population": "696,136",
+        "Ethnicity": "47.3% ,Hispanic,22.8% ,White,16.9% ,Asian,11.0% ,Black,1.4% ,Two or more races,0.6% other"
+    },
+    "Kentucky's 6th congressional district": {
+        "Median householdincome": "$58,668",
+        "Distribution": "72.6% urban,27.4% rural",
+        "Population": "750,964",
+        "Ethnicity": "82.6% ,White,8.7% ,Black,4.4% ,Hispanic,2.0% ,Two or more races,1.8% ,Asian,0.4% other"
+    },
+    "Maine's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Colorado's 4th congressional district": {
+        "Median householdincome": "$101,778",
+        "Distribution": "72.9% urban,27.1% rural",
+        "Population": "746,626",
+        "Ethnicity": "72.7% ,White,21.6% ,Hispanic,1.8% ,Two or more races,1.8% ,Asian,1.4% ,Black,0.7% other"
+    },
+    "Indiana's 9th congressional district": {
+        "Median householdincome": "$60,586",
+        "Distribution": "",
+        "Population": "757,993",
+        "Ethnicity": "89.8% ,White,3.1% ,Hispanic,2.8% ,Black,2.2% ,Asian,1.7% ,Two or more races,0.3% other"
+    },
+    "Arkansas Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Louisiana's 2nd congressional district": {
+        "Median householdincome": "$44,363",
+        "Distribution": "94.68% urban,5.42% rural",
+        "Population": "762,623",
+        "Ethnicity": "62.2% ,Black,28.1% ,White,5.4% ,Hispanic,2.6% ,Asian,1.3% ,Two or more races,0.4% other"
+    },
+    "Texas's 29th congressional district": {
+        "Median householdincome": "$48,391",
+        "Distribution": "99.94% urban,0.06% rural",
+        "Population": "740,023",
+        "Ethnicity": "77.09% ,Hispanic,10.61% ,Black,9.46% ,White,2.26% ,Asian,0.58% ,Native American"
+    },
+    "Alabama's 1st congressional district": {
+        "Median householdincome": "$52,278",
+        "Distribution": "",
+        "Population": "727,212",
+        "Ethnicity": "63.4% ,White,27.4% ,Black,3.8% ,Hispanic,3.3% ,Native American,2.0% ,Asian,0.1% ,Pacific Islander Americans"
+    },
+    "Florida's 13th congressional district": {
+        "Median householdincome": "$61,804",
+        "Distribution": "99.99% urban,0.01% rural",
+        "Population": "768,563",
+        "Ethnicity": "72.3% ,White,12.4% ,Black,9.0% ,Hispanic,3.4% ,Asian,2.2% ,Two or more races,0.6% other"
+    },
+    "Maine's 1st congressional district": {
+        "Median householdincome": "$76,039",
+        "Distribution": "50.57% rural,49.43% urban",
+        "Population": "686,648",
+        "Ethnicity": "93.2% ,White,1.7% ,Two or more races,1.6% ,Black,1.6% ,Hispanic,1.5% ,Asian,0.4% other"
+    },
+    "Illinois's 25th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Kansas Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Missouri's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "West Virginia's 4th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "South Carolina's 1st congressional district": {
+        "Median householdincome": "$78,342",
+        "Distribution": "85% urban,15% rural",
+        "Population": "744,714",
+        "Ethnicity": "68.2% ,White,18.7% ,Black,8.1% ,Hispanic,2.8% ,Asian,2.1% ,Native American,0.2% ,Pacific Islander Americans,0.1% other"
+    },
+    "Washington's 8th congressional district": {
+        "Median householdincome": "$111,589",
+        "Distribution": "83.4% urban,16.6% rural",
+        "Population": "782,989",
+        "Ethnicity": "74.2% ,White,11.3% ,Hispanic,9.4% ,Asian,6.3% ,Two or more races,5.3% other,3.1% ,Black,1.1% ,Native American,0.6% ,Pacific Islander Americans"
+    },
+    "California's 40th congressional district": {
+        "Median householdincome": "$113,590",
+        "Distribution": "",
+        "Population": "753,484",
+        "Ethnicity": "48.5% ,White,25.2% ,Hispanic,19.0% ,Asian,4.8% ,Two or more races,1.6% ,Black,0.5% other"
+    },
+    "Virginia's 5th congressional district": {
+        "Median householdincome": "$62,276",
+        "Distribution": "64.7% rural,35.3% urban",
+        "Population": "790,423",
+        "Ethnicity": "68.4% ,White,22.4% ,Black,3.38% ,Hispanic,1.98% ,Asian,0.31% ,Native American"
+    },
+    "Georgia's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Tennessee's 8th congressional district": {
+        "Median householdincome": "$59,218",
+        "Distribution": "60.83% urban,39.17% rural",
+        "Population": "764,865",
+        "Ethnicity": "73.3% ,White,19.9% ,Black,3.0% ,Hispanic,2.0% ,Asian,1.4% ,Two or more races,0.4% other"
+    },
+    "Pennsylvania's 14th congressional district": {
+        "Median householdincome": "$58,075",
+        "Distribution": "99.78% urban,0.22% rural",
+        "Population": "761,114",
+        "Ethnicity": "94.4% ,White,3.1% ,Black,1.4% ,Hispanic,1.0% ,Asian,0.1% ,Native American"
+    },
+    "Ohio's 19th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Illinois's 9th congressional district": {
+        "Median householdincome": "$80,300",
+        "Distribution": "100.0% urban,0.0% rural",
+        "Population": "746,898",
+        "Ethnicity": "64.6% ,White,12.9% ,Asian,10.9% ,Hispanic,9.0% ,Black,2.3% ,Two or more races,0.4% other"
+    },
+    "Oklahoma's 2nd congressional district": {
+        "Median householdincome": "$47,017",
+        "Distribution": "64.49% rural,35.51% urban",
+        "Population": "795,387",
+        "Ethnicity": "64.8% ,White,16.4% other,9.9% ,Two or more races,4.8% ,Hispanic,3.5% ,Black,0.6% ,Asian"
+    },
+    "New York's 29th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Pennsylvania's 21st congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Virginia's 8th congressional district": {
+        "Median householdincome": "$116,332",
+        "Distribution": "99.71% urban,0.29% rural",
+        "Population": "770,372",
+        "Ethnicity": "55.69% ,White,18.62% ,Hispanic,14.1% ,Black,11.4% ,Asian,0.2% ,Native American"
+    },
+    "New York's 42nd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "South Dakota's 2nd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Texas's 33rd congressional district": {
+        "Median householdincome": "$52,202",
+        "Distribution": "99.98% urban,0.02% rural",
+        "Population": "785,806",
+        "Ethnicity": "66.9% ,Hispanic,15.72% ,Black,14.62% ,White,2.55% ,Asian,0.21% ,Native American"
+    },
+    "Vermont's 5th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Oregon's 5th congressional district": {
+        "Median householdincome": "$81,113",
+        "Distribution": "80.34% urban,19.66% rural",
+        "Population": "713,162",
+        "Ethnicity": "75.9% ,White,16.0% ,Hispanic,3.1% ,Two or more races,2.7% ,Asian,1.3% other,1.0% ,Black"
+    },
+    "California's 20th congressional district": {
+        "Median householdincome": "$77,205",
+        "Distribution": "",
+        "Population": "766,063",
+        "Ethnicity": "52.1% ,Hispanic,37.6% ,White,5.2% ,Asian,2.5% ,Two or more races,2.0% ,Black,0.7% other"
+    },
+    "Virginia's 20th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Nebraska Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Pennsylvania's 9th congressional district": {
+        "Median householdincome": "$62,659",
+        "Distribution": "53.11% urban",
+        "Population": "766,968",
+        "Ethnicity": "96.9% ,White,1.6% ,Black,0.9% ,Hispanic,0.4% ,Asian,0.1% ,Native American,0.1% other"
+    },
+    "Guam's at-large congressional district": {
+        "Median householdincome": "34,598",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": "56.4% other,28.6% ,Asian,6.9% ,White,2.2% ,Hispanic,0.1% ,Black,0.0% ,Native American"
+    },
+    "Connecticut's 5th congressional district": {
+        "Median householdincome": "$80,655",
+        "Distribution": "85.79% urban,14.21% rural",
+        "Population": "720,784",
+        "Ethnicity": "70.9% ,White,16.8% ,Hispanic,6.5% ,Black,3.6% ,Asian,1.6% ,Two or more races,0.6% other"
+    },
+    "New Jersey's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Ohio's 2nd congressional district": {
+        "Median householdincome": "$56,397",
+        "Distribution": "73.38% urban,26.62% rural",
+        "Population": "785,898",
+        "Ethnicity": "86.0% ,White,8.5% ,Black,2.0% ,Two or more races,1.8% ,Hispanic,1.3% ,Asian,0.3% other"
+    },
+    "New York's 8th congressional district": {
+        "Median householdincome": "$55,121",
+        "Distribution": "99.99% urban,0.01% rural",
+        "Population": "758,070",
+        "Ethnicity": "55.0% ,Black,22.9% ,White,14.5% ,Hispanic,5.4% ,Asian,1.6% ,Two or more races,0.7% other"
+    },
+    "New York's 26th congressional district": {
+        "Median householdincome": "$56,989",
+        "Distribution": "95.52% urban,4.48% rural",
+        "Population": "767,330",
+        "Ethnicity": "69.7% ,White,18.2% ,Black,5.6% ,Hispanic,3.9% ,Asian,2.0% ,Two or more races,0.6% other"
+    },
+    "Arizona's 1st congressional district": {
+        "Median householdincome": "$86,002",
+        "Distribution": "91.5% urban,8.4% rural",
+        "Population": "796,924",
+        "Ethnicity": "69.9% ,White,16.4% ,Hispanic,6.1% ,Asian,4.6% ,Black,3.5% ,Native American,0.4% ,Pacific Islander Americans"
+    },
+    "Texas's 32nd congressional district": {
+        "Median householdincome": "$58,647",
+        "Distribution": "99.85% urban,0.15% rural",
+        "Population": "755,403",
+        "Ethnicity": "42.63% ,White,25.49% ,Hispanic,14.75% ,Black,8.41% other,8.39% ,Asian,0.3% ,Native American"
+    },
+    "Maine's 6th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Ohio's 4th congressional district": {
+        "Median householdincome": "$67,184",
+        "Distribution": "63.02% urban,36.98% rural",
+        "Population": "793,670",
+        "Ethnicity": "88.2% ,White,5.2% ,Black,3.4% ,Hispanic,2.1% ,Two or more races,0.8% ,Asian,0.3% other"
+    },
+    "Illinois's 4th congressional district": {
+        "Median householdincome": "$66,787",
+        "Distribution": "100.0% urban,0.0% rural",
+        "Population": "721,991",
+        "Ethnicity": "69.8% ,Hispanic,21.3% ,White,4.4% ,Black,3.3% ,Asian,1.0% ,Two or more races,0.3% other"
+    },
+    "Massachusetts's 7th congressional district": {
+        "Median householdincome": "$75,812",
+        "Distribution": "",
+        "Population": "761,699",
+        "Ethnicity": "41.5% ,White,26.0% ,Black,18.6% ,Hispanic,9.9% ,Asian,2.6% ,Two or more races,1.3% other"
+    },
+    "Kansas's 6th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Ohio's 13th congressional district": {
+        "Median householdincome": "$62,114",
+        "Distribution": "",
+        "Population": "783,099",
+        "Ethnicity": "81.3% ,White,11.6% ,Black,2.9% ,Hispanic,2.4% ,Two or more races,1.6% ,Asian,0.3% other"
+    },
+    "New Hampshire's 2nd congressional district": {
+        "Median householdincome": "$84,417",
+        "Distribution": "51.05% urban,48.95% rural",
+        "Population": "",
+        "Ethnicity": "87.0% ,White,4.3% ,Hispanic,3.6% ,Asian,2.2% ,Black,1.0% other"
+    },
+    "Missouri's 7th congressional district": {
+        "Median householdincome": "$54,711",
+        "Distribution": "59.28% urban,40.72% rural",
+        "Population": "775,102",
+        "Ethnicity": "88.8% ,White,4.7% ,Hispanic,2.3% ,Two or more races,1.9% ,Black,1.2% ,Asian,1.1% other"
+    },
+    "Ohio's 14th congressional district": {
+        "Median householdincome": "$64,318",
+        "Distribution": "74.05% urban,25.95% rural",
+        "Population": "785,721",
+        "Ethnicity": "89.3% ,White,4.4% ,Black,2.5% ,Hispanic,2.0% ,Asian,1.6% ,Two or more races,0.2% other"
+    },
+    "Mississippi's 2nd congressional district": {
+        "Median householdincome": "$37,933",
+        "Distribution": "62.67% urban,37.33% rural",
+        "Population": "723,186",
+        "Ethnicity": "65.6% ,Black,31.1% ,White,1.9% ,Hispanic,0.6% ,Two or more races,0.5% ,Asian,0.4% other"
+    },
+    "Colorado's 5th congressional district": {
+        "Median householdincome": "$79,567",
+        "Distribution": "86.44% urban,13.56% rural",
+        "Population": "731,281",
+        "Ethnicity": "72.2% ,White,15.0% ,Hispanic,5.7% ,Black,3.8% ,Two or more races,2.4% ,Asian,0.8% other"
+    },
+    "North Carolina's 3rd congressional district": {
+        "Median householdincome": "$55,911",
+        "Distribution": "53.13% urban,46.87% rural",
+        "Population": "749,741",
+        "Ethnicity": "64.4% ,White,20.0% ,Black,11.2% ,Hispanic,2.7% ,Native American,2.5% ,Asian,0.3% ,Pacific Islander Americans,0.1% other"
+    },
+    "Massachusetts's 9th congressional district": {
+        "Median householdincome": "$87,687",
+        "Distribution": "",
+        "Population": "792,963",
+        "Ethnicity": "87.1% ,White,4.8% ,Hispanic,2.8% ,Black,2.2% ,Two or more races,1.7% other,1.4% ,Asian"
+    },
+    "Utah's 3rd congressional district": {
+        "Median householdincome": "$80,915",
+        "Distribution": "",
+        "Population": "827,399",
+        "Ethnicity": "93.3% ,White,3.7% ,Asian,1.6% ,Black,1.5% ,Hispanic,1.4% ,Native American"
+    },
+    "American Samoa's at-large congressional district": {
+        "Median householdincome": "15,851",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": "92.9% other,2.9% ,Asian,1.2% ,White,0.2% ,Hispanic,0.0% ,Black,0.0% ,Native American"
+    },
+    "Illinois's 26th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Pennsylvania's 8th congressional district": {
+        "Median householdincome": "$63,058",
+        "Distribution": "",
+        "Population": "763,499",
+        "Ethnicity": "79.5% ,White,12.4% ,Hispanic,6.0% ,Black,2.0% ,Asian,0.1% ,Native American"
+    },
+    "Florida's 24th congressional district": {
+        "Median householdincome": "$51,688",
+        "Distribution": "100% urban,0% rural",
+        "Population": "756,692",
+        "Ethnicity": "50.6% ,Black,34.3% ,Hispanic,12.4% ,White,1.4% ,Asian,0.8% ,Two or more races,0.4% other"
+    },
+    "Michigan's 1st congressional district": {
+        "Median householdincome": "$55,941",
+        "Distribution": "63.42% rural,36.58% urban",
+        "Population": "778,886",
+        "Ethnicity": "91.2% ,White,2.4% other,2.3% ,Two or more races,1.7% ,Hispanic,1.6% ,Black,0.7% ,Asian"
+    },
+    "Indiana's 12th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New Mexico's 3rd congressional district": {
+        "Median householdincome": "$51,404",
+        "Distribution": "64.70% urban,35.30% rural",
+        "Population": "703,657",
+        "Ethnicity": "40.2% ,Hispanic,37.9% ,White,17.5% other,1.6% ,Two or more races,1.5% ,Black,1.2% ,Asian"
+    },
+    "Florida's 9th congressional district": {
+        "Median householdincome": "$63,463",
+        "Distribution": "89.9% urban,10.1% rural",
+        "Population": "762,639",
+        "Ethnicity": "43.9% ,White,37.5% ,Hispanic,13.3% ,Black,3.0% ,Asian,1.8% ,Two or more races,0.5% other"
+    },
+    "Maryland's 7th congressional district": {
+        "Median householdincome": "$55,335",
+        "Distribution": "95% urban,4.6% rural",
+        "Population": "745,963",
+        "Ethnicity": "56.3% ,Black,29.9% ,White,8.5% ,Hispanic,4.6% ,Asian,2.0% ,Native American,0.1% ,Pacific Islander Americans"
+    },
+    "Florida's 21st congressional district": {
+        "Median householdincome": "$70,739",
+        "Distribution": "99.44% urban,0.56% rural",
+        "Population": "785,345",
+        "Ethnicity": "58.2% ,White,21.8% ,Hispanic,15.5% ,Black,2.5% ,Asian,1.4% ,Two or more races,0.6% other"
+    },
+    "New Jersey's 9th congressional district": {
+        "Median householdincome": "$75,997",
+        "Distribution": "100% urban,0% rural",
+        "Population": "760,340",
+        "Ethnicity": "39.5% ,White,34.8% ,Hispanic,13.1% ,Asian,10.7% ,Black,1.4% ,Two or more races,0.5% other"
+    },
+    "Maryland's 4th congressional district": {
+        "Median householdincome": "$80,808",
+        "Distribution": "97.9% urban,2.1% rural",
+        "Population": "746,989",
+        "Ethnicity": "58.9% ,Black,25.1% ,Hispanic,10.7% ,White,6.1% ,Asian,2.6% ,Native American,0.2% ,Pacific Islander Americans"
+    },
+    "Indiana's 11th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New York's 23rd congressional district": {
+        "Median householdincome": "$62,999",
+        "Distribution": "52.44% rural,47.56% urban",
+        "Population": "778,483",
+        "Ethnicity": "88.8% ,White,3.5% ,Hispanic,2.9% ,Black,2.4% ,Asian,1.9% ,Two or more races,0.6% other"
+    },
+    "Illinois's 19th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Florida's 28th congressional district": {
+        "Median householdincome": "$64,881",
+        "Distribution": "",
+        "Population": "765,935",
+        "Ethnicity": ""
+    },
+    "New Hampshire's 1st congressional district": {
+        "Median householdincome": "$91,872",
+        "Distribution": "69.55% urban,30.45% rural",
+        "Population": "",
+        "Ethnicity": "87.3% ,White,4.3% ,Hispanic,3.3% ,Asian,2.6% ,Black,1.0% other"
+    },
+    "Virginia's 14th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Oklahoma's 6th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Iowa's 10th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Maine's 4th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New Jersey's 11th congressional district": {
+        "Median householdincome": "$117,198",
+        "Distribution": "96.21% urban,3.79% rural",
+        "Population": "769,512",
+        "Ethnicity": "74.6% ,White,10.1% ,Hispanic,9.7% ,Asian,3.7% ,Black,1.6% ,Two or more races,0.2% other"
+    },
+    "Colorado's 1st congressional district": {
+        "Median householdincome": "$81,218",
+        "Distribution": "100% urban,0% rural",
+        "Population": "716,790",
+        "Ethnicity": "57.5% ,White,27.5% ,Hispanic,8.5% ,Black,3.4% ,Asian,2.3% ,Two or more races,0.7% other"
+    },
+    "California's 17th congressional district": {
+        "Median householdincome": "$157,049",
+        "Distribution": "",
+        "Population": "733,185",
+        "Ethnicity": "52.7% ,Asian,24.7% ,White,16.1% ,Hispanic,3.1% ,Two or more races,2.6% ,Black,0.8% other"
+    },
+    "Texas's 38th congressional district": {
+        "Median householdincome": "$91,184",
+        "Distribution": "",
+        "Population": "783,719",
+        "Ethnicity": "59.3% ,White,28.6% ,Hispanic,15.9% ,Two or more races,8.9% ,Asian,7.9% other,7.0% ,Black"
+    },
+    "Kentucky's 10th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Tennessee's 7th congressional district": {
+        "Median householdincome": "$64,551",
+        "Distribution": "50.71% urban,49.29% rural",
+        "Population": "784,694",
+        "Ethnicity": "81.0% ,White,10.0% ,Black,4.7% ,Hispanic,2.0% ,Two or more races,1.8% ,Asian,0.5% other"
+    },
+    "Ohio's 20th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Missouri's 3rd congressional district": {
+        "Median householdincome": "$71,309",
+        "Distribution": "",
+        "Population": "775,035",
+        "Ethnicity": "91.2% ,White,3.3% ,Black,2.4% ,Hispanic,1.7% ,Two or more races,0.9% ,Asian,0.5% other"
+    },
+    "Michigan's 18th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Idaho's 1st congressional district": {
+        "Median householdincome": "$68,661",
+        "Distribution": "65.82% urban,34.18% rural",
+        "Population": "967,737",
+        "Ethnicity": "84.8% ,White,10.3% ,Hispanic,2.1% ,Two or more races,1.3% other,1.1% ,Asian,0.5% ,Black"
+    },
+    "South Dakota's 1st congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New Hampshire's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Texas's 22nd congressional district": {
+        "Median householdincome": "$90,555",
+        "Distribution": "93.09% urban,6.91% rural",
+        "Population": "811,754",
+        "Ethnicity": "41.78% ,White,25.19% ,Hispanic,19.05% ,Asian,13.34% ,Black,0.64% ,Native American"
+    },
+    "Oklahoma's 1st congressional district": {
+        "Median householdincome": "$61,030",
+        "Distribution": "89.63% urban,10.37% rural",
+        "Population": "798,974",
+        "Ethnicity": "65.5% ,White,10.5% ,Hispanic,8.6% ,Black,7.5% ,Two or more races,5.4% other,2.6% ,Asian"
+    },
+    "California's 39th congressional district": {
+        "Median householdincome": "$78,174",
+        "Distribution": "",
+        "Population": "767,831",
+        "Ethnicity": "33.1% ,Hispanic,31.5% ,White,30.1% ,Asian,2.4% ,Two or more races,2.2% ,Black,0.6% other"
+    },
+    "Pennsylvania's 6th congressional district": {
+        "Median householdincome": "$94,356",
+        "Distribution": "",
+        "Population": "768,151",
+        "Ethnicity": "73.2% ,White,15.8% ,Hispanic,6.5% ,Black,4.4% ,Asian,0.1% ,Native American"
+    },
+    "Pennsylvania's 11th congressional district": {
+        "Median householdincome": "$75,875",
+        "Distribution": "",
+        "Population": "772,986",
+        "Ethnicity": ""
+    },
+    "North Carolina's 5th congressional district": {
+        "Median householdincome": "$51,640",
+        "Distribution": "58.99% urban,41.01% rural",
+        "Population": "743,662",
+        "Ethnicity": "72.7% ,White,10.2% ,Black,10.2% ,Hispanic,2.3% ,Native American,2.0% ,Asian,0.1% ,Pacific Islander Americans,0.1% other"
+    },
+    "Texas's 36th congressional district": {
+        "Median householdincome": "$65,378",
+        "Distribution": "67.74% urban,32.26% rural",
+        "Population": "782,741",
+        "Ethnicity": "61.35% ,White,26.55% ,Hispanic,9.19% ,Black,2.32% ,Asian,0.59% ,Native American"
+    },
+    "Maryland's 5th congressional district": {
+        "Median householdincome": "$117,049",
+        "Distribution": "74.19% urban,25.81% rural",
+        "Population": "789,756",
+        "Ethnicity": "43.7% ,White,43.7% ,Black,7.2% ,Hispanic,4.6% ,Asian,2.4% ,Native American,0.3% ,Pacific Islander Americans"
+    },
+    "West Virginia's 1st congressional district": {
+        "Median householdincome": "$46,156",
+        "Distribution": "",
+        "Population": "881,980",
+        "Ethnicity": "96.4% ,White,1.8% ,Black,0.7% ,Hispanic,0.7% ,Asian,0.2% ,Native American,0.1% other"
+    },
+    "California's 19th congressional district": {
+        "Median householdincome": "$108,115",
+        "Distribution": "",
+        "Population": "767,441",
+        "Ethnicity": "40.2% ,Hispanic,27.4% ,Asian,25.6% ,White,3.1% ,Black,2.9% ,Two or more races,0.8% other"
+    },
+    "California's 42nd congressional district": {
+        "Median householdincome": "$67,435",
+        "Distribution": "",
+        "Population": "742,949",
+        "Ethnicity": "43.8% ,White,37.5% ,Hispanic,9.1% ,Asian,5.4% ,Black,3.4% ,Two or more races,0.8% other"
+    },
+    "Georgia's 5th congressional district": {
+        "Median householdincome": "$71,695",
+        "Distribution": "99.97% urban,0.03% rural",
+        "Population": "765,685",
+        "Ethnicity": "58.5% ,Black,28.3% ,White,6.5% ,Hispanic,4.2% ,Asian,1.9% ,Two or more races,0.5% other"
+    },
+    "California's 51st congressional district": {
+        "Median householdincome": "$91,701",
+        "Distribution": "",
+        "Population": "762,785",
+        "Ethnicity": "69.4% ,Hispanic,13.3% ,White,8.3% ,Asian,6.7% ,Black,1.5% ,Two or more races,0.7% other"
+    },
+    "Arizona's 5th congressional district": {
+        "Median householdincome": "$97,042",
+        "Distribution": "86.9% urban,13.0% rural",
+        "Population": "813,308",
+        "Ethnicity": "67.1% ,White,17.8% ,Hispanic,7.8% ,Asian,2.8% ,Native American,0.6% ,Pacific Islander Americans"
+    },
+    "Tennessee's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New York's 24th congressional district": {
+        "Median householdincome": "$64,880",
+        "Distribution": "72.81% urban,27.19% rural",
+        "Population": "772,455",
+        "Ethnicity": "82.3% ,White,8.3% ,Black,3.8% ,Hispanic,2.6% ,Asian,2.4% ,Two or more races,0.6% other"
+    },
+    "District of Columbia's at-large congressional district": {
+        "Median householdincome": "$82,372",
+        "Distribution": "100.0% urban,0.0% rural",
+        "Population": "",
+        "Ethnicity": "45.9% ,Black,41% ,White,11% ,Hispanic,5.8% other,4.1% ,Asian,3% ,Two or more races,0.2% ,Native American,0.0% ,Pacific Islander Americans"
+    },
+    "Illinois's 22nd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Kentucky's 12th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Colorado's 2nd congressional district": {
+        "Median householdincome": "$87,437",
+        "Distribution": "81.04% urban,18.96% rural",
+        "Population": "717,177",
+        "Ethnicity": "83.0% ,White,10.3% ,Hispanic,3.1% ,Asian,2.0% ,Two or more races,0.9% ,Black,0.6% other"
+    },
+    "Massachusetts's 3rd congressional district": {
+        "Median householdincome": "$83,024",
+        "Distribution": "",
+        "Population": "775,520",
+        "Ethnicity": "68.8% ,White,17.4% ,Hispanic,7.7% ,Asian,3.7% ,Black,1.8% ,Two or more races,0.5% other"
+    },
+    "Pennsylvania's 35th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "California's 47th congressional district": {
+        "Median householdincome": "$106,156",
+        "Distribution": "",
+        "Population": "755,464",
+        "Ethnicity": "50.2% ,White,24.8% ,Asian,17.3% ,Hispanic,5.3% ,Two or more races,1.5% ,Black,0.6% other"
+    },
+    "Georgia's 3rd congressional district": {
+        "Median householdincome": "$66,688",
+        "Distribution": "60.53% urban,39.47% rural",
+        "Population": "773,245",
+        "Ethnicity": "66.5% ,White,23.8% ,Black,5.3% ,Hispanic,2.1% ,Two or more races,1.8% ,Asian,0.5% other"
+    },
+    "Connecticut's 1st congressional district": {
+        "Median householdincome": "$77,023",
+        "Distribution": "93.94% urban,6.06% rural",
+        "Population": "717,721",
+        "Ethnicity": "62.4% ,White,15.2% ,Black,15.1% ,Hispanic,4.9% ,Asian,2.0% ,Two or more races,0.4% other"
+    },
+    "Kansas's 8th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Rhode Island's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New York's 44th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Alabama's 7th congressional district": {
+        "Median householdincome": "$41,736",
+        "Distribution": "72.16% urban,27.84% rural",
+        "Population": "716,213",
+        "Ethnicity": "57.1% ,Black,36.3% ,White,4.2% ,Hispanic,1.5% ,Asian,1.3% ,Native American,0.1% ,Pacific Islander Americans"
+    },
+    "Washington's 1st congressional district": {
+        "Median householdincome": "$120,671",
+        "Distribution": "",
+        "Population": "770,301",
+        "Ethnicity": "83.8% ,White,7.9% ,Asian,4.3% ,Hispanic,1.8% ,Black,0.9% ,Native American,0.6% other"
+    },
+    "Hawaii's 2nd congressional district": {
+        "Median householdincome": "$79,474",
+        "Distribution": "83.65% urban,16.35% rural",
+        "Population": "728,606",
+        "Ethnicity": "28.5% ,White,25.8% ,Asian,21.9% ,Two or more races,11.4% other,10.7% ,Hispanic,1.6% ,Black"
+    },
+    "New York's 15th congressional district": {
+        "Median householdincome": "$40,319",
+        "Distribution": "100% urban,0% rural",
+        "Population": "757,465",
+        "Ethnicity": "61.7% ,Hispanic,32.4% ,Black,2.4% ,White,1.9% ,Asian,0.8% other,0.7% ,Two or more races"
+    },
+    "Florida's 11th congressional district": {
+        "Median householdincome": "$72,624",
+        "Distribution": "75.19% urban,24.81% rural",
+        "Population": "807,589",
+        "Ethnicity": "80.1% ,White,9.3% ,Hispanic,7.2% ,Black,1.6% ,Two or more races,1.1% ,Asian,0.6% other"
+    },
+    "Florida's 7th congressional district": {
+        "Median householdincome": "$66,695",
+        "Distribution": "97.87% urban,2.13% rural",
+        "Population": "768,702",
+        "Ethnicity": "60.1% ,White,22.3% ,Hispanic,10.7% ,Black,4.4% ,Asian,2.0% ,Two or more races,0.5% other"
+    },
+    "North Carolina's 14th congressional district": {
+        "Median householdincome": "$76,176",
+        "Distribution": "98% urban,2% rural",
+        "Population": "764,197",
+        "Ethnicity": "57.1% ,White,21.8% ,Black,12.9% ,Hispanic,6.9% ,Asian,2.0% ,Native American,0.1% ,Pacific Islander Americans,0.1% other"
+    },
+    "New York's 28th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Massachusetts's 4th congressional district": {
+        "Median householdincome": "$101,977",
+        "Distribution": "",
+        "Population": "777,691",
+        "Ethnicity": "84.6% ,White,5.9% ,Asian,4.1% ,Hispanic,2.9% ,Black,2.0% ,Two or more races,0.5% other"
+    },
+    "New Mexico Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New York's 36th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Oregon's 1st congressional district": {
+        "Median householdincome": "$82,256",
+        "Distribution": "86.65% urban,13.35% rural",
+        "Population": "701,594",
+        "Ethnicity": "72.3% ,White,14.1% ,Hispanic,7.3% ,Asian,3.8% ,Two or more races,1.6% ,Black,0.9% other"
+    },
+    "Kentucky's 9th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Kentucky's 4th congressional district": {
+        "Median householdincome": "$70,561",
+        "Distribution": "68.2% urban,31.8% rural",
+        "Population": "759,552",
+        "Ethnicity": "90.4% ,White,3.4% ,Black,3.1% ,Hispanic,1.8% ,Two or more races,1.1% ,Asian,0.2% other"
+    },
+    "Florida's 18th congressional district": {
+        "Median householdincome": "$52,435",
+        "Distribution": "96.37% urban,3.63% rural",
+        "Population": "785,291",
+        "Ethnicity": "68.4% ,White,15.1% ,Hispanic,12.7% ,Black,2.1% ,Asian,1.4% ,Two or more races,0.4% other"
+    },
+    "New York's 17th congressional district": {
+        "Median householdincome": "$114,511",
+        "Distribution": "98.40% urban,1.60% rural",
+        "Population": "776,481",
+        "Ethnicity": "60.5% ,White,20.9% ,Hispanic,10.7% ,Black,5.8% ,Asian,1.6% ,Two or more races,0.5% other"
+    },
+    "Washington's 10th congressional district": {
+        "Median householdincome": "$79,478",
+        "Distribution": "92.0% urban,8.0% rural",
+        "Population": "769,533",
+        "Ethnicity": "75.9% ,White,10.5% ,Hispanic,6.7% ,Two or more races,6.3% ,Asian,5.4% ,Black,2.7% other,1.3% ,Native American"
+    },
+    "New York's 5th congressional district": {
+        "Median householdincome": "$73,628",
+        "Distribution": "100% urban,0% rural",
+        "Population": "822,717",
+        "Ethnicity": "49.5% ,Black,17.4% ,Hispanic,13.6% ,Asian,10.9% ,White,5.5% other,3.0% ,Two or more races"
+    },
+    "Minnesota's 9th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Georgia's 9th congressional district": {
+        "Median householdincome": "$69,258",
+        "Distribution": "57.32% rural,42.68% urban",
+        "Population": "797,012",
+        "Ethnicity": "78.0% ,White,12.3% ,Hispanic,6.9% ,Black,1.2% ,Asian,1.2% ,Two or more races,0.4% other"
+    },
+    "Nebraska's 1st congressional district": {
+        "Median householdincome": "$68,908",
+        "Distribution": "65.21% urban,34.79% rural",
+        "Population": "658,196",
+        "Ethnicity": "83.0% ,White,8.4% ,Hispanic,2.9% ,Black,2.4% ,Asian,2.1% ,Two or more races,1.2% other"
+    },
+    "Texas's 30th congressional district": {
+        "Median householdincome": "$61,427",
+        "Distribution": "98.56% urban,1.44% rural",
+        "Population": "780,295",
+        "Ethnicity": "43.56% ,Black,38.02% ,Hispanic,16.61% ,White,1.65% ,Asian,0.16% ,Native American"
+    },
+    "Missouri's 6th congressional district": {
+        "Median householdincome": "$64,857",
+        "Distribution": "",
+        "Population": "771,992",
+        "Ethnicity": "88.2% ,White,4.1% ,Black,3.8% ,Hispanic,2.1% ,Two or more races,1.2% ,Asian,0.5% other"
+    },
+    "South Dakota's at-large congressional district": {
+        "Median householdincome": "$66,143",
+        "Distribution": "55.8% urban,44.2% rural",
+        "Population": "895,376",
+        "Ethnicity": "82.9% ,White,8.5% other,3.4% ,Hispanic,2.3% ,Two or more races,1.7% ,Black,1.3% ,Asian"
+    },
+    "Utah's 1st congressional district": {
+        "Median householdincome": "$77,807",
+        "Distribution": "",
+        "Population": "836,389",
+        "Ethnicity": ""
+    },
+    "Connecticut's 6th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Louisiana's 8th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Virginia's 11th congressional district": {
+        "Median householdincome": "$139,003",
+        "Distribution": "99.97% urban,0.03% rural",
+        "Population": "774,154",
+        "Ethnicity": "49.39% ,White,18.7% ,Asian,18.31% ,Hispanic,13.45% ,Black,0.15% ,Native American"
+    },
+    "Missouri's 2nd congressional district": {
+        "Median householdincome": "$89,358",
+        "Distribution": "",
+        "Population": "769,003",
+        "Ethnicity": "87.6% ,White,4.3% ,Asian,3.7% ,Black,2.5% ,Hispanic,1.6% ,Two or more races,0.3% other"
+    },
+    "California's 23rd congressional district": {
+        "Median householdincome": "$65,634",
+        "Distribution": "",
+        "Population": "761,286",
+        "Ethnicity": "47.3% ,White,37.7% ,Hispanic,6.5% ,Black,5.1% ,Asian,2.5% ,Two or more races,0.9% other"
+    },
+    "Wyoming's at-large congressional district": {
+        "Median householdincome": "$65,204",
+        "Distribution": "64.72% urban,35.28% rural",
+        "Population": "578,803",
+        "Ethnicity": "85.9% ,White,8.9% ,Hispanic,2.1% ,Native American,1.6% other,0.8% ,Black,0.8% ,Asian"
+    },
+    "New York's 3rd congressional district": {
+        "Median householdincome": "$119,185",
+        "Distribution": "99.44% urban,0.56% rural",
+        "Population": "781,920",
+        "Ethnicity": "69.5% ,White,14.6% ,Asian,10.6% ,Hispanic,3.1% ,Black,1.5% ,Two or more races,0.7% other"
+    },
+    "Illinois's 21st congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Michigan's 4th congressional district": {
+        "Median householdincome": "$65,294",
+        "Distribution": "63.33% rural,36.67% urban",
+        "Population": "770,400",
+        "Ethnicity": "91.8% ,White,3.0% ,Hispanic,1.8% ,Two or more races,1.8% ,Black,1.0% ,Asian,0.7% other"
+    },
+    "Iowa's 11th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Northwest Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Wisconsin's 6th congressional district": {
+        "Median householdincome": "$66,013",
+        "Distribution": "60.63% urban,39.37% rural",
+        "Population": "738,026",
+        "Ethnicity": "89% ,White,5% ,Hispanic,2% ,Asian,2% ,Black,2% other,0% ,Native American"
+    },
+    "New York's 19th congressional district": {
+        "Median householdincome": "$61,944",
+        "Distribution": "36.51% urban",
+        "Population": "779,018",
+        "Ethnicity": "85.3% ,White,6.6% ,Hispanic,4.5% ,Black,1.9% ,Two or more races,1.6% ,Asian,0.2% other"
+    },
+    "California's 14th congressional district": {
+        "Median householdincome": "$119,209",
+        "Distribution": "",
+        "Population": "752,226",
+        "Ethnicity": "35.0% ,White,32.9% ,Asian,23.5% ,Hispanic,3.7% ,Two or more races,3.1% ,Black,1.8% other"
+    },
+    "Tennessee's 9th congressional district": {
+        "Median householdincome": "$47,518",
+        "Distribution": "98.54% urban,1.46% rural",
+        "Population": "767,682",
+        "Ethnicity": "65.7% ,Black,24.3% ,White,6.7% ,Hispanic,1.6% ,Asian,1.4% ,Two or more races,0.3% other"
+    },
+    "Pennsylvania's 36th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Massachusetts's 20th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Iowa's 7th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Minnesota's 2nd congressional district": {
+        "Median householdincome": "$95,999",
+        "Distribution": "86.97% urban,13.03% rural",
+        "Population": "722,101",
+        "Ethnicity": "82.5% ,White,5.7% ,Hispanic,4.5% ,Asian,4.2% ,Black,2.6% ,Two or more races,0.6% other"
+    },
+    "California's 26th congressional district": {
+        "Median householdincome": "$99,443",
+        "Distribution": "",
+        "Population": "751,524",
+        "Ethnicity": "45.2% ,White,43.4% ,Hispanic,6.8% ,Asian,2.3% ,Two or more races,1.8% ,Black,0.5% other"
+    },
+    "Dakota Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Georgia's 13th congressional district": {
+        "Median householdincome": "$63,684",
+        "Distribution": "93.83% urban,6.17% rural",
+        "Population": "763,561",
+        "Ethnicity": "57.9% ,Black,27.6% ,White,9.7% ,Hispanic,2.7% ,Asian,1.9% ,Two or more races,0.3% other"
+    },
+    "New York's 32nd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Florida's 3rd congressional district": {
+        "Median householdincome": "$52,054",
+        "Distribution": "71.27% urban,28.73% rural",
+        "Population": "779,758",
+        "Ethnicity": "69.0% ,White,16.1% ,Black,8.5% ,Hispanic,3.4% ,Asian,2.4% ,Two or more races,0.6% other"
+    },
+    "Missouri Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Ohio's 12th congressional district": {
+        "Median householdincome": "$65,943",
+        "Distribution": "",
+        "Population": "793,802",
+        "Ethnicity": "86.3% ,White,4.6% ,Black,3.7% ,Asian,2.8% ,Two or more races,2.4% ,Hispanic,0.3% other"
+    },
+    "Oregon's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "California's 3rd congressional district": {
+        "Median householdincome": "$94,516",
+        "Distribution": "",
+        "Population": "768,419",
+        "Ethnicity": "48.7% ,White,28.7% ,Hispanic,11.1% ,Asian,6.0% ,Black,4.2% ,Two or more races,1.3% other"
+    },
+    "Iowa's 4th congressional district": {
+        "Median householdincome": "$64,164",
+        "Distribution": "50.58% urban,49.42% rural",
+        "Population": "795,344",
+        "Ethnicity": "88.3% ,White,6.4% ,Hispanic,1.9% ,Asian,1.5% ,Black,1.4% ,Two or more races,0.5% other"
+    },
+    "Texas's 17th congressional district": {
+        "Median householdincome": "$57,475",
+        "Distribution": "75.28% urban,24.72% rural",
+        "Population": "787,536",
+        "Ethnicity": "56.11% ,White,25.26% ,Hispanic,13.12% ,Black,5.02% ,Asian,0.49% ,Native American"
+    },
+    "California's 13th congressional district": {
+        "Median householdincome": "$59,219",
+        "Distribution": "",
+        "Population": "783,282",
+        "Ethnicity": "34.4% ,White,21.2% ,Hispanic,20.5% ,Asian,17.7% ,Black,4.9% ,Two or more races,1.3% other"
+    },
+    "Pennsylvania's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "California's 9th congressional district": {
+        "Median householdincome": "$81,223",
+        "Distribution": "",
+        "Population": "770,460",
+        "Ethnicity": "37.4% ,Hispanic,34.8% ,White,14.4% ,Asian,8.9% ,Black,3.6% ,Two or more races,1.0% other"
+    },
+    "Arkansas's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Iowa's 6th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Georgia's 1st congressional district": {
+        "Median householdincome": "$60,214",
+        "Distribution": "70.98% urban,29.02% rural",
+        "Population": "776,100",
+        "Ethnicity": "59.6% ,White,29.6% ,Black,6.2% ,Hispanic,2.3% ,Two or more races,1.7% ,Asian,0.6% other"
+    },
+    "Minnesota's 5th congressional district": {
+        "Median householdincome": "$71,636",
+        "Distribution": "100% urban,0% rural",
+        "Population": "708,012",
+        "Ethnicity": "63.6% ,White,16.6% ,Black,8.8% ,Hispanic,6.0% ,Asian,3.8% ,Two or more races,1.2% other"
+    },
+    "New York's 10th congressional district": {
+        "Median householdincome": "$95,778",
+        "Distribution": "100% urban,0% rural",
+        "Population": "705,068",
+        "Ethnicity": "63.5% ,White,18.3% ,Asian,11.8% ,Hispanic,4.0% ,Black,1.9% ,Two or more races,0.5% other"
+    },
+    "Texas's 27th congressional district": {
+        "Median householdincome": "$60,411",
+        "Distribution": "74.99% urban,25.01% rural",
+        "Population": "775,401",
+        "Ethnicity": "51.65% ,Hispanic,40.52% ,White,4.99% ,Black,1.47% ,Asian,0.19% ,Native American"
+    },
+    "Maryland's 8th congressional district": {
+        "Median householdincome": "$120,948",
+        "Distribution": "88.08% urban,11.92% rural",
+        "Population": "776,724",
+        "Ethnicity": "44.3% ,White,19.7% ,Hispanic,19.0% ,Black,16.3% ,Asian,1.8% ,Native American,0.2% ,Pacific Islander Americans"
+    },
+    "California's 8th congressional district": {
+        "Median householdincome": "$84,973",
+        "Distribution": "",
+        "Population": "746,240",
+        "Ethnicity": "46.4% ,White,38.5% ,Hispanic,8.2% ,Black,3.0% ,Asian,2.5% ,Two or more races,1.3% other"
+    },
+    "Mississippi's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Montana Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Illinois's 8th congressional district": {
+        "Median householdincome": "$84,500",
+        "Distribution": "100.0% urban,0.0% rural",
+        "Population": "752,922",
+        "Ethnicity": "52.6% ,White,27.8% ,Hispanic,12.8% ,Asian,4.7% ,Black,1.7% ,Two or more races,0.4% other"
+    },
+    "Arizona's 9th congressional district": {
+        "Median householdincome": "$67,407",
+        "Distribution": "",
+        "Population": "842,342",
+        "Ethnicity": ""
+    },
+    "Florida's 22nd congressional district": {
+        "Median householdincome": "$68,585",
+        "Distribution": "100% urban,0% rural",
+        "Population": "774,317",
+        "Ethnicity": "59.3% ,White,20.2% ,Hispanic,14.9% ,Black,3.0% ,Asian,1.8% ,Two or more races,0.8% other"
+    },
+    "Oregon's 6th congressional district": {
+        "Median householdincome": "$74,711",
+        "Distribution": "",
+        "Population": "713,197",
+        "Ethnicity": ""
+    },
+    "Alabama's 8th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Texas's 34th congressional district": {
+        "Median householdincome": "$44,936",
+        "Distribution": "83.96% urban,16.04% rural",
+        "Population": "768,385",
+        "Ethnicity": "84.54% ,Hispanic,11.74% ,White,1.4% ,Black,0.47% ,Asian,0.28% ,Native American"
+    },
+    "Arkansas's 1st congressional district": {
+        "Median householdincome": "$45,517",
+        "Distribution": "55.5% rural,44.5% urban",
+        "Population": "753,369",
+        "Ethnicity": "76.3% ,White,18.0% ,Black,3.1% ,Hispanic,1.6% ,Two or more races,0.5% ,Asian,0.4% other"
+    },
+    "Virginia's 7th congressional district": {
+        "Median householdincome": "$102,189",
+        "Distribution": "73.1% urban,26.9% rural",
+        "Population": "798,670",
+        "Ethnicity": "65.5% ,White,18.4% ,Black,7.3% ,Hispanic,5.1% ,Asian,0.3% ,Native American"
+    },
+    "Montana's 1st congressional district": {
+        "Median householdincome": "$64,288",
+        "Distribution": "",
+        "Population": "556,300",
+        "Ethnicity": ""
+    },
+    "Oregon's 4th congressional district": {
+        "Median householdincome": "$59,512",
+        "Distribution": "69.17% urban,30.83% rural",
+        "Population": "708,207",
+        "Ethnicity": "84.6% ,White,7.3% ,Hispanic,3.5% ,Two or more races,2.3% ,Asian,1.4% other,0.9% ,Black"
+    },
+    "New York's 9th congressional district": {
+        "Median householdincome": "$63,306",
+        "Distribution": "100% urban,0% rural",
+        "Population": "777,866",
+        "Ethnicity": "50.5% ,Black,31.2% ,White,9.0% ,Hispanic,6.8% ,Asian,1.9% ,Two or more races,0.6% other"
+    },
+    "Vermont's 6th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Louisiana's 7th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Minnesota's 6th congressional district": {
+        "Median householdincome": "$90,836",
+        "Distribution": "69.55% urban,30.45% rural",
+        "Population": "725,893",
+        "Ethnicity": "90.2% ,White,2.6% ,Black,2.5% ,Hispanic,2.3% ,Asian,1.9% ,Two or more races,0.5% other"
+    },
+    "New York's 20th congressional district": {
+        "Median householdincome": "$77,230",
+        "Distribution": "88.69% urban,11.31% rural",
+        "Population": "774,705",
+        "Ethnicity": "77.2% ,White,9.2% ,Black,5.4% ,Hispanic,4.8% ,Asian,2.7% ,Two or more races,0.8% other"
+    },
+    "Florida's 2nd congressional district": {
+        "Median householdincome": "$56,301",
+        "Distribution": "51.34% urban,48.66% rural",
+        "Population": "785,319",
+        "Ethnicity": "76.8% ,White,13.0% ,Black,5.9% ,Hispanic,2.0% ,Two or more races,1.7% ,Asian,0.6% other"
+    },
+    "Washington's 3rd congressional district": {
+        "Median householdincome": "$79,251",
+        "Distribution": "",
+        "Population": "782,709",
+        "Ethnicity": "89.8% ,White,4.6% ,Hispanic,2.6% ,Asian,1.2% ,Black,1.1% ,Native American,0.4% other"
+    },
+    "Oklahoma Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Pennsylvania's 25th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Texas's 8th congressional district": {
+        "Median householdincome": "$83,814",
+        "Distribution": "67.55% urban,32.45% rural",
+        "Population": "821,153",
+        "Ethnicity": "66.05% ,White,21.58% ,Hispanic,9.02% ,Black,2.71% ,Asian,0.64% ,Native American"
+    },
+    "California's 43rd congressional district": {
+        "Median householdincome": "$67,279",
+        "Distribution": "",
+        "Population": "736,160",
+        "Ethnicity": "46.0% ,Hispanic,22.9% ,Black,14.6% ,White,12.6% ,Asian,2.8% ,Two or more races,1.0% other"
+    },
+    "Florida's 4th congressional district": {
+        "Median householdincome": "$61,311",
+        "Distribution": "87.4% urban,12.6% rural",
+        "Population": "786,011",
+        "Ethnicity": "76.1% ,White,9.0% ,Black,7.5% ,Hispanic,4.3% ,Asian,2.6% ,Two or more races,0.5% other"
+    },
+    "California's 25th congressional district": {
+        "Median householdincome": "$56,541",
+        "Distribution": "",
+        "Population": "767,946",
+        "Ethnicity": "43.1% ,White,37.4% ,Hispanic,8.1% ,Asian,7.8% ,Black,3.1% ,Two or more races,0.6% other"
+    },
+    "Michigan's 13th congressional district": {
+        "Median householdincome": "$44,238",
+        "Distribution": "100.00% urban,0.00% rural",
+        "Population": "752,657",
+        "Ethnicity": "55.6% ,Black,33.7% ,White,6.8% ,Hispanic,2.0% ,Two or more races,1.2% ,Asian,0.7% other"
+    },
+    "Massachusetts's 6th congressional district": {
+        "Median householdincome": "$103,105",
+        "Distribution": "63.15% urban,36.85% rural",
+        "Population": "780,128",
+        "Ethnicity": "82.5% ,White,8.1% ,Hispanic,4.1% ,Asian,3.3% ,Black,1.5% ,Two or more races,0.4% other"
+    },
+    "Massachusetts's 8th congressional district": {
+        "Median householdincome": "$100,517",
+        "Distribution": "",
+        "Population": "772,956",
+        "Ethnicity": "74.5% ,White,9.7% ,Black,7.6% ,Asian,4.9% ,Hispanic,2.0% ,Two or more races,1.2% other"
+    },
+    "Pennsylvania's 4th congressional district": {
+        "Median householdincome": "$99,271",
+        "Distribution": "",
+        "Population": "771,749",
+        "Ethnicity": "77.8% ,White,9.7% ,Black,6.7% ,Asian,5.7% ,Hispanic,0.1% ,Native American"
+    },
+    "Michigan's 19th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Nevada Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Missouri's 4th congressional district": {
+        "Median householdincome": "$59,197",
+        "Distribution": "",
+        "Population": "772,047",
+        "Ethnicity": "87.0% ,White,4.6% ,Black,3.6% ,Hispanic,2.8% ,Two or more races,1.4% ,Asian,0.6% other"
+    },
+    "Florida's 16th congressional district": {
+        "Median householdincome": "$72,884",
+        "Distribution": "94.26% urban,5.74% rural",
+        "Population": "789,177",
+        "Ethnicity": "71.3% ,White,16.4% ,Hispanic,8.5% ,Black,1.9% ,Asian,1.4% ,Two or more races,0.5% other"
+    },
+    "Missouri's 14th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Maryland's 2nd congressional district": {
+        "Median householdincome": "$87,980",
+        "Distribution": "98.3% urban,1.7% rural",
+        "Population": "774,740",
+        "Ethnicity": "51.7% ,White,33.8% ,Black,5.8% ,Hispanic,5.4% ,Asian,2.8% ,Two or more races,0.5% other"
+    },
+    "California's 27th congressional district": {
+        "Median householdincome": "$90,400",
+        "Distribution": "",
+        "Population": "748,536",
+        "Ethnicity": "43.7% ,Hispanic,38.6% ,White,18.4% other,9.3% ,Black,9% ,Asian,2.3% ,Two or more races"
+    },
+    "California's 16th congressional district": {
+        "Median householdincome": "$150,720",
+        "Distribution": "",
+        "Population": "742,459",
+        "Ethnicity": "56.7% ,White,25.4% ,Asian,13.7% ,Hispanic,2.5% ,Black,1.8% ,Two or more races,0.8% other"
+    },
+    "Louisiana's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "California's 4th congressional district": {
+        "Median householdincome": "$84,644",
+        "Distribution": "",
+        "Population": "758,825",
+        "Ethnicity": "76.8% ,White,12.7% ,Hispanic,4.8% ,Asian,3.3% ,Two or more races,1.3% ,Black,1.1% other"
+    },
+    "Illinois's 3rd congressional district": {
+        "Median householdincome": "$76,411",
+        "Distribution": "",
+        "Population": "723,029",
+        "Ethnicity": "47.3% ,Hispanic,39.1% ,White,7.4% ,Asian,6.5% ,Black,3.6% ,Two or more races,0.2% other"
+    },
+    "Texas's 5th congressional district": {
+        "Median householdincome": "$65,835",
+        "Distribution": "67.16% urban,32.84% rural",
+        "Population": "774,952",
+        "Ethnicity": "46.2% ,White,29.1% ,Hispanic,15.8% ,Black,4.1% other,1.8% ,Asian,0.5% ,Native American"
+    },
+    "California's 53rd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Louisiana's 3rd congressional district": {
+        "Median householdincome": "$53,747",
+        "Distribution": "73.4% urban,26.6% rural",
+        "Population": "762,255",
+        "Ethnicity": "68.1% ,White,24.4% ,Black,3.5% ,Hispanic,2.0% ,Two or more races,1.5% ,Asian,0.5% other"
+    },
+    "North Carolina's 13th congressional district": {
+        "Median householdincome": "$71,598",
+        "Distribution": "73.33% urban,26.67% rural",
+        "Population": "770,237",
+        "Ethnicity": "58.9% ,White,22.5% ,Black,13.5% ,Hispanic,3.6% ,Asian,2.3% ,Native American,0.2% ,Pacific Islander Americans,0.1% other"
+    },
+    "Alabama's 10th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Nebraska's 6th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Illinois's 14th congressional district": {
+        "Median householdincome": "$81,316",
+        "Distribution": "89.9% urban,10.1% rural",
+        "Population": "757,967",
+        "Ethnicity": "79.3% ,White,11.6% ,Hispanic,4.3% ,Asian,3.2% ,Black,1.5% ,Two or more races,0.2% other"
+    },
+    "Connecticut's 2nd congressional district": {
+        "Median householdincome": "$83,734",
+        "Distribution": "67.77% urban,33.23% rural",
+        "Population": "729,071",
+        "Ethnicity": "82.3% ,White,7.5% ,Hispanic,3.9% ,Black,3.3% ,Asian,2.6% ,Two or more races,0.3% other"
+    },
+    "Pennsylvania's 34th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Nebraska's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Texas's 28th congressional district": {
+        "Median householdincome": "$56,191",
+        "Distribution": "82.75% urban,17.25% rural",
+        "Population": "771,913",
+        "Ethnicity": "78.5% ,Hispanic,15.09% ,White,4.02% ,Black,1.43% ,Asian,0.96% ,Native American"
+    },
+    "California's 33rd congressional district": {
+        "Median householdincome": "$75,770",
+        "Distribution": "",
+        "Population": "760,127",
+        "Ethnicity": "48.3% ,Hispanic,41.5% ,White,4.3% ,Black,3.2% ,Asian,1.8% ,Two or more races,0.9% other"
+    },
+    "Tennessee's 6th congressional district": {
+        "Median householdincome": "$57,373",
+        "Distribution": "51.77% rural,48.23% urban",
+        "Population": "768,525",
+        "Ethnicity": "89.1% ,White,4.2% ,Black,3.9% ,Hispanic,1.5% ,Two or more races,0.9% ,Asian,0.4% other"
+    },
+    "Washington's 4th congressional district": {
+        "Median householdincome": "$66,812",
+        "Distribution": "",
+        "Population": "778,838",
+        "Ethnicity": "55.8% ,White,39.8% ,Hispanic,2.7% ,Native American,1.8% ,Asian,1.5% ,Black,0.8% other"
+    },
+    "Pennsylvania's 26th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "North Carolina's 10th congressional district": {
+        "Median householdincome": "$58,845",
+        "Distribution": "63.35% urban,36.65% rural",
+        "Population": "754,893",
+        "Ethnicity": "75.7% ,White,11.5% ,Black,7.7% ,Hispanic,2.8% ,Asian,2.5% ,Native American,0.1% ,Pacific Islander Americans,0.1% other"
+    },
+    "Texas's 4th congressional district": {
+        "Median householdincome": "$82,640",
+        "Distribution": "51.15% rural,48.85% urban",
+        "Population": "788,283",
+        "Ethnicity": "74.51% ,White,13.28% ,Hispanic,10.47% ,Black,1.1% ,Asian,0.64% ,Native American"
+    },
+    "California's 21st congressional district": {
+        "Median householdincome": "$53,745",
+        "Distribution": "",
+        "Population": "755,683",
+        "Ethnicity": "73.4% ,Hispanic,17.4% ,White,4.1% ,Black,3.1% ,Asian,1.3% ,Two or more races,0.7% other"
+    },
+    "Ohio's 21st congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Kentucky's 13th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Ohio's 6th congressional district": {
+        "Median householdincome": "$52,326",
+        "Distribution": "57.32% rural,42.68% urban",
+        "Population": "778,845",
+        "Ethnicity": "94.6% ,White,2.2% ,Black,1.4% ,Two or more races,1.0% ,Hispanic,0.5% ,Asian,0.2% other"
+    },
+    "Louisiana's 6th congressional district": {
+        "Median householdincome": "$65,719",
+        "Distribution": "78.12% urban,21.88% rural",
+        "Population": "784,290",
+        "Ethnicity": "67.6% ,White,24.0% ,Black,4.1% ,Hispanic,2.1% ,Asian,1.6% ,Two or more races,0.5% other"
+    },
+    "California's 50th congressional district": {
+        "Median householdincome": "$103,036",
+        "Distribution": "",
+        "Population": "748,297",
+        "Ethnicity": "57.0% ,White,30.1% ,Hispanic,5.5% ,Asian,3.2% ,Two or more races,2.8% ,Black,1.3% other"
+    },
+    "Ohio's 23rd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New Jersey's 12th congressional district": {
+        "Median householdincome": "$99,002",
+        "Distribution": "97.6% urban,2.4% rural",
+        "Population": "779,815",
+        "Ethnicity": "39.8% ,White,21.5% ,Hispanic,20.7% ,Asian,18.1% ,Black,1.8% other"
+    },
+    "Kentucky's 5th congressional district": {
+        "Median householdincome": "$37,910",
+        "Distribution": "76.49% rural,23.51% urban",
+        "Population": "749,196",
+        "Ethnicity": "95.9% ,White,1.4% ,Black,1.2% ,Hispanic,0.8% ,Two or more races,0.4% ,Asian,0.3% other"
+    },
+    "Florida's 26th congressional district": {
+        "Median householdincome": "$61,315",
+        "Distribution": "97.7% urban,2.3% rural",
+        "Population": "775,668",
+        "Ethnicity": "67.3% ,Hispanic,20.7% ,White,8.5% ,Black,1.7% ,Asian,0.7% ,Two or more races,0.3% other"
+    },
+    "Florida's 14th congressional district": {
+        "Median householdincome": "$62,814",
+        "Distribution": "99.3% urban,0.7% rural",
+        "Population": "775,035",
+        "Ethnicity": "47.0% ,White,27.6% ,Hispanic,18.4% ,Black,4.3% ,Asian,2.0% ,Two or more races,0.6% other"
+    },
+    "Texas's 12th congressional district": {
+        "Median householdincome": "$74,002",
+        "Distribution": "86.54% urban,13.46% rural",
+        "Population": "783,568",
+        "Ethnicity": "78.22% ,White,23.68% ,Hispanic,9% other,8.72% ,Black,3.32% ,Asian,0.63% ,Native American"
+    },
+    "Florida's 1st congressional district": {
+        "Median householdincome": "$65,793",
+        "Distribution": "82.11% urban,17.89% rural",
+        "Population": "775,137",
+        "Ethnicity": "73.8% ,White,13.3% ,Black,5.8% ,Hispanic,3.9% ,Two or more races,2.5% ,Asian,0.7% other"
+    },
+    "Oklahoma's 7th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Ohio's 3rd congressional district": {
+        "Median householdincome": "$64,055",
+        "Distribution": "99.82% urban,0.18% rural",
+        "Population": "794,704",
+        "Ethnicity": "53.3% ,White,32.8% ,Black,5.8% ,Hispanic,3.9% ,Two or more races,3.7% ,Asian,0.5% other"
+    },
+    "Arizona's 2nd congressional district": {
+        "Median householdincome": "$58,671",
+        "Distribution": "50.6% urban,49.4% rural",
+        "Population": "809,339",
+        "Ethnicity": "23.5% ,Native American,16.9% ,Hispanic,3.2% ,Black,2.1% ,Asian,0.4% ,Pacific Islander Americans"
+    },
+    "North Carolina's 7th congressional district": {
+        "Median householdincome": "$56,858",
+        "Distribution": "52.92% urban,47.08% rural",
+        "Population": "757,948",
+        "Ethnicity": "61.4% ,White,20.4% ,Black,9.3% ,Native American,7.8% ,Hispanic,1.8% ,Asian,0.2% ,Pacific Islander Americans,0.1% other"
+    },
+    "North Dakota's at-large congressional district": {
+        "Median householdincome": "$66,519",
+        "Distribution": "55.8% urban,44.2% rural",
+        "Population": "774,948",
+        "Ethnicity": "86.4% ,White,5.2% other,3.1% ,Hispanic,2.1% ,Two or more races,2.0% ,Black,1.3% ,Asian"
+    },
+    "Georgia's 7th congressional district": {
+        "Median householdincome": "$72,792",
+        "Distribution": "99.55% urban,0.45% rural",
+        "Population": "749,673",
+        "Ethnicity": "46.6% ,White,19.5% ,Black,18.4% ,Hispanic,12.9% ,Asian,2.1% ,Two or more races,0.6% other"
+    },
+    "Ohio's 11th congressional district": {
+        "Median householdincome": "$45,480",
+        "Distribution": "100.00% urban,0.00% rural",
+        "Population": "767,086",
+        "Ethnicity": "53.5% ,Black,37.5% ,White,3.6% ,Hispanic,2.5% ,Two or more races,2.4% ,Asian,0.4% other"
+    },
+    "California's 7th congressional district": {
+        "Median householdincome": "$82,607",
+        "Distribution": "",
+        "Population": "760,350",
+        "Ethnicity": "54.5% ,White,16.4% ,Hispanic,15.1% ,Asian,7.5% ,Black,5.0% ,Two or more races,1.4% other"
+    },
+    "North Carolina's 8th congressional district": {
+        "Median householdincome": "$63,115",
+        "Distribution": "71.28% urban,28.72% rural",
+        "Population": "756,029",
+        "Ethnicity": "69.6% ,White,15.3% ,Black,10.1% ,Hispanic,2.7% ,Asian,2.5% ,Native American,0.1% ,Pacific Islander Americans,0.1% other"
+    },
+    "California's 38th congressional district": {
+        "Median householdincome": "$87,928",
+        "Distribution": "",
+        "Population": "743,870",
+        "Ethnicity": "61.4% ,Hispanic,17.0% ,White,15.4% ,Asian,4.0% ,Black,1.4% ,Two or more races,0.9% other"
+    },
+    "Wisconsin's 11th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Minnesota's 7th congressional district": {
+        "Median householdincome": "$64,737",
+        "Distribution": "64.13% rural,35.87% urban",
+        "Population": "707,323",
+        "Ethnicity": "89.4% ,White,4.3% ,Hispanic,2.8% other,1.6% ,Two or more races,1.1% ,Black,0.8% ,Asian"
+    },
+    "New York's 22nd congressional district": {
+        "Median householdincome": "$64,128",
+        "Distribution": "57.49% urban,42.51% rural",
+        "Population": "771,373",
+        "Ethnicity": "88.0% ,White,4.1% ,Black,3.1% ,Hispanic,2.6% ,Asian,1.9% ,Two or more races,0.3% other"
+    },
+    "Iowa's 5th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Iowa Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New York's 37th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Kansas's 5th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Rhode Island's 1st congressional district": {
+        "Median householdincome": "$69,666",
+        "Distribution": "96.97% urban,3.03% rural",
+        "Population": "545,085",
+        "Ethnicity": "68.8% ,White,14.7% ,Hispanic,9.0% ,Black,3.4% ,Asian,2.6% ,Two or more races,1.5% other"
+    },
+    "Massachusetts's 16th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Maine's 5th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Wisconsin's 10th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Georgia's 10th congressional district": {
+        "Median householdincome": "$67,918",
+        "Distribution": "56.03% urban,43.97% rural",
+        "Population": "790,768",
+        "Ethnicity": "65.3% ,White,25.3% ,Black,5.4% ,Hispanic,2.1% ,Asian,1.5% ,Two or more races,0.3% other"
+    },
+    "Georgia's 12th congressional district": {
+        "Median householdincome": "$53,832",
+        "Distribution": "59.96% urban,40.04% rural",
+        "Population": "766,372",
+        "Ethnicity": "55.8% ,White,35.0% ,Black,5.4% ,Hispanic,1.6% ,Asian,1.6% ,Two or more races,0.5% other"
+    },
+    "California's 11th congressional district": {
+        "Median householdincome": "$124,456",
+        "Distribution": "",
+        "Population": "702,058",
+        "Ethnicity": "46.9% ,White,25.9% ,Hispanic,13.6% ,Asian,8.4% ,Black,4.2% ,Two or more races,1.0% other"
+    },
+    "West Virginia's 2nd congressional district": {
+        "Median householdincome": "$57,012",
+        "Distribution": "",
+        "Population": "900,979",
+        "Ethnicity": "94.4% ,White,3.6% ,Black,0.8% ,Hispanic,0.5% ,Asian,0.2% ,Native American,0.1% other"
+    },
+    "North Carolina's 12th congressional district": {
+        "Median householdincome": "$69,019",
+        "Distribution": "98.93% urban,1.07% rural",
+        "Population": "743,616",
+        "Ethnicity": "40.6% ,White,36.9% ,Black,15.4% ,Hispanic,6.5% ,Asian,2.2% ,Native American,0.2% ,Pacific Islander Americans,0.1% other"
+    },
+    "Washington's 2nd congressional district": {
+        "Median householdincome": "$77,404",
+        "Distribution": "",
+        "Population": "775,616",
+        "Ethnicity": "88.0% ,White,5.8% ,Hispanic,2.8% ,Asian,2.0% ,Native American,1.1% ,Black,0.6% other"
+    },
+    "Indiana's 3rd congressional district": {
+        "Median householdincome": "$61,889",
+        "Distribution": "65.14% urban,34.86% rural",
+        "Population": "755,001",
+        "Ethnicity": "84.0% ,White,6.0% ,Black,5.7% ,Hispanic,2.0% ,Asian,2.0% ,Two or more races,0.3% other"
+    },
+    "New York's 12th congressional district": {
+        "Median householdincome": "$116,070",
+        "Distribution": "100% urban,0% rural",
+        "Population": "689,590",
+        "Ethnicity": "65.4% ,White,13.6% ,Asian,13.0% ,Hispanic,5.0% ,Black,2.5% ,Two or more races,0.6% other"
+    },
+    "Texas's 26th congressional district": {
+        "Median householdincome": "$102,036",
+        "Distribution": "93.4% urban,6.6% rural",
+        "Population": "800,175",
+        "Ethnicity": "67.99% ,White,18.4% ,Hispanic,7.19% ,Black,5.91% ,Asian,0.51% ,Native American"
+    },
+    "Massachusetts's 14th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Missouri's 16th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Florida's 20th congressional district": {
+        "Median householdincome": "$51,795",
+        "Distribution": "99% urban,1% rural",
+        "Population": "750,268 ",
+        "Ethnicity": "53.4% ,Black,22.5% ,Hispanic,18.9% ,White,2.7% ,Asian,1.8% ,Two or more races,0.7% other"
+    },
+    "New York's 1st congressional district": {
+        "Median householdincome": "$120,031",
+        "Distribution": "94.94% urban,5.06% rural",
+        "Population": "780,204",
+        "Ethnicity": "75.9% ,White,13.5% ,Hispanic,5.0% ,Black,4.0% ,Asian,1.2% ,Two or more races,0.4% other"
+    },
+    "Pennsylvania's 20th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Wisconsin's 3rd congressional district": {
+        "Median householdincome": "$61,644",
+        "Distribution": "56.85% rural,43.15% urban",
+        "Population": "734,834",
+        "Ethnicity": "94% ,White,3% ,Hispanic,2% ,Asian,2% other,1% ,Black,0% ,Native American"
+    },
+    "Illinois's 1st congressional district": {
+        "Median householdincome": "$61,003",
+        "Distribution": "",
+        "Population": "731,895",
+        "Ethnicity": "51.8% ,Black,36.1% ,White,9.2% ,Hispanic,2.6% ,Asian,1.5% ,Two or more races,0.1% other"
+    },
+    "Florida's 8th congressional district": {
+        "Median householdincome": "$63,612",
+        "Distribution": "94.11% urban,5.89% rural",
+        "Population": "781,963",
+        "Ethnicity": "75.8% ,White,10.0% ,Black,9.5% ,Hispanic,2.1% ,Asian,2.1% ,Two or more races,0.5% other"
+    },
+    "Colorado's 7th congressional district": {
+        "Median householdincome": "$87,480",
+        "Distribution": "99.44% urban,0.56% rural",
+        "Population": "716,843",
+        "Ethnicity": "64.6% ,White,28.1% ,Hispanic,3.2% ,Asian,1.9% ,Two or more races,1.6% ,Black,0.7% other"
+    },
+    "Missouri's 9th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Michigan's 5th congressional district": {
+        "Median householdincome": "$61,969",
+        "Distribution": "77.49% urban,22.51% rural",
+        "Population": "776,969",
+        "Ethnicity": "74.1% ,White,17.4% ,Black,4.6% ,Hispanic,2.6% ,Two or more races,0.9% ,Asian,0.5% other"
+    },
+    "New York's 31st congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Nevada's 1st congressional district": {
+        "Median householdincome": "$57,599",
+        "Distribution": "99.90% urban,0.10% rural",
+        "Population": "757,119",
+        "Ethnicity": "44.3% ,Hispanic,32.6% ,White,11.0% ,Black,8.2% ,Asian,2.7% ,Two or more races,1.2% other"
+    },
+    "Arizona Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Hawaii's 1st congressional district": {
+        "Median householdincome": "$89,167",
+        "Distribution": "99.27% urban,0.73% rural",
+        "Population": "712,947",
+        "Ethnicity": "50.2% ,Asian,16.7% ,Two or more races,16.2% ,White,7.7% other,7.1% ,Hispanic,2.1% ,Black"
+    },
+    "Indiana's 2nd congressional district": {
+        "Median householdincome": "$60,853",
+        "Distribution": "72.90% urban,27.10% rural",
+        "Population": "752,280",
+        "Ethnicity": "80.6% ,White,8.9% ,Hispanic,6.9% ,Black,1.9% ,Two or more races,1.2% ,Asian,0.5% other"
+    },
+    "Hawaii Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Arkansas's 3rd congressional district": {
+        "Median householdincome": "$64,608",
+        "Distribution": "54.4% urban,45.6% rural",
+        "Population": "766,477",
+        "Ethnicity": "76.2% ,White,13.6% ,Hispanic,2.9% ,Black,2.8% ,Asian,2.6% ,Two or more races,1.9% other"
+    },
+    "Indiana's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Michigan's 9th congressional district": {
+        "Median householdincome": "$73,460",
+        "Distribution": "",
+        "Population": "774,843",
+        "Ethnicity": "78.4% ,White,12.5% ,Black,4.0% ,Asian,2.4% ,Two or more races,2.2% ,Hispanic,0.5% other"
+    },
+    "Maine's 2nd congressional district": {
+        "Median householdincome": "$55,629",
+        "Distribution": "72.11% rural,27.89% urban",
+        "Population": "685,599",
+        "Ethnicity": "94.3% ,White,2.0% ,Two or more races,1.3% ,Hispanic,0.9% other,0.8% ,Black,0.7% ,Asian"
+    },
+    "North Dakota's 2nd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "California's 28th congressional district": {
+        "Median householdincome": "$91,049",
+        "Distribution": "",
+        "Population": "739,036",
+        "Ethnicity": "54.7% ,White,25.5% ,Hispanic,13.4% ,Asian,2.9% ,Two or more races,2.8% ,Black,0.7% other"
+    },
+    "Illinois's 24th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Illinois's 5th congressional district": {
+        "Median householdincome": "$101,166",
+        "Distribution": "100.0% urban,0.0% rural",
+        "Population": "779,160",
+        "Ethnicity": "68.3% ,White,19.7% ,Hispanic,6.9% ,Asian,2.8% ,Black,2.1% ,Two or more races,0.2% other"
+    },
+    "Michigan's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "California's 5th congressional district": {
+        "Median householdincome": "$80,355",
+        "Distribution": "",
+        "Population": "773,398",
+        "Ethnicity": "59.4% ,White,25.5% ,Hispanic,8.3% ,Asian,3.3% ,Black"
+    },
+    "Vermont's 2nd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Pennsylvania's 29th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Ohio's 10th congressional district": {
+        "Median householdincome": "$60,227",
+        "Distribution": "",
+        "Population": "784,794",
+        "Ethnicity": "75.3% ,White,17.0% ,Black,2.8% ,Two or more races,2.5% ,Hispanic,2.1% ,Asian,0.4% other"
+    },
+    "California's 6th congressional district": {
+        "Median householdincome": "$72,860",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": "37.6% ,White,27.1% ,Hispanic,15.6% ,Asian,12.5% ,Black,4.9% ,Two or more races,2.2% other"
+    },
+    "Ohio's 18th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New York's 16th congressional district": {
+        "Median householdincome": "$96,948",
+        "Distribution": "100% urban,0% rural",
+        "Population": "765,635",
+        "Ethnicity": "37.2% ,White,32.7% ,Black,22.6% ,Hispanic,5.0% ,Asian,1.6% ,Two or more races,0.8% other"
+    },
+    "California's 1st congressional district": {
+        "Median householdincome": "$60,424",
+        "Distribution": "",
+        "Population": "766,941",
+        "Ethnicity": "77.6% ,White,13.0% ,Hispanic,3.5% ,Two or more races,2.7% ,Asian,1.7% other,1.4% ,Black"
+    },
+    "Washington's 5th congressional district": {
+        "Median householdincome": "$62,811",
+        "Distribution": "",
+        "Population": "781,418",
+        "Ethnicity": "89.7% ,White,4.5% ,Hispanic,2.4% ,Native American,1.7% ,Asian,1.3% ,Black,0.4% other"
+    },
+    "Massachusetts's 10th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "California's 36th congressional district": {
+        "Median householdincome": "$110,638",
+        "Distribution": "",
+        "Population": "722,961",
+        "Ethnicity": "65.8% ,White,14.0% ,Asian,12.4% ,Hispanic,4.2% ,Two or more races,2.9% ,Black,0.7% other"
+    },
+    "Pennsylvania's 12th congressional district": {
+        "Median householdincome": "$61,514",
+        "Distribution": "",
+        "Population": "756,600",
+        "Ethnicity": ""
+    },
+    "Indiana's 5th congressional district": {
+        "Median householdincome": "$70,367",
+        "Distribution": "74.53% urban,25.47% rural",
+        "Population": "766,044",
+        "Ethnicity": "82.1% ,White,8.1% ,Black,4.0% ,Hispanic,3.3% ,Asian,2.2% ,Two or more races,0.3% other"
+    },
+    "Texas's 19th congressional district": {
+        "Median householdincome": "$54,084",
+        "Distribution": "74.25% urban,25.75% rural",
+        "Population": "772,398",
+        "Ethnicity": "54.17% ,White,37.36% ,Hispanic,6.11% ,Black,1.43% ,Asian,0.93% ,Native American"
+    },
+    "Illinois Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Florida Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Massachusetts's 5th congressional district": {
+        "Median householdincome": "$115,618",
+        "Distribution": "",
+        "Population": "766,453",
+        "Ethnicity": "73.2% ,White,10.7% ,Asian,8.1% ,Hispanic,4.9% ,Black,2.4% ,Two or more races,0.7% other"
+    },
+    "New Jersey's 3rd congressional district": {
+        "Median householdincome": "$102,960",
+        "Distribution": "95.73% urban,4.27% rural",
+        "Population": "779,042 ",
+        "Ethnicity": "55.8% ,White,12.6% ,Black,11.3% ,Hispanic,8.7% ,Two or more races,8.3% ,Asian,3.2% other"
+    },
+    "Virginia's 17th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "California's 37th congressional district": {
+        "Median householdincome": "$60,083",
+        "Distribution": "",
+        "Population": "752,632",
+        "Ethnicity": "37.6% ,Hispanic,25.1% ,White,23.5% ,Black,10.2% ,Asian,2.8% ,Two or more races,0.9% other"
+    },
+    "Mississippi's 7th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New York's 41st congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Virginia's 6th congressional district": {
+        "Median householdincome": "$62,229",
+        "Distribution": "64.34% urban,35.66% rural",
+        "Population": "785,188",
+        "Ethnicity": "83.25% ,White,11.44% ,Black,5.19% ,Hispanic,1.63% ,Asian,0.16% ,Native American"
+    },
+    "New Jersey's 13th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Texas's 24th congressional district": {
+        "Median householdincome": "$98,648",
+        "Distribution": "99.89% urban,0.11% rural",
+        "Population": "746,916",
+        "Ethnicity": "53.7% ,White,25.4% ,Hispanic,14.1% ,Black,13.6% ,Asian,3.2% other,0% ,Native American"
+    },
+    "Pennsylvania's 2nd congressional district": {
+        "Median householdincome": "$52,293",
+        "Distribution": "100.00% urban,0.00% rural",
+        "Population": "767,191",
+        "Ethnicity": "38.6% ,White,27.0% ,Black,26.1% ,Hispanic,7.9% ,Asian,0.4% ,Native American"
+    },
+    "Ohio's 15th congressional district": {
+        "Median householdincome": "$67,626",
+        "Distribution": "60% rural,40% urban",
+        "Population": "778,819",
+        "Ethnicity": "89.5% ,White,3.8% ,Black,2.4% ,Asian,2.1% ,Two or more races,1.8% ,Hispanic,0.3% other"
+    },
+    "Arkansas's 2nd congressional district": {
+        "Median householdincome": "$56,091",
+        "Distribution": "66.2% urban,33.8% rural",
+        "Population": "758,976",
+        "Ethnicity": "69.0% ,White,22.2% ,Black,4.8% ,Hispanic,2.0% ,Two or more races,1.6% ,Asian,0.4% other"
+    },
+    "New York's 38th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Massachusetts's 11th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Arizona's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New Mexico's 1st congressional district": {
+        "Median householdincome": "$61,331",
+        "Distribution": "91.35% urban,8.65% rural",
+        "Population": "710,196",
+        "Ethnicity": "48.7% ,Hispanic,40.4% ,White,4.1% other,2.8% ,Black,2.3% ,Asian,1.8% ,Two or more races"
+    },
+    "New York's 6th congressional district": {
+        "Median householdincome": "$70,187",
+        "Distribution": "100% urban,0% rural",
+        "Population": "736,965",
+        "Ethnicity": "39.4% ,Asian,35.4% ,White,18.6% ,Hispanic,3.9% ,Black,2.0% ,Two or more races,0.7% other"
+    },
+    "Kentucky's 1st congressional district": {
+        "Median householdincome": "$51,974",
+        "Distribution": "63.12% rural,36.88% urban",
+        "Population": "748,599",
+        "Ethnicity": "87.6% ,White,7.0% ,Black,2.7% ,Hispanic,1.7% ,Two or more races,0.6% ,Asian,0.4% other"
+    },
+    "West Virginia's 5th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Pennsylvania's 22nd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Colorado's 6th congressional district": {
+        "Median householdincome": "$83,883",
+        "Distribution": "98.51% urban,1.49% rural",
+        "Population": "725,034",
+        "Ethnicity": "62.1% ,White,19.4% ,Hispanic,9.2% ,Black,5.8% ,Asian,2.8% ,Two or more races,0.8% other"
+    },
+    "Washington's 9th congressional district": {
+        "Median householdincome": "$88,622",
+        "Distribution": "",
+        "Population": "750,581",
+        "Ethnicity": "49.7% ,White,21.2% ,Asian,11.8% ,Hispanic,11.17% ,Black,5.8% other,5.6% ,Two or more races,0.8% ,Native American"
+    },
+    "Arizona's 6th congressional district": {
+        "Median householdincome": "$68,146",
+        "Distribution": "96.8% urban,3.2% rural",
+        "Population": "803,556",
+        "Ethnicity": "69.8% ,White,19.2% ,Hispanic,14.2% ,Two or more races,5.5% ,Asian,3.2% ,Black,2.3% other"
+    },
+    "United States Virgin Islands's at-large congressional district": {
+        "Median householdincome": "21,740",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": "76.2% ,Black,13.1% ,White,7.8% ,Hispanic,1.1% ,Asian,0.4% ,Native American,0.2% other"
+    },
+    "Kansas's 2nd congressional district": {
+        "Median householdincome": "$56,153",
+        "Distribution": "59.73% urban,40.27% rural",
+        "Population": "731,232",
+        "Ethnicity": "85.2% ,White,5.3% ,Hispanic,4.5% ,Two or more races,2.1% ,Black,1.5% ,Asian,1.3% other"
+    },
+    "South Dakota's 3rd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "North Dakota's 3rd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Northern Mariana Islands's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": "77.9% other,22.1% ,Asian,0.0% ,Native American,0.0% ,Black,0.0% ,Hispanic,0.0% ,White"
+    },
+    "Virginia's 4th congressional district": {
+        "Median householdincome": "$59,458",
+        "Distribution": "73.83% urban,26.17% rural",
+        "Population": "777,131",
+        "Ethnicity": "51.49% ,White,41.13% ,Black,5.1% ,Hispanic,1.92% ,Asian,0.36% ,Native American"
+    },
+    "New Jersey's 1st congressional district": {
+        "Median householdincome": "$80,459",
+        "Distribution": "98.2% urban,1.8% rural",
+        "Population": "772,510",
+        "Ethnicity": "63.5% ,White,17.4% ,Black,11.8% ,Hispanic,5.0% ,Asian,1.9% ,Two or more races,0.4% other"
+    },
+    "North Carolina's 9th congressional district": {
+        "Median householdincome": "$58,473",
+        "Distribution": "65.17% urban,34.83% rural",
+        "Population": "755,891",
+        "Ethnicity": "55.6% ,White,25.9% ,Black,12.8% ,Hispanic,4.2% ,Native American,3.0% ,Asian,0.5% ,Pacific Islander Americans,0.1% other"
+    },
+    "Pennsylvania's 15th congressional district": {
+        "Median householdincome": "$57,945",
+        "Distribution": "",
+        "Population": "758,343",
+        "Ethnicity": "95.6% ,White,2.3% ,Black,1.2% ,Hispanic,0.5% ,Asian,0.5% ,Native American,0.0% other"
+    },
+    "Kentucky's 7th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Texas's 11th congressional district": {
+        "Median householdincome": "$60,533",
+        "Distribution": "71.66% urban,28.34% rural",
+        "Population": "766,787",
+        "Ethnicity": "56.21% ,White,38.09% ,Hispanic,4.13% ,Black,1.14% ,Asian,0.43% ,Native American"
+    },
+    "Illinois's 7th congressional district": {
+        "Median householdincome": "$70,210",
+        "Distribution": "100.0% urban,0.0% rural",
+        "Population": "712,378",
+        "Ethnicity": "49.5% ,Black,27.4% ,White,14.1% ,Hispanic,7.1% ,Asian,1.6% ,Two or more races,0.3% other"
+    },
+    "Virginia's 2nd congressional district": {
+        "Median householdincome": "$82,927",
+        "Distribution": "92.57% urban,7.43% rural",
+        "Population": "784,186",
+        "Ethnicity": "67.21% ,White,19.97% ,Black,7.76% ,Hispanic,5.41% ,Asian,0.26% ,Native American"
+    },
+    "Minnesota's 10th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "California's 22nd congressional district": {
+        "Median householdincome": "$48,917",
+        "Distribution": "",
+        "Population": "795,088",
+        "Ethnicity": "46.0% ,Hispanic,40.3% ,White,7.6% ,Asian,3.1% ,Black,2.2% ,Two or more races,0.7% other"
+    },
+    "Washington's 7th congressional district": {
+        "Median householdincome": "$111,033",
+        "Distribution": "",
+        "Population": "770,448",
+        "Ethnicity": "76% ,White,10.5% ,Asian,7.3% ,Hispanic,5.3% ,Black,1% ,Native American"
+    },
+    "Pennsylvania's 5th congressional district": {
+        "Median householdincome": "$75,243",
+        "Distribution": "",
+        "Population": "754,121",
+        "Ethnicity": "62.7% ,White,25.4% ,Black,6.9% ,Asian,4.7% ,Hispanic,0.3% ,Native American"
+    },
+    "California's 30th congressional district": {
+        "Median householdincome": "$78,476",
+        "Distribution": "",
+        "Population": "731,165",
+        "Ethnicity": "50.6% ,White,28.4% ,Hispanic,12.5% ,Asian,4.8% ,Black,3.2% ,Two or more races,0.7% other"
+    },
+    "Nebraska's 2nd congressional district": {
+        "Median householdincome": "$72,455",
+        "Distribution": "97.86% urban,2.14% rural",
+        "Population": "656,171",
+        "Ethnicity": "80.2% ,White,8.6% ,Black,6.4% ,Hispanic,2.5% ,Asian,2.3% other"
+    },
+    "Florida's 27th congressional district": {
+        "Median householdincome": "$64,869",
+        "Distribution": "99.98% urban,0.02% rural",
+        "Population": "747,914",
+        "Ethnicity": "68.9% ,Hispanic,22.5% ,White,5.4% ,Black,2.0% ,Asian,0.7% ,Two or more races,0.5% other"
+    },
+    "California's 29th congressional district": {
+        "Median householdincome": "$66,767",
+        "Distribution": "",
+        "Population": "738,555",
+        "Ethnicity": "68.2% ,Hispanic,18.4% ,White,7.8% ,Asian,3.9% ,Black,1.2% ,Two or more races,0.6% other"
+    },
+    "Ohio's 9th congressional district": {
+        "Median householdincome": "$57,732",
+        "Distribution": "86.02% urban,13.98% rural",
+        "Population": "783,751",
+        "Ethnicity": "69.1% ,White,16.1% ,Black,10.1% ,Hispanic,2.9% ,Two or more races,1.4% ,Asian,0.4% other"
+    },
+    "Arkansas's 4th congressional district": {
+        "Median householdincome": "$45,508",
+        "Distribution": "66.2% urban,33.8% rural",
+        "Population": "747,069",
+        "Ethnicity": "71.9% ,White,19.6% ,Black,5.5% ,Hispanic,1.5% ,Two or more races,0.7% other,0.6% ,Asian"
+    },
+    "New York's 18th congressional district": {
+        "Median householdincome": "$84,999",
+        "Distribution": "81.48% urban,18.52% rural",
+        "Population": "776,747",
+        "Ethnicity": "69.6% ,White,15.2% ,Hispanic,9.5% ,Black,3.1% ,Asian,2.0% ,Two or more races,0.6% other"
+    },
+    "Ohio's 5th congressional district": {
+        "Median householdincome": "$62,384",
+        "Distribution": "62.27% urban,37.73% rural",
+        "Population": "786,607",
+        "Ethnicity": "89.5% ,White,4.6% ,Hispanic,2.9% ,Black,1.4% ,Two or more races,1.3% ,Asian,0.2% other"
+    },
+    "Tennessee's 4th congressional district": {
+        "Median householdincome": "$62,108",
+        "Distribution": "43.84% rural",
+        "Population": "781,570",
+        "Ethnicity": "81.0% ,White,8.4% ,Black,5.7% ,Hispanic,2.9% ,Two or more races,1.5% ,Asian,0.4% other"
+    },
+    "Illinois's 17th congressional district": {
+        "Median householdincome": "$49,788",
+        "Distribution": "73.3% urban,26.7% rural",
+        "Population": "749,520",
+        "Ethnicity": "76.1% ,White,11.5% ,Black,8.7% ,Hispanic,2.0% ,Two or more races,1.4% ,Asian,0.3% other"
+    },
+    "Michigan's 2nd congressional district": {
+        "Median householdincome": "$59,683",
+        "Distribution": "74.26% urban,25.74% rural",
+        "Population": "775,529",
+        "Ethnicity": "79.5% ,White,9.0% ,Hispanic,6.3% ,Black,2.4% ,Two or more races,2.2% ,Asian,0.5% other"
+    },
+    "Florida's 17th congressional district": {
+        "Median householdincome": "$65,418",
+        "Distribution": "82.08% urban,17.92% rural",
+        "Population": "801,807",
+        "Ethnicity": "75.0% ,White,14.1% ,Hispanic,7.8% ,Black,1.4% ,Two or more races,1.3% ,Asian,0.4% other"
+    },
+    "South Carolina's 9th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Massachusetts's 1st congressional district": {
+        "Median householdincome": "$64,803",
+        "Distribution": "69.21% urban,30.79% rural",
+        "Population": "776,085",
+        "Ethnicity": "73.5% ,White,16.3% ,Hispanic,6.3% ,Black,1.9% ,Asian,1.7% ,Two or more races,0.4% other"
+    },
+    "Maryland's 3rd congressional district": {
+        "Median householdincome": "$114,804",
+        "Distribution": "98.4% urban,1.3% rural",
+        "Population": "771,084",
+        "Ethnicity": "57.0% ,White,19.9% ,Black,12.8% ,Asian,9.0% ,Hispanic,2.0% ,Native American,0.2% ,Pacific Islander Americans"
+    },
+    "New York's 35th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Indiana's 4th congressional district": {
+        "Median householdincome": "$68,746",
+        "Distribution": "68.17% urban,31.83% rural",
+        "Population": "762,956",
+        "Ethnicity": "86.1% ,White,5.7% ,Hispanic,3.7% ,Black,2.8% ,Asian,1.4% ,Two or more races,0.3% other"
+    },
+    "Florida's 19th congressional district": {
+        "Median householdincome": "$70,698",
+        "Distribution": "96.3% urban,3.7% rural",
+        "Population": "788,513",
+        "Ethnicity": "76.8% ,White,16.6% ,Hispanic,6.8% ,Black,1.5% ,Asian,1.0% ,Two or more races,0.3% other"
+    },
+    "Texas's 9th congressional district": {
+        "Median householdincome": "$54,330",
+        "Distribution": "99.97% urban,0.03% rural",
+        "Population": "738,398",
+        "Ethnicity": "38.8% ,Hispanic,37.12% ,Black,12.66% ,Asian,11.24% ,White,0.18% ,Native American"
+    },
+    "Louisiana's 5th congressional district": {
+        "Median householdincome": "$43,382",
+        "Distribution": "51.65% rural,48.35% urban",
+        "Population": "770,753",
+        "Ethnicity": "60.1% ,White,35.5% ,Black,2.2% ,Hispanic,1.0% ,Two or more races,0.7% ,Asian,0.5% other"
+    },
+    "New York's 7th congressional district": {
+        "Median householdincome": "$79,594",
+        "Distribution": "100% urban,0% rural",
+        "Population": "717,913",
+        "Ethnicity": "38.3% ,Hispanic,29.5% ,White,18.6% ,Asian,11.2% ,Black,1.7% ,Two or more races,0.7% other"
+    },
+    "Kansas's 1st congressional district": {
+        "Median householdincome": "$57,171",
+        "Distribution": "",
+        "Population": "733,038",
+        "Ethnicity": "83.5% ,White,10.0% ,Hispanic,3.0% ,Black,2.2% ,Two or more races,1.0% ,Asian,0.6% other"
+    },
+    "Maine's 8th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Vermont's at-large congressional district": {
+        "Median householdincome": "$72,431",
+        "Distribution": "61.1% rural,38.9% urban",
+        "Population": "645,570",
+        "Ethnicity": "94.1% ,White,1.9% ,Hispanic,1.8% ,Asian,1.3% ,Black,0.4% ,Native American,0.2% other"
+    },
+    "Texas's 13th congressional district": {
+        "Median householdincome": "$56,933",
+        "Distribution": "68.88% urban,31.12% rural",
+        "Population": "770,850",
+        "Ethnicity": "65.07% ,White,26.96% ,Hispanic,5.1% ,Black,2.1% ,Asian,0.77% ,Native American"
+    },
+    "Ohio's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Oregon Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Tennessee's 3rd congressional district": {
+        "Median householdincome": "$59,794",
+        "Distribution": "62.76% urban,37.24% rural",
+        "Population": "776,693",
+        "Ethnicity": "82.5% ,White,10.8% ,Black,3.5% ,Hispanic,1.6% ,Two or more races,1.2% ,Asian,0.3% other"
+    },
+    "Alabama's 6th congressional district": {
+        "Median householdincome": "$69,221",
+        "Distribution": "69.17% urban,30.83% rural",
+        "Population": "706,497",
+        "Ethnicity": "68.5% ,White,20.3% ,Black,6.5% ,Hispanic,2.5% ,Asian,2.2% ,Native American,0.1% ,Pacific Islander Americans"
+    },
+    "Illinois's 10th congressional district": {
+        "Median householdincome": "$92,214",
+        "Distribution": "99.7% urban,0.3% rural",
+        "Population": "751,134",
+        "Ethnicity": "58.7% ,White,22.2% ,Hispanic,10.1% ,Asian,6.7% ,Black,1.9% ,Two or more races,0.3% other"
+    },
+    "Delaware's at-large congressional district": {
+        "Median householdincome": "$71,091",
+        "Distribution": "83.3% urban,16.7% rural",
+        "Population": "1,003,384",
+        "Ethnicity": "63.5% ,White,21.7% ,Black,8.2% ,Hispanic,3.7% ,Asian,2.3% ,Two or more races,0.6% other"
+    },
+    "Montana's 2nd congressional district": {
+        "Median householdincome": "$62,239",
+        "Distribution": "",
+        "Population": "547,971",
+        "Ethnicity": ""
+    },
+    "Texas's 1st congressional district": {
+        "Median householdincome": "$54,518",
+        "Distribution": "56.8% urban,43.4% rural",
+        "Population": "775,770",
+        "Ethnicity": "62.83% ,White,18.08% ,Black,17.37% ,Hispanic,1.14% ,Asian,0.58% ,Native American"
+    },
+    "Massachusetts's 17th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Michigan's 15th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Wisconsin's 9th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Alabama's 3rd congressional district": {
+        "Median householdincome": "$49,465",
+        "Distribution": "",
+        "Population": "721,289",
+        "Ethnicity": "65.9% ,White,26.1% ,Black,3.7% ,Hispanic,2.2% ,Asian,2.2% ,Native American,0.2% ,Pacific Islander Americans"
+    },
+    "Rhode Island's 3rd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "South Carolina's 3rd congressional district": {
+        "Median householdincome": "$56,382",
+        "Distribution": "55% rural,45% urban",
+        "Population": "740,035",
+        "Ethnicity": "71.7% ,White,18.8% ,Black,5.8% ,Hispanic,2.1% ,Native American,1.6% ,Asian,0.1% ,Pacific Islander Americans,0.1% other"
+    },
+    "Texas's 31st congressional district": {
+        "Median householdincome": "$81,714",
+        "Distribution": "86.1% urban,13.9% rural",
+        "Population": "801,721",
+        "Ethnicity": "59.19% ,White,23.93% ,Hispanic,11.24% ,Black,5.2% ,Asian,0.44% ,Native American"
+    },
+    "Illinois's 6th congressional district": {
+        "Median householdincome": "$87,929",
+        "Distribution": "99.4% urban,0.6% rural",
+        "Population": "754,571",
+        "Ethnicity": "77.3% ,White,9.6% ,Hispanic,8.8% ,Asian,2.6% ,Black,1.5% ,Two or more races,0.2% other"
+    },
+    "California's 49th congressional district": {
+        "Median householdincome": "$108,544",
+        "Distribution": "",
+        "Population": "765,147",
+        "Ethnicity": "61.4% ,White,25.7% ,Hispanic,6.6% ,Asian,2.8% ,Two or more races,2.7% ,Black,0.8% other"
+    },
+    "California's 10th congressional district": {
+        "Median householdincome": "$135,150",
+        "Distribution": "",
+        "Population": "762,072",
+        "Ethnicity": "43.9% ,White,42.0% ,Hispanic,6.6% ,Asian,3.2% ,Black,3.1% ,Two or more races,1.2% other"
+    },
+    "New Jersey's 4th congressional district": {
+        "Median householdincome": "$84,057",
+        "Distribution": "95.08% urban,4.92% rural",
+        "Population": "782,528",
+        "Ethnicity": "78.0% ,White,9.8% ,Hispanic,6.6% ,Black,4.0% ,Asian,1.4% ,Two or more races,0.2% other"
+    },
+    "North Carolina's 2nd congressional district": {
+        "Median householdincome": "$92,635",
+        "Distribution": "62.82% urban,37.18% rural",
+        "Population": "752,758",
+        "Ethnicity": "57.0% ,White,19.1% ,Black,12.1% ,Asian,10.7% ,Hispanic,1.8% ,Native American,0.2% ,Pacific Islander Americans,0.1% other"
+    },
+    "North Carolina's 4th congressional district": {
+        "Median householdincome": "$66,293",
+        "Distribution": "75% urban,25% rural",
+        "Population": "750,874",
+        "Ethnicity": "52.6% ,White,27.4% ,Black,13.3% ,Hispanic,5.4% ,Asian,2.3% ,Native American,0.1% ,Pacific Islander Americans,0.1% other"
+    },
+    "Iowa's 8th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Missouri's 1st congressional district": {
+        "Median householdincome": "$51,770",
+        "Distribution": "99.21% urban,0.79% rural",
+        "Population": "761,805",
+        "Ethnicity": "49.4% ,Black,41.3% ,White,3.2% ,Hispanic,2.9% ,Asian,2.7% ,Two or more races,0.5% other"
+    },
+    "Texas's 20th congressional district": {
+        "Median householdincome": "$54,117",
+        "Distribution": "99.62% urban,0.38% rural",
+        "Population": "776,074",
+        "Ethnicity": "69.64% ,Hispanic,21.28% ,White,5.41% ,Black,3.04% ,Asian,0.63% ,Native American"
+    },
+    "New York's 40th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Nevada's 2nd congressional district": {
+        "Median householdincome": "$74,058",
+        "Distribution": "",
+        "Population": "785,611",
+        "Ethnicity": "67.4% ,White,21.5% ,Hispanic,4.0% ,Asian,2.7% ,Two or more races,2.5% other,1.9% ,Black"
+    },
+    "Illinois's 13th congressional district": {
+        "Median householdincome": "$54,986",
+        "Distribution": "78.9% urban,21.1% rural",
+        "Population": "729,837",
+        "Ethnicity": "79.0% ,White,11.3% ,Black,3.7% ,Asian,3.2% ,Hispanic,2.4% ,Two or more races,0.4% other"
+    },
+    "Arkansas's 5th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Virginia's 10th congressional district": {
+        "Median householdincome": "$140,815",
+        "Distribution": "85.53% urban,14.47% rural",
+        "Population": "791,467",
+        "Ethnicity": "61.94% ,White,14.02% ,Hispanic,13.85% ,Asian,6.65% ,Black,0.49% ,Native American"
+    },
+    "Nebraska's 3rd congressional district": {
+        "Median householdincome": "$60,513",
+        "Distribution": "53.79% rural,46.21% urban",
+        "Population": "649,325",
+        "Ethnicity": "84.9% ,White,11.1% ,Hispanic,1.3% ,Two or more races,1.2% ,Black,0.9% other,0.8% ,Asian"
+    },
+    "Indiana's 13th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Alabama Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Wisconsin's 8th congressional district": {
+        "Median householdincome": "$67,451",
+        "Distribution": "56.04% urban,43.96% rural",
+        "Population": "736,848",
+        "Ethnicity": "86% ,White,5% ,Hispanic,2% ,Native American,2% ,Asian,2% ,Black,2% other"
+    },
+    "Mississippi Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New York's 11th congressional district": {
+        "Median householdincome": "$76,805",
+        "Distribution": "",
+        "Population": "766,546",
+        "Ethnicity": "61.6% ,White,15.6% ,Hispanic,13.3% ,Asian,7.5% ,Black,1.5% ,Two or more races,0.5% other"
+    },
+    "Texas's 7th congressional district": {
+        "Median householdincome": "$68,025",
+        "Distribution": "99.99% urban,0.01% rural",
+        "Population": "793,128",
+        "Ethnicity": "30.1% ,Hispanic,27.4% ,White,21.5% ,Asian,20.9% ,Black"
+    },
+    "New York's 33rd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Michigan's 10th congressional district": {
+        "Median householdincome": "$67,019",
+        "Distribution": "",
+        "Population": "775,839",
+        "Ethnicity": ""
+    },
+    "Orleans Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Oklahoma's 5th congressional district": {
+        "Median householdincome": "$64,407",
+        "Distribution": "87.53% urban,12.47% rural",
+        "Population": "808,407",
+        "Ethnicity": "58.3% ,White,15.6% ,Hispanic,13.5% ,Black,5.4% ,Two or more races,4.2% other,3.0% ,Asian"
+    },
+    "Vermont's 4th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Ohio's 24th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Iowa's 2nd congressional district": {
+        "Median householdincome": "$64,201",
+        "Distribution": "66.06% urban,33.94% rural",
+        "Population": "794,283",
+        "Ethnicity": "86.3% ,White,5.3% ,Hispanic,4.0% ,Black,2.2% ,Asian,1.7% ,Two or more races,0.4% other"
+    },
+    "California's 34th congressional district": {
+        "Median householdincome": "$52,491",
+        "Distribution": "",
+        "Population": "750,705",
+        "Ethnicity": "63.8% ,Hispanic,19.6% ,Asian,10.5% ,White,4.4% ,Black,1.2% ,Two or more races,0.5% other"
+    },
+    "Virginia's 19th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Alabama's 2nd congressional district": {
+        "Median householdincome": "$50,597",
+        "Distribution": "",
+        "Population": "716,212",
+        "Ethnicity": "59.4% ,White,31.9% ,Black,4.4% ,Hispanic,2.5% ,Asian,2.2% ,Native American,0.2% ,Pacific Islander Americans"
+    },
+    "Washington's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Michigan's 6th congressional district": {
+        "Median householdincome": "$85,891",
+        "Distribution": "",
+        "Population": "774,940",
+        "Ethnicity": "81.2% ,White,8.3% ,Black,5.6% ,Hispanic,2.9% ,Two or more races,1.5% ,Asian,0.5% other"
+    },
+    "Michigan's 3rd congressional district": {
+        "Median householdincome": "$67,276",
+        "Distribution": "68.54% urban,31.46% rural",
+        "Population": "781,872",
+        "Ethnicity": "74% ,White,11.7% ,Black,6.9% ,Hispanic,2.5% ,Two or more races,1.8% ,Asian,0.4% other"
+    },
+    "Mississippi's 1st congressional district": {
+        "Median householdincome": "$53,298",
+        "Distribution": "61.64% rural,38.36% urban",
+        "Population": "745,526",
+        "Ethnicity": "67.6% ,White,27.2% ,Black,3.0% ,Hispanic,1.1% ,Two or more races,0.7% ,Asian,0.3% other"
+    },
+    "California's 2nd congressional district": {
+        "Median householdincome": "$86,015",
+        "Distribution": "",
+        "Population": "764,439",
+        "Ethnicity": "71.6% ,White,17.1% ,Hispanic,3.7% ,Two or more races,3.7% ,Asian,2.4% other,1.5% ,Black"
+    },
+    "Pennsylvania's 33rd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Oklahoma's 8th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "California's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Ohio's 22nd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Tennessee's 1st congressional district": {
+        "Median householdincome": "$49,065",
+        "Distribution": "57.46% urban,42.54% rural",
+        "Population": "772,206",
+        "Ethnicity": "91.8% ,White,3.4% ,Hispanic,2.2% ,Black,1.6% ,Two or more races,0.7% ,Asian,0.3% other"
+    },
+    "Georgia's 11th congressional district": {
+        "Median householdincome": "$82,747",
+        "Distribution": "96.1% urban,3.9% rural",
+        "Population": "772,858",
+        "Ethnicity": "67.4% ,White,16.2% ,Black,10.7% ,Hispanic,3.3% ,Asian,1.9% ,Two or more races,0.5% other"
+    },
+    "Minnesota's 3rd congressional district": {
+        "Median householdincome": "$95,334",
+        "Distribution": "95.57% urban,4.43% rural",
+        "Population": "706,411",
+        "Ethnicity": "78.7% ,White,7.1% ,Asian,7.0% ,Black,4.2% ,Hispanic,2.4% ,Two or more races,0.5% other"
+    },
+    "California's 41st congressional district": {
+        "Median householdincome": "$87,429",
+        "Distribution": "",
+        "Population": "789,845",
+        "Ethnicity": "58.1% ,Hispanic,24.3% ,White,9.4% ,Black,5.4% ,Asian,2.1% ,Two or more races,0.8% other"
+    },
+    "Massachusetts's 18th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Iowa's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Virginia's 21st congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Idaho Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Utah's 4th congressional district": {
+        "Median householdincome": "$87,320",
+        "Distribution": "96.09% urban,3.91% rural",
+        "Population": "840,238 ",
+        "Ethnicity": "83.7% ,White,16.45% ,Hispanic,7.17% other,2.99% ,Asian,1.67% ,Black,0.76% ,Native American"
+    },
+    "Kansas's 4th congressional district": {
+        "Median householdincome": "$59,974",
+        "Distribution": "78.90% urban,21.10% rural",
+        "Population": "732,928",
+        "Ethnicity": "80.1% ,White,8.2% ,Black,5.4% ,Hispanic,3.8% ,Asian,1.9% ,Two or more races,0.6% other"
+    },
+    "Louisiana's 4th congressional district": {
+        "Median householdincome": "$44,998",
+        "Distribution": "58.65% urban,41.35% rural",
+        "Population": "768,157",
+        "Ethnicity": "58.7% ,White,34.0% ,Black,3.6% ,Hispanic,1.7% ,Two or more races,1.0% other,0.9% ,Asian"
+    },
+    "Arizona's 8th congressional district": {
+        "Median householdincome": "$73,095",
+        "Distribution": "87.3% urban,12.7% rural",
+        "Population": "813,094",
+        "Ethnicity": "69.8% ,White,19.0% ,Hispanic,4.5% ,Black,3.5% ,Asian,2.4% ,Two or more races,0.9% other"
+    },
+    "Kentucky's 8th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New Jersey's 7th congressional district": {
+        "Median householdincome": "$119,567",
+        "Distribution": "85.81% urban,14.19% rural",
+        "Population": "777,024",
+        "Ethnicity": "72.2% ,White,11.8% ,Hispanic,9.5% ,Asian,4.6% ,Black,1.4% ,Two or more races,0.5% other"
+    },
+    "Missouri's 5th congressional district": {
+        "Median householdincome": "$61,749",
+        "Distribution": "",
+        "Population": "771,274",
+        "Ethnicity": "64.4% ,White,22.0% ,Black,8.5% ,Hispanic,2.5% ,Two or more races,1.7% ,Asian,1.0% other"
+    },
+    "Virginia's 3rd congressional district": {
+        "Median householdincome": "$59,672",
+        "Distribution": "95.01% urban,4.99% rural",
+        "Population": "782,300",
+        "Ethnicity": "45.85% ,Black,45.12% ,White,6.31% ,Hispanic,2.61% ,Asian,0.2% ,Native American"
+    },
+    "Mississippi's 6th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Missouri's 12th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New York's 2nd congressional district": {
+        "Median householdincome": "$109,607",
+        "Distribution": "99.89% urban,0.11% rural",
+        "Population": "775,593",
+        "Ethnicity": "63.3% ,White,21.9% ,Hispanic,10.0% ,Black,3.1% ,Asian,1.3% ,Two or more races,0.4% other"
+    },
+    "Virginia's 23rd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Maryland's 1st congressional district": {
+        "Median householdincome": "$80,984",
+        "Distribution": "64.1% urban,35.9% rural",
+        "Population": "780,224",
+        "Ethnicity": "80.3% ,White,11.9% ,Black,3.5% ,Hispanic,2.1% ,Asian,2.0% ,Two or more races,0.3% other"
+    },
+    "California's 46th congressional district": {
+        "Median householdincome": "$77,648",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": "66.0% ,Hispanic,18.2% ,White,12.5% ,Asian,1.6% ,Black,1.1% ,Two or more races,0.6% other"
+    },
+    "Georgia's 8th congressional district": {
+        "Median householdincome": "$51,525",
+        "Distribution": "56.7% urban,43.3% rural",
+        "Population": "760,317",
+        "Ethnicity": "60.2% ,White,30.4% ,Black,6.0% ,Hispanic,1.5% ,Asian,1.5% ,Two or more races,0.4% other"
+    },
+    "New York's 34th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Minnesota's 8th congressional district": {
+        "Median householdincome": "$67,313",
+        "Distribution": "61.53% rural,38.47% urban",
+        "Population": "718,176",
+        "Ethnicity": "92.1% ,White,2.6% other,2.0% ,Two or more races,1.6% ,Hispanic,1.0% ,Black,0.7% ,Asian"
+    },
+    "Missouri's 15th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Texas's 10th congressional district": {
+        "Median householdincome": "$73,784",
+        "Distribution": "77.46% urban,22.54% rural",
+        "Population": "775,543",
+        "Ethnicity": "57.23% ,White,25.97% ,Hispanic,10.80% ,Black,5.33% ,Asian,0.6% ,Native American"
+    },
+    "Illinois's 20th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Illinois's 18th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Washington Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Nebraska's 4th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Florida's 15th congressional district": {
+        "Median householdincome": "$61,625",
+        "Distribution": "92.06% urban,7.94% rural",
+        "Population": "800,482",
+        "Ethnicity": "59.6% ,White,20.2% ,Hispanic,14.4% ,Black,2.9% ,Asian,2.2% ,Two or more races,0.7% other"
+    },
+    "Pennsylvania's 1st congressional district": {
+        "Median householdincome": "$100,136",
+        "Distribution": "",
+        "Population": "763,834",
+        "Ethnicity": "75.8% ,White,5.9% ,Hispanic,5.9% ,Two or more races,5.9% ,Asian,4.0% ,Black,2.5% other"
+    },
+    "Texas's 2nd congressional district": {
+        "Median householdincome": "$85,790",
+        "Distribution": "98.1% urban,1.9% rural",
+        "Population": "756,374",
+        "Ethnicity": "49.4% ,White,30.3% ,Hispanic,12.7% ,Black,6.7% ,Asian,0.3% ,Native American"
+    },
+    "California's 35th congressional district": {
+        "Median householdincome": "$80,963",
+        "Distribution": "",
+        "Population": "774,713",
+        "Ethnicity": "69.5% ,Hispanic,14.5% ,White,6.8% ,Black,6.6% ,Asian,1.8% ,Two or more races,0.8% other"
+    },
+    "North Dakota's 1st congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Maine's 7th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Michigan's 14th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New Mexico's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Minnesota's 1st congressional district": {
+        "Median householdincome": "$69,959",
+        "Distribution": "62.53% urban,37.47% rural",
+        "Population": "714,441",
+        "Ethnicity": "86.7% ,White,6.0% ,Hispanic,2.8% ,Black,2.6% ,Asian,1.4% ,Two or more races,0.4% other"
+    },
+    "Ohio's 8th congressional district": {
+        "Median householdincome": "$70,382",
+        "Distribution": "77.95% urban,22.05% rural",
+        "Population": "784,419",
+        "Ethnicity": "86.6% ,White,6.0% ,Black,3.2% ,Hispanic,2.2% ,Two or more races,1.7% ,Asian,0.2% other"
+    },
+    "New York's 43rd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Pennsylvania's 27th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Florida's 25th congressional district": {
+        "Median householdincome": "$75,269",
+        "Distribution": "94.4% urban,5.6% rural",
+        "Population": "768,532",
+        "Ethnicity": "74.6% ,Hispanic,18.7% ,White,4.9% ,Black,1.2% ,Asian,0.4% ,Two or more races,0.3% other"
+    },
+    "Alaska Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Iowa's 3rd congressional district": {
+        "Median householdincome": "$70,794",
+        "Distribution": "73.07% urban,26.93% rural",
+        "Population": "809,127",
+        "Ethnicity": "84.3% ,White,6.4% ,Hispanic,4.1% ,Black,2.9% ,Asian,1.9% ,Two or more races,0.4% other"
+    },
+    "Kansas's 7th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "South Carolina's 5th congressional district": {
+        "Median householdincome": "$57,897",
+        "Distribution": "55% urban,45% rural",
+        "Population": "737,349",
+        "Ethnicity": "64.1% ,White,25.8% ,Black,5.4% ,Hispanic,2.6% ,Asian,2.3% ,Native American,0.1% ,Pacific Islander Americans,0.1% other"
+    },
+    "Virginia's 1st congressional district": {
+        "Median householdincome": "$93,142",
+        "Distribution": "69.54% urban,30.46% rural",
+        "Population": "805,071",
+        "Ethnicity": "72.01% ,White,15.86% ,Black,9.35% ,Hispanic,3.57% ,Asian,0.43% ,Native American"
+    },
+    "Oklahoma's 4th congressional district": {
+        "Median householdincome": "$56,822",
+        "Distribution": "63.29% urban,36.71% rural",
+        "Population": "797,575",
+        "Ethnicity": "71.6% ,White,8.0% ,Hispanic,6.7% ,Black,6.5% ,Two or more races,4.9% other,2.3% ,Asian"
+    },
+    "Arizona's 3rd congressional district": {
+        "Median householdincome": "$56,271",
+        "Distribution": "99.9% urban,0.05% rural",
+        "Population": "799,570",
+        "Ethnicity": "62.6% ,Hispanic,19.6% ,White,12.5% ,Black,5.2% ,Native American,3.7% ,Asian,0.5% ,Pacific Islander Americans"
+    },
+    "Oregon's 2nd congressional district": {
+        "Median householdincome": "$57,026",
+        "Distribution": "",
+        "Population": "710,992",
+        "Ethnicity": "80.6% ,White,13.1% ,Hispanic,2.8% ,Two or more races,1.9% other,1.0% ,Asian,0.6% ,Black"
+    },
+    "New Hampshire's 3rd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Idaho's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Wyoming Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "South Carolina's 4th congressional district": {
+        "Median householdincome": "$64,119",
+        "Distribution": "90% urban,10% rural",
+        "Population": "747,967",
+        "Ethnicity": "64.1% ,White,20.3% ,Black,10.6% ,Hispanic,3.3% ,Asian,2.1% ,Native American,0.2% ,Pacific Islander Americans,0.1% other"
+    },
+    "Indiana's 10th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Connecticut's 4th congressional district": {
+        "Median householdincome": "$103,548",
+        "Distribution": "95.76% urban,4.24% rural",
+        "Population": "718,640",
+        "Ethnicity": "62.2% ,White,17.9% ,Hispanic,12.5% ,Black,5.2% ,Asian,1.7% ,Two or more races,0.5% other"
+    },
+    "New York's 21st congressional district": {
+        "Median householdincome": "$63,211",
+        "Distribution": "57.70% rural,42.30% urban",
+        "Population": "776,503",
+        "Ethnicity": "90.4% ,White,3.1% ,Black,3.1% ,Hispanic,1.5% ,Two or more races,1.0% other,0.9% ,Asian"
+    },
+    "Pennsylvania's 13th congressional district": {
+        "Median householdincome": "$60,754",
+        "Distribution": "",
+        "Population": "762,589",
+        "Ethnicity": "93.1% ,White,3.3% ,Hispanic,2.9% ,Black,0.6% ,Asian,0.1% ,Native American"
+    },
+    "Missouri's 11th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Hawaii's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Mississippi's 5th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Ohio's 7th congressional district": {
+        "Median householdincome": "$75,339",
+        "Distribution": "",
+        "Population": "792,610",
+        "Ethnicity": "91.1% ,White,4.0% ,Black,2.1% ,Hispanic,2.0% ,Two or more races,0.6% ,Asian,0.2% other"
+    },
+    "Tennessee's 10th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Kentucky's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Illinois's 15th congressional district": {
+        "Median householdincome": "$64,632",
+        "Distribution": "51.4% rural,48.6% urban",
+        "Population": "754,165",
+        "Ethnicity": "90.8% ,White,4.3% ,Black,2.7% ,Hispanic,1.3% ,Two or more races,0.7% ,Asian,0.2% other"
+    },
+    "Virginia's 22nd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "South Carolina's 8th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Virginia's 15th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "California's 48th congressional district": {
+        "Median householdincome": "$96,266",
+        "Distribution": "",
+        "Population": "752,792",
+        "Ethnicity": "56.1% ,White,21.1% ,Hispanic,17.9% ,Asian,2.8% ,Two or more races,1.2% ,Black,0.8% other"
+    },
+    "Vermont's 3rd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Wisconsin's 4th congressional district": {
+        "Median householdincome": "$51,865",
+        "Distribution": "100.0% urban,0.00% rural",
+        "Population": "732,094",
+        "Ethnicity": "41% ,White,33% ,Black,18% ,Hispanic,4% ,Asian,3% other,0% ,Native American"
+    },
+    "Ohio's 17th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Rhode Island's 2nd congressional district": {
+        "Median householdincome": "$77,649",
+        "Distribution": "84.5% urban,15.5% rural",
+        "Population": "550,525",
+        "Ethnicity": "79.2% ,White,11.1% ,Hispanic,4.0% ,Black,3.2% ,Asian,1.8% ,Two or more races,0.7% other"
+    },
+    "Texas's 21st congressional district": {
+        "Median householdincome": "$84,168",
+        "Distribution": "78.15% urban,21.85% rural",
+        "Population": "799,871",
+        "Ethnicity": "61.78% ,White,30.23% ,Hispanic,3.74% ,Asian,3.73% ,Black,0.52% ,Native American"
+    },
+    "Indiana Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Mississippi's 4th congressional district": {
+        "Median householdincome": "$52,683",
+        "Distribution": "53.72% urban,46.28% rural",
+        "Population": "742,632",
+        "Ethnicity": "69.2% ,White,23.4% ,Black,3.8% ,Hispanic,1.7% ,Two or more races,1.5% ,Asian,0.4% other"
+    },
+    "Missouri's 8th congressional district": {
+        "Median householdincome": "$52,952",
+        "Distribution": "61.71% rural,38.29% urban",
+        "Population": "771,929",
+        "Ethnicity": "90.8% ,White,4.6% ,Black,1.8% ,Hispanic,1.6% ,Two or more races,0.6% ,Asian,0.5% other"
+    },
+    "New York's 27th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "California's 32nd congressional district": {
+        "Median householdincome": "$95,423",
+        "Distribution": "",
+        "Population": "763,531",
+        "Ethnicity": "61.5% ,Hispanic,17.5% ,Asian,16.2% ,White,2.9% ,Black,1.4% ,Two or more races,0.5% other"
+    },
+    "Texas's 37th congressional district": {
+        "Median householdincome": "$81,520",
+        "Distribution": "",
+        "Population": "772,674",
+        "Ethnicity": ""
+    },
+    "Massachusetts's 12th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New York's 13th congressional district": {
+        "Median householdincome": "$45,683",
+        "Distribution": "100.00% urban,0.00% rural",
+        "Population": "780,825",
+        "Ethnicity": "49.4% ,Hispanic,30.0% ,Black,13.6% ,White,4.7% ,Asian,1.7% ,Two or more races,0.7% other"
+    },
+    "Indiana's 7th congressional district": {
+        "Median householdincome": "$57,722",
+        "Distribution": "99.7% urban,0.3% rural",
+        "Population": "749,635",
+        "Ethnicity": "54.2% ,White,29.5% ,Black,10.5% ,Hispanic,2.7% ,Asian,2.5% ,Two or more races,0.6% other"
+    },
+    "Minnesota Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Utah Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Michigan's 7th congressional district": {
+        "Median householdincome": "$70,080",
+        "Distribution": "",
+        "Population": "777,572",
+        "Ethnicity": "88.3% ,White,4.3% ,Black,4.1% ,Hispanic,2.0% ,Two or more races,0.9% ,Asian,0.5% other"
+    },
+    "Virginia's 9th congressional district": {
+        "Median householdincome": "$50,037",
+        "Distribution": "58.25% rural,41.75% urban",
+        "Population": "783,312",
+        "Ethnicity": "90.8% ,White,5.4% ,Black,2.3% ,Hispanic,1.4% ,Asian,0.3% ,Native American"
+    },
+    "Maryland's 6th congressional district": {
+        "Median householdincome": "$86,245",
+        "Distribution": "84.49% urban,15.51% rural",
+        "Population": "779,649",
+        "Ethnicity": "60.1% ,White,15.4% ,Black,13.4% ,Hispanic,9.9% ,Asian,2.1% ,Native American,0.2% ,Pacific Islander Americans"
+    },
+    "Georgia's 14th congressional district": {
+        "Median householdincome": "$64,432",
+        "Distribution": "59.72% urban,40.28% rural",
+        "Population": "777,456",
+        "Ethnicity": "77.5% ,White,10.8% ,Hispanic,8.9% ,Black,1.4% ,Two or more races,1.0% ,Asian,0.4% other"
+    },
+    "Texas's 15th congressional district": {
+        "Median householdincome": "$50,003",
+        "Distribution": "86.67% urban,13.33% rural",
+        "Population": "778,024",
+        "Ethnicity": "81.87% ,Hispanic,15.1% ,White,1.58% ,Black,1.17% ,Asian,0.28% ,Native American"
+    },
+    "Florida's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Massachusetts's 19th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Mississippi's 3rd congressional district": {
+        "Median householdincome": "$52,442",
+        "Distribution": "59.67% rural,40.33% urban",
+        "Population": "738,621",
+        "Ethnicity": "59.8% ,White,35.1% ,Black,2.3% ,Hispanic,1.0% ,Asian,1.0% other,0.8% ,Two or more races"
+    },
+    "California's 44th congressional district": {
+        "Median householdincome": "$73,188",
+        "Distribution": "100% urban,0% rural",
+        "Population": "754,013",
+        "Ethnicity": "69.5% ,Hispanic,15.9% ,Black,6.6% ,White,5.7% ,Asian,1.3% ,Two or more races,0.9% other"
+    },
+    "Massachusetts's 15th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Illinois's 11th congressional district": {
+        "Median householdincome": "$95,707",
+        "Distribution": "99.7% urban,0.3% rural",
+        "Population": "746,018",
+        "Ethnicity": "52.5% ,White,26.4% ,Hispanic,11.1% ,Black,7.5% ,Asian,2.3% ,Two or more races,0.2% other"
+    },
+    "Texas's 25th congressional district": {
+        "Median householdincome": "$68,500",
+        "Distribution": "67.47% urban,32.53% rural",
+        "Population": "784,447",
+        "Ethnicity": "69.92% ,White,19.4% ,Hispanic,7.55% ,Black,2.59% ,Asian,0.54% ,Native American"
+    },
+    "Alabama's 5th congressional district": {
+        "Median householdincome": "$68,269",
+        "Distribution": "65.53% urban,34.47% rural",
+        "Population": "729,384",
+        "Ethnicity": "68.4% ,White,19.1% ,Black,6.6% ,Hispanic,3.4% ,Native American,2.8% ,Asian,0.2% ,Pacific Islander Americans"
+    },
+    "Pennsylvania's 23rd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "South Carolina's 2nd congressional district": {
+        "Median householdincome": "$61,683",
+        "Distribution": "60% urban,40% rural",
+        "Population": "744,260",
+        "Ethnicity": "61.1% ,White,27.2% ,Black,7.0% ,Hispanic,3.0% ,Asian,2.3% ,Native American,0.2% ,Pacific Islander Americans,0.1% other"
+    },
+    "Michigan's 11th congressional district": {
+        "Median householdincome": "$83,176",
+        "Distribution": "",
+        "Population": "764,859",
+        "Ethnicity": "79.8% ,White,9.3% ,Asian,5.2% ,Black,3.2% ,Hispanic,2.1% ,Two or more races,0.4% other"
+    },
+    "New Jersey's 5th congressional district": {
+        "Median householdincome": "$113,326",
+        "Distribution": "86.98% urban,13.02% rural",
+        "Population": "781,335",
+        "Ethnicity": "70.5% ,White,12.6% ,Hispanic,10.2% ,Asian,5.2% ,Black,1.2% ,Two or more races,0.3% other"
+    },
+    "Louisiana's 1st congressional district": {
+        "Median householdincome": "$65,197",
+        "Distribution": "86.02% urban,13.98% rural",
+        "Population": "775,969",
+        "Ethnicity": "72.9% ,White,13.3% ,Black,8.4% ,Hispanic,2.3% ,Asian,1.7% ,Two or more races,1.4% other"
+    },
+    "Illinois's 12th congressional district": {
+        "Median householdincome": "$58,961",
+        "Distribution": "75.4% urban,24.6% rural",
+        "Population": "756,783",
+        "Ethnicity": "76.6% ,White,16.8% ,Black,3.1% ,Hispanic,2.0% ,Two or more races,1.2% ,Asian,0.3% other"
+    },
+    "Michigan's 16th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Maine's 3rd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Ohio's 1st congressional district": {
+        "Median householdincome": "$69,885",
+        "Distribution": "92.5% urban,7.5% rural",
+        "Population": "786,192",
+        "Ethnicity": "69.6% ,White,22.0% ,Black,3.2% ,Asian,2.7% ,Hispanic,2.2% ,Two or more races,0.4% other"
+    },
+    "Texas's 16th congressional district": {
+        "Median householdincome": "$51,323",
+        "Distribution": "98.36% urban,1.64% rural",
+        "Population": "772,269",
+        "Ethnicity": "81.03% ,Hispanic,7.0% ,White,4.74% other,3.60% ,Black,1.42% ,Asian,0.61% ,Native American"
+    },
+    "Wisconsin's 1st congressional district": {
+        "Median householdincome": "$69,394",
+        "Distribution": "15.87% rural",
+        "Population": "732,414",
+        "Ethnicity": "80% ,White,10% ,Hispanic,6% ,Black,2% ,Asian,2% other,0% ,Native American"
+    },
+    "New York's 25th congressional district": {
+        "Median householdincome": "$65,695",
+        "Distribution": "95.52% urban,4.48% rural",
+        "Population": "776,267",
+        "Ethnicity": "70.5% ,White,15.8% ,Black,7.4% ,Hispanic,3.7% ,Asian,2.1% ,Two or more races,0.5% other"
+    },
+    "Wisconsin's 5th congressional district": {
+        "Median householdincome": "$83,862",
+        "Distribution": "84.79% urban,15.21% rural",
+        "Population": "737,380",
+        "Ethnicity": "86% ,White,6% ,Hispanic,3% ,Asian,3% ,Black,1% other,0% ,Native American"
+    },
+    "Massachusetts's 2nd congressional district": {
+        "Median householdincome": "$86,865",
+        "Distribution": "",
+        "Population": "781,228",
+        "Ethnicity": "78.6% ,White,8.7% ,Hispanic,5.3% ,Asian,5.1% ,Black,1.8% ,Two or more races,0.4% other"
+    },
+    "Kentucky's 3rd congressional district": {
+        "Median householdincome": "$58,965",
+        "Distribution": "99.33% urban,0.67% rural",
+        "Population": "745,141",
+        "Ethnicity": "68.6% ,White,21.4% ,Black,4.7% ,Hispanic,2.6% ,Two or more races,2.5% ,Asian,0.3% other"
+    },
+    "Minnesota's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Texas's 18th congressional district": {
+        "Median householdincome": "$53,533",
+        "Distribution": "99.94% urban,0.06% rural",
+        "Population": "758,643",
+        "Ethnicity": "41.78% ,Hispanic,36.35% ,Black,17.83% ,White,3.94% ,Asian,0.1% ,Native American"
+    },
+    "Resident Commissioner of Puerto Rico": {
+        "Median householdincome": "14,412",
+        "Population": "0",
+        "Distribution": "",
+        "Ethnicity": ""
+    },
+    "Virginia's 16th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New York's 4th congressional district": {
+        "Median householdincome": "$121,979",
+        "Distribution": "99.97% urban,0.03% rural",
+        "Population": "774,038",
+        "Ethnicity": "57.7% ,White,19.4% ,Hispanic,14.5% ,Black,6.4% ,Asian,1.4% ,Two or more races,0.5% other"
+    },
+    "Michigan's 8th congressional district": {
+        "Median householdincome": "$53,588",
+        "Distribution": "",
+        "Population": "771,412",
+        "Ethnicity": "82.6% ,White,5.5% ,Black,4.7% ,Hispanic,4.2% ,Asian,2.7% ,Two or more races,0.3% other"
+    },
+    "New Jersey's 14th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New York's 45th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Virginia's 18th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Oregon's 3rd congressional district": {
+        "Median householdincome": "$79,532",
+        "Distribution": "93.12% urban,6.88% rural",
+        "Population": "699,003",
+        "Ethnicity": "71.9% ,White,10.7% ,Hispanic,6.7% ,Asian,5.2% ,Black,4.1% ,Two or more races,1.4% other"
+    },
+    "Arizona's 7th congressional district": {
+        "Median householdincome": "$50,668",
+        "Distribution": "83.6% urban,16.4% rural",
+        "Population": "793,370",
+        "Ethnicity": "63.4% ,Hispanic,20.6% ,White,9.7% ,Black,2.5% other,2.4% ,Asian,1.4% ,Two or more races"
+    },
+    "Alabama's 4th congressional district": {
+        "Median householdincome": "$50,227",
+        "Distribution": "",
+        "Population": "723,070",
+        "Ethnicity": "79.9% ,White,8.3% ,Black,7.5% ,Hispanic,3.7% ,Native American,0.9% ,Asian,0.1% ,Pacific Islander Americans"
+    },
+    "Wisconsin's 7th congressional district": {
+        "Median householdincome": "$64,670",
+        "Distribution": "57.96% rural,42.04% urban",
+        "Population": "744,643",
+        "Ethnicity": "91% ,White,2% ,Hispanic,2% ,Native American,2% ,Asian,2% other,1% ,Black"
+    },
+    "New Jersey's 2nd congressional district": {
+        "Median householdincome": "$73,928",
+        "Distribution": "80.55% urban,19.45% rural",
+        "Population": "782,031 ",
+        "Ethnicity": "48.6% ,White,17.2% ,Hispanic,11.8% ,Black,11.4% ,Two or more races,7.2% other,3.8% ,Asian"
+    },
+    "Iowa's 9th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Utah's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Kentucky's 11th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Colorado's 8th congressional district": {
+        "Median householdincome": "$82,465",
+        "Distribution": "",
+        "Population": "724,072",
+        "Ethnicity": ""
+    },
+    "Pennsylvania's 16th congressional district": {
+        "Median householdincome": "$60,630",
+        "Distribution": "",
+        "Population": "763,417",
+        "Ethnicity": "92.3% ,White,4.6% ,Black,1.8% ,Hispanic,0.8% ,Asian,0.5% ,Native American,0.0% other"
+    },
+    "Nevada's 4th congressional district": {
+        "Median householdincome": "$63,987",
+        "Distribution": "",
+        "Population": "794,707",
+        "Ethnicity": "47.0% ,White,28.0% ,Hispanic,14.4% ,Black,5.4% ,Asian,3.5% ,Two or more races,1.6% other"
+    },
+    "California's 24th congressional district": {
+        "Median householdincome": "$83,996",
+        "Distribution": "",
+        "Population": "763,077",
+        "Ethnicity": "55.3% ,White,35.2% ,Hispanic,4.7% ,Asian,2.4% ,Two or more races,2.0% ,Black,0.5% other"
+    },
+    "Texas's 3rd congressional district": {
+        "Median householdincome": "$100,514",
+        "Distribution": "96.88% urban,3.12% rural",
+        "Population": "804,464",
+        "Ethnicity": "59.1% ,White,14.6% ,Hispanic,14.2% ,Asian,9.1% ,Black,2.4% other,0.4% ,Native American"
+    },
+    "New Hampshire's 4th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "West Virginia's 6th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Idaho's 2nd congressional district": {
+        "Median householdincome": "$64,712",
+        "Distribution": "67.03% urban,32.97% rural",
+        "Population": "933,186",
+        "Ethnicity": "81.0% ,White,13.5% ,Hispanic,2.0% ,Two or more races,1.5% ,Asian,1.2% other,0.8% ,Black"
+    },
+    "Massachusetts's 13th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Tennessee's 12th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Florida's 10th congressional district": {
+        "Median householdincome": "$55,908",
+        "Distribution": "98.67% urban,1.33% rural",
+        "Population": "777,189",
+        "Ethnicity": "38.7% ,White,28.0% ,Black,24.9% ,Hispanic,5.1% ,Asian,2.4% ,Two or more races,0.9% other"
+    },
+    "Missouri's 13th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Missouri's 10th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Illinois's 2nd congressional district": {
+        "Median householdincome": "$54,422",
+        "Distribution": "",
+        "Population": "758,903",
+        "Ethnicity": "49.7% ,Black,33.3% ,White,15.3% ,Hispanic,1.9% ,Two or more races,1.4% ,Asian,0.1% other"
+    },
+    "Minnesota's 4th congressional district": {
+        "Median householdincome": "$78,280",
+        "Distribution": "97.21% urban,2.79% rural",
+        "Population": "705,033",
+        "Ethnicity": "68.3% ,White,11.8% ,Asian,9.7% ,Black,6.3% ,Hispanic,3.4% ,Two or more races,0.6% other"
+    },
+    "Nebraska's 5th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New Jersey's 15th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Oklahoma's 3rd congressional district": {
+        "Median householdincome": "$51,174",
+        "Distribution": "50.71% urban,49.29% rural",
+        "Population": "786,296",
+        "Ethnicity": "74.7% ,White,9.3% ,Hispanic,5.9% other,5.0% ,Two or more races,3.6% ,Black,1.4% ,Asian"
+    },
+    "Pennsylvania's 32nd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "New Jersey's 6th congressional district": {
+        "Median householdincome": "$91,772",
+        "Distribution": "100% urban,0% rural",
+        "Population": "770,928",
+        "Ethnicity": "48.6% ,White,20.5% ,Hispanic,18.7% ,Asian,10.2% ,Black,1.6% ,Two or more races,0.4% other"
+    },
+    "Kansas's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Florida's 6th congressional district": {
+        "Median householdincome": "$55,586",
+        "Distribution": "86.15% urban,13.85% rural",
+        "Population": "786,354",
+        "Ethnicity": "74.6% ,White,11.2% ,Hispanic,10.4% ,Black,1.7% ,Asian,1.6% ,Two or more races,0.6% other"
+    },
+    "North Carolina's 1st congressional district": {
+        "Median householdincome": "$46,702",
+        "Distribution": "62.9% urban,37.1% rural",
+        "Population": "747,139",
+        "Ethnicity": "47.4% ,White,42.6% ,Black,7.2% ,Hispanic,2.3% ,Native American,1.4% ,Asian,0.2% ,Pacific Islander Americans,0.1% other"
+    },
+    "Georgia's 4th congressional district": {
+        "Median householdincome": "$69,415",
+        "Distribution": "96.1% urban,3.9% rural",
+        "Population": "756,440",
+        "Ethnicity": "59.1% ,Black,25.2% ,White,8.4% ,Hispanic,4.9% ,Asian,1.7% ,Two or more races,0.6% other"
+    },
+    "Vermont's 1st congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Virginia's 13th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "California's 12th congressional district": {
+        "Median householdincome": "$91,100",
+        "Distribution": "100.0% urban,0.0% rural",
+        "Population": "737,766",
+        "Ethnicity": "43.5% ,White,31.9% ,Asian,14.3% ,Hispanic,5.4% ,Black,3.9% ,Two or more races,1.0% other"
+    },
+    "New Jersey's 8th congressional district": {
+        "Median householdincome": "$71,688",
+        "Distribution": "100.00% urban,0.00% rural",
+        "Population": "743,665",
+        "Ethnicity": "52.7% ,Hispanic,25.3% ,White,10.5% ,Black,8.7% ,Asian,1.5% other,1.4% ,Two or more races"
+    },
+    "Michigan Territory's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Illinois's at-large congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Georgia's 6th congressional district": {
+        "Median householdincome": "$108,217",
+        "Distribution": "99.77% urban,0.23% rural",
+        "Population": "780,668",
+        "Ethnicity": "61.0% ,White,13.7% ,Black,11.8% ,Hispanic,10.7% ,Asian,2.1% ,Two or more races,0.7% other"
+    },
+    "Indiana's 1st congressional district": {
+        "Median householdincome": "$64,176",
+        "Distribution": "87.02% urban,12.98% rural",
+        "Population": "754,129",
+        "Ethnicity": "63.0% ,White,19.2% ,Black,14.6% ,Hispanic,1.5% ,Two or more races,1.3% ,Asian,0.4% other"
+    },
+    "Tennessee's 13th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Alabama's 9th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Indiana's 8th congressional district": {
+        "Median householdincome": "$56,957",
+        "Distribution": "58.10% urban,41.90% rural",
+        "Population": "754,451",
+        "Ethnicity": "90.7% ,White,4.0% ,Black,2.3% ,Hispanic,1.8% ,Two or more races,0.9% ,Asian,0.3% other"
+    },
+    "Illinois's 16th congressional district": {
+        "Median householdincome": "$72,666",
+        "Distribution": "71.0% urban,29.1% rural",
+        "Population": "744,298",
+        "Ethnicity": "84.2% ,White,8.8% ,Hispanic,3.8% ,Black,1.6% ,Two or more races,1.4% ,Asian,0.2% other"
+    },
+    "Illinois's 23rd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Pennsylvania's 30th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Pennsylvania's 24th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Alaska's at-large congressional district": {
+        "Median householdincome": "$77,845",
+        "Distribution": "65.7% urban,34.3% rural",
+        "Population": "732,673",
+        "Ethnicity": "62.0% ,White,15.0% other,7.4% ,Two or more races,6.3% ,Hispanic,6.0% ,Asian,3.3% ,Black"
+    },
+    "Nevada's 3rd congressional district": {
+        "Median householdincome": "$69,204",
+        "Distribution": "",
+        "Population": "806,554",
+        "Ethnicity": "57.5% ,White,16.5% ,Hispanic,13.4% ,Asian,7.0% ,Black,4.3% ,Two or more races,1.4% other"
+    },
+    "West Virginia's 3rd congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "California's 31st congressional district": {
+        "Median householdincome": "$80,102",
+        "Distribution": "",
+        "Population": "738,315",
+        "Ethnicity": "51.4% ,Hispanic,27.2% ,White,10.6% ,Black,7.8% ,Asian,2.3% ,Two or more races,0.7% other"
+    },
+    "Pennsylvania's 31st congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Texas's 14th congressional district": {
+        "Median householdincome": "$71,372",
+        "Distribution": "86.57% urban,13.43% rural",
+        "Population": "767,371",
+        "Ethnicity": "51.48% ,White,24.81% ,Hispanic,19.99% ,Black,3.13% ,Asian,0.59% ,Native American"
+    },
+    "Iowa's 1st congressional district": {
+        "Median householdincome": "$63,665",
+        "Distribution": "66.35% urban,33.65% rural",
+        "Population": "794,325",
+        "Ethnicity": "89.1% ,White,3.7% ,Hispanic,3.6% ,Black,1.7% ,Two or more races,1.5% ,Asian,0.5% other"
+    },
+    "California's 18th congressional district": {
+        "Median householdincome": "$90,456",
+        "Distribution": "",
+        "Population": "734,119",
+        "Ethnicity": "55.3% ,White,21.6% ,Asian,16.5% ,Hispanic,3.9% ,Two or more races,1.9% ,Black,0.8% other"
+    },
+    "Arkansas's 6th congressional district": {
+        "Median householdincome": "",
+        "Distribution": "",
+        "Population": "",
+        "Ethnicity": ""
+    },
+    "Montana": {
+        "Median householdincome": "$62,239",
+        "Population": "1104271",
+        "Distribution": "",
+        "Ethnicity": ""
+    },
+    "New Mexico": {
+        "Median householdincome": "$51,404",
+        "Population": "2115877",
+        "Distribution": "75.67% urban,24.32% rural",
+        "Ethnicity": "47.49% ,Hispanic,38.67% ,White,8.854% ,other,2.035% ,Black,1.534% ,Two or more races,1.403% ,Asian"
+    },
+    "New York": {
+        "Median householdincome": "$119,185",
+        "Population": "19835913",
+        "Distribution": "90.56% urban,9.433% rural",
+        "Ethnicity": "17.49% ,Hispanic,55.72% ,White,8.185% ,Asian,16.00% ,Black,1.805% ,Two or more races,0.798% ,other"
+    },
+    "Pennsylvania": {
+        "Median householdincome": "",
+        "Population": "12964056",
+        "Distribution": "99.93% urban,0.062% rural",
+        "Ethnicity": "11.37% ,Black,76.42% ,White,3.551% ,Asian,7.622% ,Hispanic,0.193% ,Native American,0.173% ,other,0.394% ,Two or more races"
+    },
+    "Utah": {
+        "Median householdincome": "$77,807",
+        "Population": "3337975",
+        "Distribution": "96.09% urban,3.91% rural",
+        "Ethnicity": "88.46% ,White,3.342% ,Asian,1.635% ,Black,9.032% ,Hispanic,1.077% ,Native American,3.612% ,other"
+    },
+    "Tennessee": {
+        "Median householdincome": "$57,373",
+        "Population": "6975218",
+        "Distribution": "64.10% urban,35.89% rural",
+        "Ethnicity": "74.47% ,White,16.87% ,Black,4.857% ,Hispanic,1.589% ,Asian,1.791% ,Two or more races,0.389% ,other"
+    },
+    "South Carolina": {
+        "Median householdincome": "$56,382",
+        "Population": "5190705",
+        "Distribution": "68.57% urban,31.42% rural",
+        "Ethnicity": "26.71% ,Black,62.14% ,White,6.878% ,Hispanic,2.429% ,Asian,2.115% ,Native American,0.157% ,Pacific Islander Americans,0.1% ,other"
+    },
+    "Connecticut": {
+        "Median householdincome": "$77,023",
+        "Population": "3605597",
+        "Distribution": "87.75% urban,12.24% rural",
+        "Ethnicity": "68.76% ,White,14.20% ,Hispanic,10.33% ,Black,4.256% ,Asian,1.981% ,Two or more races,0.439% ,other"
+    },
+    "North Carolina": {
+        "Median householdincome": "$59,118",
+        "Population": "10551162",
+        "Distribution": "66.82% urban,33.17% rural",
+        "Ethnicity": "60.47% ,White,22.21% ,Black,10.72% ,Hispanic,4.073% ,Asian,3.045% ,Native American,0.192% ,Pacific Islander Americans,0.099% ,other"
+    },
+    "New Jersey": {
+        "Median householdincome": "$61,465",
+        "Population": "9267130",
+        "Distribution": "94.62% urban,5.370% rural",
+        "Ethnicity": "13.65% ,Black,53.18% ,White,19.16% ,Hispanic,9.894% ,Asian,2.814% ,Two or more races,1.439% ,other"
+    },
+    "Texas": {
+        "Median householdincome": "$63,991",
+        "Population": "29527941",
+        "Distribution": "84.59% urban,15.40% rural",
+        "Ethnicity": "38.83% ,Hispanic,43.59% ,White,12.12% ,Black,4.903% ,Asian,0.477% ,Native American,1.069% ,other,0.433% ,Two or more races"
+    },
+    "California": {
+        "Median householdincome": "$73,215",
+        "Population": "37723296",
+        "Distribution": "100.0% urban,0.0% rural",
+        "Ethnicity": "41.07% ,White,13.79% ,Asian,35.82% ,Hispanic,5.534% ,Black,2.877% ,Two or more races,1.243% ,other"
+    },
+    "Arizona": {
+        "Median householdincome": "$68,146",
+        "Population": "7276316",
+        "Distribution": "87.05% urban,12.94% rural",
+        "Ethnicity": "46.55% ,White,30.14% ,Hispanic,5.628% ,Black,4.803% ,Asian,5.002% ,Native American,0.325% ,Pacific Islander Americans,2.249% ,Two or more races,0.709% ,other"
+    },
+    "Michigan": {
+        "Median householdincome": "$55,941",
+        "Population": "10050811",
+        "Distribution": "65.43% urban,34.56% rural",
+        "Ethnicity": "77.59% ,White,11.64% ,Black,4.781% ,Hispanic,2.736% ,Asian,2.384% ,Two or more races,0.650% ,other"
+    },
+    "Kansas": {
+        "Median householdincome": "",
+        "Population": "2934582",
+        "Distribution": "77.80% urban,22.19% rural",
+        "Ethnicity": "79.07% ,White,8.685% ,Hispanic,5.280% ,Black,2.828% ,Asian,3.049% ,Two or more races,1.126% ,other"
+    },
+    "Kentucky": {
+        "Median householdincome": "",
+        "Population": "4509394",
+        "Distribution": "59.66% urban,40.33% rural",
+        "Ethnicity": "85.49% ,White,7.874% ,Black,3.198% ,Hispanic,1.816% ,Two or more races,1.282% ,Asian,0.333% ,other"
+    },
+    "Florida": {
+        "Median householdincome": "$63,463",
+        "Population": "21781128",
+        "Distribution": "91.07% urban,8.927% rural",
+        "Ethnicity": "15.87% ,Black,56.39% ,White,22.92% ,Hispanic,2.596% ,Asian,1.746% ,Two or more races,0.548% ,other"
+    },
+    "Nevada": {
+        "Median householdincome": "$63,987",
+        "Population": "3143991",
+        "Distribution": "99.9% urban,0.100% rural",
+        "Ethnicity": "27.35% ,Hispanic,51.32% ,White,8.559% ,Black,7.776% ,Asian,3.312% ,Two or more races,1.677% ,other"
+    },
+    "Georgia": {
+        "Median householdincome": "$64,432",
+        "Population": "10799566",
+        "Distribution": "75.37% urban,24.62% rural",
+        "Ethnicity": "31.01% ,Black,54.43% ,White,8.670% ,Hispanic,1.769% ,Two or more races,3.599% ,Asian,0.485% ,other"
+    },
+    "Mississippi": {
+        "Median householdincome": "",
+        "Population": "2949965",
+        "Distribution": "48.67% urban,51.32% rural",
+        "Ethnicity": "37.63% ,Black,57.10% ,White,2.756% ,Hispanic,1.053% ,Two or more races,0.927% ,Asian,0.524% ,other"
+    },
+    "Arkansas": {
+        "Median householdincome": "$45,508",
+        "Population": "3025891",
+        "Distribution": "57.80% urban,42.19% rural",
+        "Ethnicity": "73.35% ,White,15.62% ,Black,6.778% ,Hispanic,1.928% ,Two or more races,1.383% ,Asian,0.854% ,other"
+    },
+    "Colorado": {
+        "Median householdincome": "$81,218",
+        "Population": "5812069",
+        "Distribution": "81.76% urban,18.23% rural",
+        "Ethnicity": "69.05% ,White,20.85% ,Hispanic,0.844% ,other,2.299% ,Two or more races,4.029% ,Black,2.903% ,Asian"
+    },
+    "Washington": {
+        "Median householdincome": "$66,812",
+        "Population": "7738692",
+        "Distribution": "87.66% urban,12.33% rural",
+        "Ethnicity": "76.36% ,White,3.726% ,Black,10.50% ,Hispanic,6.813% ,Asian,1.573% ,Native American,1.778% ,other,1.846% ,Two or more races,0.060% ,Pacific Islander Americans"
+    },
+    "Ohio": {
+        "Median householdincome": "$56,397",
+        "Population": "11780017",
+        "Distribution": "73.79% urban,26.20% rural",
+        "Ethnicity": "79.19% ,White,12.91% ,Black,2.288% ,Two or more races,3.361% ,Hispanic,1.914% ,Asian,0.306% ,other"
+    },
+    "Wisconsin": {
+        "Median householdincome": "$64,670",
+        "Population": "5895908",
+        "Distribution": "64.53% urban,35.46% rural",
+        "Ethnicity": "81.16% ,White,6.983% ,Hispanic,2.624% ,Asian,6.471% ,Black,2.124% ,other,0.502% ,Native American"
+    },
+    "Alabama": {
+        "Median householdincome": "$49,465",
+        "Population": "5039877",
+        "Distribution": "68.93% urban,31.06% rural",
+        "Ethnicity": "63.14% ,White,27.13% ,Black,5.242% ,Hispanic,2.619% ,Native American,2.056% ,Asian,0.142% ,Pacific Islander Americans"
+    },
+    "Virginia": {
+        "Median householdincome": "",
+        "Population": "8642274",
+        "Distribution": "75.40% urban,24.59% rural",
+        "Ethnicity": "64.68% ,White,19.48% ,Black,8.852% ,Hispanic,6.119% ,Asian,0.288% ,Native American"
+    },
+    "Indiana": {
+        "Median householdincome": "$60,586",
+        "Population": "6805985",
+        "Distribution": "73.07% urban,26.92% rural",
+        "Ethnicity": "80.28% ,White,9.163% ,Black,6.356% ,Hispanic,1.832% ,Two or more races,1.969% ,Asian,0.377% ,other"
+    },
+    "Maine": {
+        "Median householdincome": "",
+        "Population": "1372247",
+        "Distribution": "38.66% urban,61.33% rural",
+        "Ethnicity": "93.74% ,White,1.849% ,Two or more races,1.200% ,Black,1.450% ,Hispanic,1.100% ,Asian,0.649% ,other"
+    },
+    "Louisiana": {
+        "Median householdincome": "$44,363",
+        "Population": "4624047",
+        "Distribution": "73.19% urban,26.80% rural",
+        "Ethnicity": "32.14% ,Black,59.32% ,White,4.537% ,Hispanic,1.684% ,Asian,1.549% ,Two or more races,0.717% ,other"
+    },
+    "Illinois": {
+        "Median householdincome": "$54,986",
+        "Population": "12671469",
+        "Distribution": "88.23% urban,11.76% rural",
+        "Ethnicity": "60.09% ,White,5.501% ,Asian,18.11% ,Hispanic,14.56% ,Black,1.892% ,Two or more races,0.252% ,other"
+    },
+    "Missouri": {
+        "Median householdincome": "",
+        "Population": "6168187",
+        "Distribution": "65.43% urban,34.56% rural",
+        "Ethnicity": "79.98% ,White,3.813% ,Hispanic,2.161% ,Two or more races,11.63% ,Black,1.771% ,Asian,0.625% ,other"
+    },
+    "West Virginia": {
+        "Median householdincome": "",
+        "Population": "1782959",
+        "Distribution": "",
+        "Ethnicity": "95.38% ,White,2.709% ,Black,0.750% ,Hispanic,0.598% ,Asian,0.2% ,Native American,0.1% ,other"
+    },
+    "Oklahoma": {
+        "Median householdincome": "$51,174",
+        "Population": "3986639",
+        "Distribution": "65.46% urban,34.53% rural",
+        "Ethnicity": "66.93% ,White,7.349% ,other,6.859% ,Two or more races,9.660% ,Hispanic,7.209% ,Black,1.985% ,Asian"
+    },
+    "South Dakota": {
+        "Median householdincome": "",
+        "Population": "895376",
+        "Distribution": "55.8% urban,44.2% rural",
+        "Ethnicity": "82.9% ,White,8.5% ,other,3.400% ,Hispanic,2.3% ,Two or more races,1.700% ,Black,1.3% ,Asian"
+    },
+    "Vermont": {
+        "Median householdincome": "",
+        "Population": "645570",
+        "Distribution": "38.9% urban,61.1% rural",
+        "Ethnicity": "94.1% ,White,1.9% ,Hispanic,1.800% ,Asian,1.3% ,Black,0.4% ,Native American,0.2% ,other"
+    },
+    "Oregon": {
+        "Median householdincome": "$74,711",
+        "Population": "4246155",
+        "Distribution": "82.27% urban,17.72% rural",
+        "Ethnicity": "77.08% ,White,12.24% ,Hispanic,3.456% ,Two or more races,3.982% ,Asian,1.381% ,other,1.849% ,Black"
+    },
+    "Guam": {
+        "Median householdincome": "34,598",
+        "Population": "0",
+        "Distribution": "",
+        "Ethnicity": ""
+    },
+    "Massachusetts": {
+        "Median householdincome": "",
+        "Population": "6984723",
+        "Distribution": "66.17% urban,33.82% rural",
+        "Ethnicity": "73.92% ,White,7.137% ,Black,10.08% ,Hispanic,6.027% ,Asian,1.998% ,Two or more races,0.789% ,other"
+    },
+    "New Hampshire": {
+        "Median householdincome": "",
+        "Population": "0",
+        "Distribution": "",
+        "Ethnicity": ""
+    },
+    "American Samoa": {
+        "Median householdincome": "15,851",
+        "Population": "0",
+        "Distribution": "",
+        "Ethnicity": ""
+    },
+    "Maryland": {
+        "Median householdincome": "$80,808",
+        "Population": "6165129",
+        "Distribution": "87.48% urban,12.51% rural",
+        "Ethnicity": "32.13% ,Black,47.48% ,White,11.46% ,Hispanic,7.735% ,Asian,1.606% ,Native American,0.150% ,Pacific Islander Americans,0.604% ,Two or more races,0.100% ,other"
+    },
+    "Iowa": {
+        "Median householdincome": "",
+        "Population": "3193079",
+        "Distribution": "64.05% urban,35.94% rural",
+        "Ethnicity": "86.98% ,White,5.454% ,Hispanic,2.128% ,Asian,3.303% ,Black,1.675% ,Two or more races,0.449% ,other"
+    },
+    "Idaho": {
+        "Median householdincome": "$64,712",
+        "Population": "1900923",
+        "Distribution": "66.41% urban,33.58% rural",
+        "Ethnicity": "82.93% ,White,11.87% ,Hispanic,2.050% ,Two or more races,1.250% ,other,1.296% ,Asian,0.647% ,Black"
+    },
+    "District of Columbia": {
+        "Median householdincome": "$82,372",
+        "Population": "0",
+        "Distribution": "",
+        "Ethnicity": ""
+    },
+    "Rhode Island": {
+        "Median householdincome": "$69,666",
+        "Population": "1095610",
+        "Distribution": "90.70% urban,9.295% rural",
+        "Ethnicity": "74.02% ,White,12.89% ,Hispanic,6.487% ,Black,3.299% ,Asian,2.198% ,Two or more races,1.098% ,other"
+    },
+    "Hawaii": {
+        "Median householdincome": "$79,474",
+        "Population": "1441553",
+        "Distribution": "91.37% urban,8.624% rural",
+        "Ethnicity": "22.41% ,White,37.86% ,Asian,19.32% ,Two or more races,9.570% ,other,8.919% ,Hispanic,1.847% ,Black"
+    },
+    "Minnesota": {
+        "Median householdincome": "$69,959",
+        "Population": "5707390",
+        "Distribution": "73.20% urban,26.79% rural",
+        "Ethnicity": "81.49% ,White,4.914% ,Hispanic,4.455% ,Asian,5.598% ,Black,2.384% ,Two or more races,1.148% ,other"
+    },
+    "Nebraska": {
+        "Median householdincome": "",
+        "Population": "1963692",
+        "Distribution": "69.83% urban,30.16% rural",
+        "Ethnicity": "82.69% ,White,8.624% ,Hispanic,4.242% ,Black,1.904% ,Asian,1.133% ,Two or more races,1.468% ,other"
+    },
+    "Wyoming": {
+        "Median householdincome": "$65,204",
+        "Population": "578803",
+        "Distribution": "64.71% urban,35.28% rural",
+        "Ethnicity": "85.9% ,White,8.9% ,Hispanic,2.1% ,Native American,1.6% ,other,0.8% ,Black,0.8% ,Asian"
+    },
+    "North Dakota": {
+        "Median householdincome": "",
+        "Population": "774948",
+        "Distribution": "55.8% urban,44.2% rural",
+        "Ethnicity": "86.4% ,White,5.2% ,other,3.1% ,Hispanic,2.1% ,Two or more races,2.0% ,Black,1.3% ,Asian"
+    },
+    "United States Virgin Islands": {
+        "Median householdincome": "21,740",
+        "Population": "0",
+        "Distribution": "",
+        "Ethnicity": ""
+    },
+    "Northern Mariana Islands": {
+        "Median householdincome": "",
+        "Population": "0",
+        "Distribution": "",
+        "Ethnicity": ""
+    },
+    "Delaware": {
+        "Median householdincome": "$71,091",
+        "Population": "1003384",
+        "Distribution": "83.3% urban,16.7% rural",
+        "Ethnicity": "63.5% ,White,21.7% ,Black,8.2% ,Hispanic,3.700% ,Asian,2.3% ,Two or more races,0.6% ,other"
+    },
+    "Alaska": {
+        "Median householdincome": "$77,845",
+        "Population": "732673",
+        "Distribution": "65.7% urban,34.3% rural",
+        "Ethnicity": "62.0% ,White,15.0% ,other,7.400% ,Two or more races,6.3% ,Hispanic,6.0% ,Asian,3.300% ,Black"
+    }
+}
