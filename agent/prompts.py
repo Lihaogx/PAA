@@ -1,6 +1,6 @@
 # prompts
-# 职务信息
-# 职务信息
+# Public Office Information
+# Public Office Information
 def public_office_prompts(name, public_office):
     positions_summary = ""
     for office_title, office_info in public_office.items():
@@ -38,7 +38,7 @@ def public_office_prompts(name, public_office):
     ]
 
 
-# 个人信息
+# Personal Information
 def personal_details_prompts(name, personal_details):
     born = personal_details.get("Born", "Unknown")
     political_party = personal_details.get("Political party", "Unknown")
@@ -64,7 +64,7 @@ def personal_details_prompts(name, personal_details):
     ]
 
 
-# 法案信息
+# Bill Information
 def bills_prompts(name, sponsored_bills, cosponsored_bills, voting_records, new_bill):
     # Combine all relevant bills and voting records
     all_bills = sponsored_bills + cosponsored_bills
@@ -152,7 +152,7 @@ def bills_prompts(name, sponsored_bills, cosponsored_bills, voting_records, new_
     return prompts
 
 
-# 委员会主要成员信息
+# Committee Member Information
 def committee_and_voting_prompts(bill_info):
     # Extract committee and caucus information
     committee_info = bill_info.get('Committee', {})

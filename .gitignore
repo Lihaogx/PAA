@@ -1,0 +1,17 @@
+result/
+!result/.gitkeep
+
+data/party_vote.py
+
+data/profile_process.py
+
+data/wiki.xlsx
+
+data/house_votes.json
+
+data/legi_data.json
+
+data/new_name.csv
+
+data/profiles_process.py
+

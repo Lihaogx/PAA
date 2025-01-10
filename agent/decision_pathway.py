@@ -1,3 +1,4 @@
+## sdjfhjfklsajfksdaf匹配
 import os
 import json
 import openai
@@ -13,7 +14,7 @@ class DecisionPathway:
         self.caucus_file = caucus_file
         self.committee_file = committee_file
         self.profiles_folder = profiles_folder
-        self.client = openai.OpenAI(api_key=openai_api_key)
+        self.client = openai.OpenAI(api_key=openai.api_key)
 
     def load_json(self, file_path):
         with open(file_path, 'r', encoding='utf-8') as f:
@@ -88,9 +89,9 @@ class DecisionPathway:
         }
 
     def extract_info(self, text, label):
-        """从文本中提取指定标签的信息"""
+        """Extract information with specified label from text"""
         if not isinstance(text, str):
-            text = str(text)  # 确保 text 是字符串
-        pattern = rf'{label}\s*(.+)'  # 匹配标签后的内容
+            text = str(text)  # Ensure text is a string
+        pattern = rf'{label}\s*(.+)'  # Match content after the label
         match = re.search(pattern, text)
         return match.group(1).strip() if match else ''

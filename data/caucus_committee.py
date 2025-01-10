@@ -4,7 +4,7 @@ import os
 
 
 def clean_text(text):
-    # 确保值为字符串并清理文本
+    # Ensure value is string and clean text
     return str(text).strip().strip('"').strip()
 
 
@@ -30,21 +30,21 @@ def load_personal_profiles(folder_path):
 
 
 def process_csv(csv_filename, caucus_json_filename, committee_json_filename):
-    # 读取CSV文件
+    # Read CSV file
     df = pd.read_csv(csv_filename)
 
-    # 加载JSON数据
+    # Load JSON data
     caucus_data = load_json_file(caucus_json_filename)
     committee_data = load_json_file(committee_json_filename)
 
-    # 匹配caucus数据
+    # Match caucus data
     caucus_matches = []
     for _, row in df.iterrows():
         bill_number = row['Bill Number']
         bill_name = row['Bill Name']
         caucus_name = clean_text(row['Caucus'])
 
-        # 寻找匹配的caucus
+        # Find matching caucus
         matched_caucus = next((item for item in caucus_data if item['Caucus'] == caucus_name), None)
 
         if matched_caucus:
@@ -56,14 +56,14 @@ def process_csv(csv_filename, caucus_json_filename, committee_json_filename):
         else:
             print(f"Caucus not found: {caucus_name}")
 
-    # 匹配committee数据
+    # Match committee data
     committee_matches = []
     for _, row in df.iterrows():
         bill_number = row['Bill Number']
         bill_name = row['Bill Name']
         committee_name = clean_text(row['Committee'])
 
-        # 寻找匹配的committee
+        # Find matching committee
         matched_committee = committee_data.get(committee_name, None)
 
         if matched_committee:
@@ -79,7 +79,7 @@ def process_csv(csv_filename, caucus_json_filename, committee_json_filename):
         else:
             print(f"Committee not found: {committee_name}")
 
-    # 保存匹配结果到文件
+    # Save match results to files
     save_json_file('caucus_matches.json', caucus_matches)
     save_json_file('committee_matches.json', committee_matches)
 
@@ -129,24 +129,24 @@ def update_caucus_matches(file_path, profiles):
 
 
 def process_committee_json(input_file, output_file):
-    # 读取输入的 JSON 文件
+    # Read input JSON file
     with open(input_file, 'r') as f:
         data_list = json.load(f)
 
-    # 处理每个数据项
+    # Process each data item
     for data in data_list:
-        # 获取委员会的主席和排名成员名字
+        # Get committee chair and ranking member names
         committee_chair = data["Committee"]["Chair"]
         committee_ranking_member = data["Committee"]["Ranking Member"]
 
-        # 初始化空的投票记录
+        # Initialize empty voting records
         data["Committee"]["Chair Voting Records"] = []
         data["Committee"]["Ranking Member Voting Records"] = []
 
-        # 定义要遍历的字段
+        # Define fields to check
         fields_to_check = ["UnusedVotingRecords", "CosponsoredBills", "SponsoredBills", "VotingRecord"]
 
-        # 遍历并匹配
+        # Iterate and match
         for field in fields_to_check:
             if field in data:
                 records = data[field]
@@ -156,14 +156,14 @@ def process_committee_json(input_file, output_file):
                     last_name = record.get("Last Name", "").strip()
                     vote = record.get("Vote", "")
 
-                    # 检查是否匹配到主席
+                    # Check if matches chair
                     if committee_chair in first_name:
                         data["Committee"]["Chair Voting Records"].append({
                             "First Name": first_name,
                             "Last Name": last_name,
                             "Vote": vote
                         })
-                    # 检查是否匹配到排名成员
+                    # Check if matches ranking member
                     elif committee_ranking_member in first_name:
                         data["Committee"]["Ranking Member Voting Records"].append({
                             "First Name": first_name,
@@ -173,39 +173,39 @@ def process_committee_json(input_file, output_file):
                     else:
                         updated_records.append(record)
 
-                # 更新原始字段
+                # Update original field
                 data[field] = updated_records
 
-        # 删除处理后的记录
+        # Delete processed records
         for field in fields_to_check:
             if field in data:
                 del data[field]
 
-    # 保存处理后的数据到新的 JSON 文件
+    # Save processed data to new JSON file
     with open(output_file, 'w') as f:
         json.dump(data_list, f, indent=4)
 
 
 def process_caucus_json(input_file, output_file):
-    # 读取输入的 JSON 文件
+    # Read input JSON file
     with open(input_file, 'r') as f:
         data_list = json.load(f)
 
     for data in data_list:
-        # 获取委员会的名称和成员
+        # Get committee name and members
         caucus_name = data["Caucus"]["Caucus"]
         caucus_members = data["Caucus"]["Members"]
 
-        # 初始化空的投票记录
+        # Initialize empty voting records
         data["Caucus"]["Caucus Voting Records"] = []
 
-        # 定义要遍历的字段
+        # Define fields to check
         fields_to_check = ["UnusedVotingRecords", "CosponsoredBills", "SponsoredBills", "VotingRecord"]
 
-        # 用于存储临时记录
+        # Store temporary records
         temp_records = {}
 
-        # 遍历并收集记录
+        # Iterate and collect records
         for field in fields_to_check:
             if field in data:
                 records = data[field]
@@ -223,9 +223,9 @@ def process_caucus_json(input_file, output_file):
                         if last_name:
                             temp_records[first_name]["Last Name"] = last_name
 
-        # 匹配记录并填充到 "Caucus Voting Records"
+        # Match records and fill into "Caucus Voting Records"
         for member in caucus_members:
-            member_name = member.split('(')[0].strip()  # 只取名字部分，去掉党派信息
+            member_name = member.split('(')[0].strip()  # Only get name part, remove party info
             if member_name in temp_records:
                 data["Caucus"]["Caucus Voting Records"].append({
                     "First Name": member_name,
@@ -233,18 +233,18 @@ def process_caucus_json(input_file, output_file):
                     "Vote": temp_records[member_name]["Vote"]
                 })
 
-        # 删除处理后的记录字段
+        # Delete processed record fields
         for field in fields_to_check:
             if field in data:
                 del data[field]
 
-    # 保存处理后的数据到新的 JSON 文件
+    # Save processed data to new JSON file
     with open(output_file, 'w') as f:
         json.dump(data_list, f, indent=4)
 
 
 def main():
-    personal_profiles_folder = r'E:\PycharmProjects\Legislators\data\profiles\profiles244'
+    personal_profiles_folder = '/home/lh/PAA/data/profiles/profiles244'
     csv_filename = 'caucus_committee.csv'
     caucus_json_filename = 'caucus_data.json'
     committee_json_filename = 'committee_data.json'
@@ -255,41 +255,41 @@ def main():
 
     profiles = load_personal_profiles(personal_profiles_folder)
 
-    # 处理 CSV 文件
+    # Process CSV file
     process_csv(csv_filename, caucus_json_filename, committee_json_filename)
 
-    # 更新 committee_matches.json 和 caucus_matches.json 文件
+    # Update committee_matches.json and caucus_matches.json files
     update_committee_matches(committee_matches_file, profiles)
     update_caucus_matches(caucus_matches_file, profiles)
     process_committee_json(committee_matches_file, committee_output_file)
     process_caucus_json(caucus_matches_file, caucus_output_file)
 
-    print("委员会匹配结果保存在", committee_output_file)
-    print("小组匹配结果保存在", caucus_output_file)
+    print("Committee match results saved to", committee_output_file)
+    print("Caucus match results saved to", caucus_output_file)
 
 
 if __name__ == "__main__":
     main()
 
-# 读取JSON文件
+# Read JSON file
 with open('caucus_match.json', 'r') as file:
     data = json.load(file)
 
-# 确保data是一个列表
+# Ensure data is a list
 if isinstance(data, list):
     for item in data:
-        # 提取党派信息
+        # Extract party information
         members = item.get("Caucus", {}).get("Members", [])
         party_dict = {}
 
         for member in members:
-            # 提取名字和党派
+            # Extract name and party
             name, party = member.rsplit('(', 1)
             party = party.rstrip(')')
             full_name = name.strip()
             party_dict[full_name] = party
 
-        # 更新投票记录中的党派信息
+        # Update party information in voting records
         voting_records = item.get("Caucus", {}).get("Caucus Voting Records", [])
 
         for record in voting_records:
@@ -297,10 +297,10 @@ if isinstance(data, list):
             if full_name in party_dict:
                 record["Last Name"] = party_dict[full_name]
 
-    # 写回JSON文件
+    # Write back to JSON file
     with open('caucus_match.json', 'w') as file:
         json.dump(data, file, indent=4)
 
-    print("更新完毕!")
+    print("Update completed!")
 else:
-    print("读取的数据不是列表类型，请检查JSON文件的结构。")
+    print("Data read is not a list type, please check JSON file structure.")

@@ -1,38 +1,44 @@
 import os
 import csv
-from agent import LegislatorAgent, DecisionPathway
-
+from agent import LegislatorAgent
+import sys
+import argparse
 os.environ["http_proxy"] = "http://localhost:7890"
 os.environ["https_proxy"] = "http://localhost:7890"
 
 
 def main():
-    folder_path = r"E:\PycharmProjects\Legislators\data\profiles\20-profiles622"  # 需要预测的Profiles路径
-    committee_matches_file_path = r"E:\PycharmProjects\Legislators\data\committee_match.json"  # 不用改动
-    caucus_matches_file_path = r"E:\PycharmProjects\Legislators\data\caucus_match.json"  # 不用改动
-    output_csv_file = r"E:\PycharmProjects\Legislators\result\20-result622.csv"  # 结果保存路径
+    # 设置命令行参数解析
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--profiles_path', type=str, required=True, help='Path to profiles that need prediction')
+    args = parser.parse_args()
 
-    # 打开 CSV 文件以进行写入
+    profiles_path = args.profiles_path 
+    committee_matches_file_path = '/home/lh/PAA/data/committee_match.json'  # No need to modify
+    caucus_matches_file_path = '/home/lh/PAA/data/caucus_match.json'  # No need to modify  
+    output_csv_file = '/home/lh/PAA/results/20-result433.csv'  # Path to save results
+
+    # Open CSV file for writing
     with open(output_csv_file, mode='w', newline='', encoding='utf-8') as csvfile:
         fieldnames = ['Selected profile file', 'Bill Name', 'Personal Prediction', 'Real Result', 'Bill Number']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
 
-        # 遍历所有 JSON 文件
-        files = [f for f in os.listdir(folder_path) if
-                 os.path.isfile(os.path.join(folder_path, f)) and f.endswith('.json')]
+        # Iterate through all JSON files
+        files = [f for f in os.listdir(profiles_path) if
+                 os.path.isfile(os.path.join(profiles_path, f)) and f.endswith('.json')]
 
         for profile_file in files:
-            profile_path = os.path.join(folder_path, profile_file)
+            profile_path = os.path.join(profiles_path, profile_file)
 
-            # 创建 LegislatorAgent 实例
+            # Create LegislatorAgent instance
             agent = LegislatorAgent(profile_path)
 
-            # 获取未使用的投票记录
+            # Get unused voting records
             unused_voting_records = agent.profile_data.get("UnusedVotingRecords", [])
             if not unused_voting_records:
-                continue  # 跳过没有未使用投票记录的文件
+                continue  # Skip files with no unused voting records
 
             for new_bill in unused_voting_records:
                 bill_info = {
@@ -46,15 +52,15 @@ def main():
                 }
 
                 try:
-                    # 基于个人 profile 的预测
+                    # Prediction based on personal profile
                     personal_prediction_output = agent.decision_coT(
                         bill_info,
                         committee_matches_file_path=committee_matches_file_path,
                         caucus_matches_file_path=caucus_matches_file_path,
-                        include_committee_info=True  # 或 False 来决定是否包含委员会信息
+                        include_committee_info=True  # True or False to decide whether to include committee info
                     )
 
-                    # 写入 CSV 文件
+                    # Write to CSV file
                     writer.writerow({
                         'Selected profile file': profile_file,
                         'Bill Name': bill_info.get('Bill Name', ''),
@@ -63,7 +69,7 @@ def main():
                         'Bill Number': bill_info.get('Bill Number', ''),
                     })
                 except ValueError as e:
-                    continue  # 跳过当前法案，继续下一个
+                    continue  # Skip current bill and continue to next one
 
             print(f"Processed file: {profile_file}")
 

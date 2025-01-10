@@ -6,28 +6,28 @@ import string
 
 
 def add_name_field_to_json_files(directory):
-    # 遍历文件夹中的文件
+    # Iterate through files in directory
     for filename in os.listdir(directory):
         if filename.endswith("_profile.json"):
             file_path = os.path.join(directory, filename)
 
-            # 从文件名中提取 Name 字段
+            # Extract Name field from filename
             name = filename.replace("_profile.json", "")
 
-            # 读取JSON文件
+            # Read JSON file
             with open(file_path, 'r', encoding='utf-8') as file:
                 data = json.load(file)
 
-            # 在文件开头加入Name字段
+            # Add Name field at beginning of file
             data = {"Name": name, **data}
 
-            # 写回JSON文件
+            # Write back to JSON file
             with open(file_path, 'w', encoding='utf-8') as file:
                 json.dump(data, file, ensure_ascii=False, indent=4)
             print(f"Updated {filename} with Name: {name}")
 
 
-# 党派分类
+# Party classification
 class ProfileOrganizer:
     def __init__(self, profile_folder, republican_folder, democratic_folder):
         self.profile_folder = profile_folder
@@ -35,31 +35,31 @@ class ProfileOrganizer:
         self.democratic_folder = democratic_folder
 
     def organize_profiles(self):
-        # 创建目标文件夹（如果不存在）
+        # Create target folders if they don't exist
         os.makedirs(self.republican_folder, exist_ok=True)
         os.makedirs(self.democratic_folder, exist_ok=True)
 
-        # 遍历profile文件夹中的每个文件
+        # Iterate through each file in profile folder
         for filename in os.listdir(self.profile_folder):
             if filename.endswith(".json"):
                 file_path = os.path.join(self.profile_folder, filename)
 
-                # 读取JSON文件
+                # Read JSON file
                 with open(file_path, 'r', encoding='utf-8') as file:
                     data = json.load(file)
 
-                # 获取政治党派信息
+                # Get political party information
                 political_party = data.get("Profile", {}).get("Personal Details", {}).get("Personal details", {}).get(
                     "Political party", "")
 
-                # 根据政治党派信息将文件复制到相应的文件夹中
+                # Copy file to appropriate folder based on political party
                 if "Republican" in political_party:
                     shutil.copy(file_path, os.path.join(self.republican_folder, filename))
                 elif "Democratic" in political_party:
                     shutil.copy(file_path, os.path.join(self.democratic_folder, filename))
 
 
-# 姓名交换
+# Name swapping
 class NameSwapper:
     def __init__(self, republican_folder, democratic_folder):
         self.republican_folder = republican_folder
@@ -105,23 +105,23 @@ class NameSwapper:
                 json.dump(profile, file, indent=4)
 
     def swap_names(self):
-        # 加载所有profile文件
+        # Load all profile files
         republican_profiles = self.load_profiles(self.republican_folder)
         democratic_profiles = self.load_profiles(self.democratic_folder)
 
-        # 提取姓名
+        # Extract names
         republican_names = self.extract_names(republican_profiles)
         democratic_names = self.extract_names(democratic_profiles)
 
-        # 随机打乱姓名
+        # Randomly shuffle names
         random.shuffle(republican_names)
         random.shuffle(democratic_names)
 
-        # 交换姓名
+        # Swap names
         updated_republican_profiles = self.replace_names(republican_profiles, democratic_names)
         updated_democratic_profiles = self.replace_names(democratic_profiles, republican_names)
 
-        # 保存更新后的profile文件到新文件夹
+        # Save updated profile files to new folders
         self.save_profiles(updated_republican_profiles, "new_" + self.republican_folder)
         self.save_profiles(updated_democratic_profiles, "new_" + self.democratic_folder)
 
@@ -134,29 +134,29 @@ class ProfileAnonymizer:
         self.modified_profile_folder = modified_profile_folder
 
     def generate_random_name(self, length=5):
-        """生成指定长度的随机大写字母字符串"""
+        """Generate random uppercase string of specified length"""
         return ''.join(random.choice(string.ascii_uppercase) for _ in range(length))
 
     def anonymize_profiles(self):
-        # 确保新的文件夹存在
+        # Ensure new folder exists
         os.makedirs(self.modified_profile_folder, exist_ok=True)
 
-        # 遍历profile文件夹中的每个文件
+        # Iterate through each file in profile folder
         for filename in os.listdir(self.profile_folder):
             if filename.endswith('_profile.json'):
-                # 获取文件路径
+                # Get file path
                 file_path = os.path.join(self.profile_folder, filename)
 
-                # 读取JSON文件
+                # Read JSON file
                 with open(file_path, 'r', encoding='utf-8') as file:
                     data = json.load(file)
 
-                # 生成随机名字
+                # Generate random name
                 random_name = self.generate_random_name()
 
                 data['Name'] = random_name
 
-                # 写入新的文件夹
+                # Write to new folder
                 modified_file_path = os.path.join(self.modified_profile_folder, filename)
                 with open(modified_file_path, 'w', encoding='utf-8') as file:
                     json.dump(data, file, ensure_ascii=False, indent=4)
@@ -164,8 +164,8 @@ class ProfileAnonymizer:
         print("Anonymization completed!")
 
 
-# 使用示例
-# 指定文件夹路径
+# Usage example
+# Specify folder paths
 directory = 'profiles_Sponsor'
 add_name_field_to_json_files(directory)
 
