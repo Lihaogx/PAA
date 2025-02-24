@@ -8,7 +8,6 @@ os.environ["https_proxy"] = "http://localhost:7890"
 
 
 def main():
-    # 设置命令行参数解析
     parser = argparse.ArgumentParser()
     parser.add_argument('--profiles_path', type=str, required=True, help='Path to profiles that need prediction')
     args = parser.parse_args()
