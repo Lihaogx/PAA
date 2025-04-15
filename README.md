@@ -35,10 +35,13 @@ python main.py --profiles_path data/profiles/20-profiles433
 ## Citation
 If you find our paper helpful, please cite:
 ```
-@article{li2024political,
-  title={Political Actor Agent: Simulating Legislative System for Roll Call Votes Prediction with Large Language Models},
+@inproceedings{li2025political,
+  title={Political actor agent: Simulating legislative system for roll call votes prediction with large language models},
   author={Li, Hao and Gong, Ruoyuan and Jiang, Hao},
-  journal={arXiv preprint arXiv:2412.07144},
-  year={2024}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={1},
+  pages={388--396},
+  year={2025}
 }
 ```
