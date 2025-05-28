@@ -4,8 +4,8 @@ import json
 from agent.prompts import public_office_prompts, personal_details_prompts, bills_prompts, committee_and_voting_prompts
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
-os.environ["http_proxy"] = "http://localhost:7890"
-os.environ["https_proxy"] = "http://localhost:7890"
+# os.environ["http_proxy"] = "http://localhost:7890"
+# os.environ["https_proxy"] = "http://localhost:7890"
 
 
 class LegislatorAgent:

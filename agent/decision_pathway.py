@@ -5,8 +5,8 @@ import openai
 import re
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
-os.environ["http_proxy"] = "http://localhost:7890"
-os.environ["https_proxy"] = "http://localhost:7890"
+# os.environ["http_proxy"] = "http://localhost:7890"
+# os.environ["https_proxy"] = "http://localhost:7890"
 
 
 class DecisionPathway:

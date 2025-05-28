@@ -3,8 +3,8 @@ import csv
 from agent import LegislatorAgent
 import sys
 import argparse
-os.environ["http_proxy"] = "http://localhost:7890"
-os.environ["https_proxy"] = "http://localhost:7890"
+# os.environ["http_proxy"] = "http://localhost:7890"
+# os.environ["https_proxy"] = "http://localhost:7890"
 
 
 def main():
@@ -13,9 +13,9 @@ def main():
     args = parser.parse_args()
 
     profiles_path = args.profiles_path 
-    committee_matches_file_path = '/home/lh/PAA/data/committee_match.json'  # No need to modify
-    caucus_matches_file_path = '/home/lh/PAA/data/caucus_match.json'  # No need to modify  
-    output_csv_file = '/home/lh/PAA/results/20-result433.csv'  # Path to save results
+    committee_matches_file_path = 'PAA/data/committee_match.json'  # No need to modify
+    caucus_matches_file_path = 'PAA/data/caucus_match.json'  # No need to modify  
+    output_csv_file = 'PAA/results/20-result433.csv'  # Path to save results
 
     # Open CSV file for writing
     with open(output_csv_file, mode='w', newline='', encoding='utf-8') as csvfile:
